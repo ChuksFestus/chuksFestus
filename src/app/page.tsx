@@ -1,6 +1,12 @@
+"use client";
+
 import Image from "next/image";
-// import styles from "./page.module.css";
+import Container from "@/component/container";
 
 export default function Home() {
-	return <Image src="/logo.svg" alt="Chuks Festus Logo" width={175.15} height={144.59} priority />;
+	return (
+		<Container>
+			<Image src="/logo.svg" alt="Chuks Festus Logo" width={39.08} height={32.87} priority />
+		</Container>
+	);
 }
