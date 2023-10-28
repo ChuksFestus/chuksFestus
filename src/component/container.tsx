@@ -7,18 +7,27 @@ const Main = styled.main`
 	background: var(--not-white);
 	border-radius: 8px;
 	padding: 1rem;
+	padding-top: 2.5rem;
 	height: calc(100vh - 2rem);
+	max-height: 1117px;
 	@media (width <= 425px) {
 		margin: 0.5rem;
 		padding: 0.75rem;
 		padding-top: 1.25rem;
+	}
+	.innerContainer {
+		max-width: 1200px;
+		margin: 0 auto;
+		height: 100%;
 	}
 `;
 
 export default function Container({ children }: { children: React.ReactNode }) {
 	return (
 		<>
-			<Main>{children}</Main>
+			<Main>
+				<div className="innerContainer">{children}</div>
+			</Main>
 		</>
 	);
 }
