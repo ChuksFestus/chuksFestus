@@ -53,17 +53,17 @@ const Container = styled.div`
 const Head = styled.header`
 	height: 100%;
 	.hello {
-		font-family: "SF Mono";
+		font-family: "SFMono-medium";
 		font-weight: 600;
 	}
 	.h1 {
 		text-wrap: nowrap;
-		font-family: "calibre";
+		font-family: "Calibre-semibold";
 		font-weight: 600;
 		padding-top: ${em(2)};
 	}
 	.dis {
-		font-family: "SF Mono";
+		font-family: "SFMono-medium";
 		font-weight: 500;
 		color: var(--dark-blue);
 	}
