@@ -2,43 +2,8 @@ import styled from "styled-components";
 import Navigation from "./nav";
 import Image from "next/image";
 import pic from "../../public/chuksFestus.png";
-import { device, em, rem } from "@/utils";
+import { device, em } from "@/utils";
 import Text from "./text";
-
-// const Container = styled.div`
-// 	display: grid;
-// 	align-items: center;
-// 	height: calc(100% - 80px);
-// 	grid-template-columns: 1fr;
-// 	padding-top: 40px;
-// 	gap: ${em(50)};
-// 	overflow: hidden;
-// 	@media ${device.tablet} {
-// 		display: flex;
-// 		flex-direction: column;
-// 		gap: 20px;
-// 	}
-// 	img {
-// 		width: 100%;
-// 		height: auto;
-// 		@media ${device.mobileL} {
-// 			width: auto;
-// 			height: 100%;
-// 		}
-// 		@media ${device.laptop} {
-// 			width: 100%;
-// 			height: auto;
-// 			object-fit: contain;
-// 		}
-// 	}
-// 	@media ${device.laptop} {
-// 		padding-top: 0;
-// 		grid-template-columns: 1fr 1fr;
-// 	}
-// 	@media ${device.laptopL} {
-// 		grid-template-columns: 1fr ${em(587)};
-// 	}
-// `;
 
 const Container = styled.div`
 	display: flex;
