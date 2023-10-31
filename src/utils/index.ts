@@ -21,3 +21,44 @@ export const device = {
   desktop: `(width >= ${size.desktop})`,
   desktopL: `(width >= ${size.desktop})`,
 };
+
+type Needle = string | PropsFn;
+
+type PropsFn = (props: Record<string, any>) => any;
+
+export const prop =
+  (path: string, defaultValue?: any): PropsFn =>
+  (props = {}) => {
+    if (typeof props[path] !== "undefined") {
+      return props[path];
+    }
+
+    if (path && path.indexOf(".") > 0) {
+      const paths = path.split(".");
+      const { length } = paths;
+      let object: any = props[paths[0]];
+      let index = 1;
+
+      while (object != null && index < length) {
+        object = object ? object[paths[index]] : undefined;
+        index += 1;
+      }
+
+      if (typeof object !== "undefined") {
+        return object;
+      }
+    }
+
+    return defaultValue;
+  };
+
+export const switchProp =
+  (needle: Needle, cases: Object | PropsFn, defaultCase: any): PropsFn =>
+  (props = {}) => {
+    const value = typeof needle === "function" ? needle(props) : prop(needle)(props);
+    const finalCases = typeof cases === "function" ? cases(props) : cases;
+    if (value in finalCases) {
+      return finalCases[value];
+    }
+    return defaultCase;
+  };
