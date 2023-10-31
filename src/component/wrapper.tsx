@@ -13,40 +13,40 @@ const GlobalStyle = createGlobalStyle`
   box-sizing: border-box;
 }
 
-// @font-face {
-//   font-family: 'Calibre';
-//   src: url('/fonts/CalibreSemibold.otf') format('opentype');
-//   font-weight: normal;
-//   font-style: normal;
-// }
+@font-face {
+  font-family: 'Calibre';
+  src: url('/fonts/CalibreSemibold.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
 
-// @font-face {
-//   font-family: 'Calibre-semibold';
-//   src: url('/fonts/CalibreSemibold.otf') format('opentype');
-//   font-weight: 600;
-//   font-style: normal;
-// }
+@font-face {
+  font-family: 'Calibre-semibold';
+  src: url('/fonts/CalibreSemibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
 
-// @font-face {
-//   font-family: 'SFMono-medium';
-//   src: url('/fonts/SFMono-Medium.otf') format('opentype');
-//   font-weight: 500;
-//   font-style: normal;
-// }
+@font-face {
+  font-family: 'SFMono-medium';
+  src: url('/fonts/SFMono-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
 
-// @font-face {
-//   font-family: 'SFMono-semibold';
-//   src: url('/fonts/SFMono-Semibold.otf') format('opentype');
-//   font-weight: 600;
-//   font-style: normal;
-// }
+@font-face {
+  font-family: 'SFMono-semibold';
+  src: url('/fonts/SFMono-Semibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
 
-// @font-face {
-//   font-family: 'SFMono-bold';
-//   src: url('/fonts/SFMono-Bold.otf') format('opentype');
-//   font-weight: 700;
-//   font-style: normal;
-// }
+@font-face {
+  font-family: 'SFMono-bold';
+  src: url('/fonts/SFMono-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
 
 :root {
   --not-white: hsl(0deg 0.35% 97.26%);
@@ -76,19 +76,19 @@ body {
 }
 
 body {
-  // font-family:
-  //   "Calibre",
-  //   system-ui,
-  //   -apple-system,
-  //   BlinkMacSystemFont,
-  //   "Segoe UI",
-  //   Roboto,
-  //   Oxygen,
-  //   Ubuntu,
-  //   Cantarell,
-  //   "Open Sans",
-  //   "Helvetica Neue",
-  //   sans-serif;
+  font-family:
+    "Calibre",
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
   background: var(--gradient);
   color: var(--not-black);
 }
