@@ -1,3 +1,5 @@
+import localFont from "next/font/local";
+
 export const rem = (num: number) => `${num / 16}rem`;
 export const em = (num: number) => `${num / 16}em`;
 
@@ -22,43 +24,37 @@ export const device = {
   desktopL: `(width >= ${size.desktop})`,
 };
 
-type Needle = string | PropsFn;
+export const calibre = localFont({
+  src: [
+    {
+      path: "../../public/fonts/CalibreSemibold.otf",
+      weight: "600",
+      style: "normal",
+    },
+    {
+      path: "../../public/fonts/CalibreRegular.otf",
+      weight: "normal",
+      style: "normal",
+    },
+  ],
+});
 
-type PropsFn = (props: Record<string, any>) => any;
-
-export const prop =
-  (path: string, defaultValue?: any): PropsFn =>
-  (props = {}) => {
-    if (typeof props[path] !== "undefined") {
-      return props[path];
-    }
-
-    if (path && path.indexOf(".") > 0) {
-      const paths = path.split(".");
-      const { length } = paths;
-      let object: any = props[paths[0]];
-      let index = 1;
-
-      while (object != null && index < length) {
-        object = object ? object[paths[index]] : undefined;
-        index += 1;
-      }
-
-      if (typeof object !== "undefined") {
-        return object;
-      }
-    }
-
-    return defaultValue;
-  };
-
-export const switchProp =
-  (needle: Needle, cases: Object | PropsFn, defaultCase: any): PropsFn =>
-  (props = {}) => {
-    const value = typeof needle === "function" ? needle(props) : prop(needle)(props);
-    const finalCases = typeof cases === "function" ? cases(props) : cases;
-    if (value in finalCases) {
-      return finalCases[value];
-    }
-    return defaultCase;
-  };
+export const sfMono = localFont({
+  src: [
+    {
+      path: "../../public/fonts/SFMono-Medium.otf",
+      weight: "500",
+      style: "normal",
+    },
+    {
+      path: "../../public/fonts/SFMono-Semibold.otf",
+      weight: "600",
+      style: "normal",
+    },
+    {
+      path: "../../public/fonts/SFMono-Bold.otf",
+      weight: "700",
+      style: "normal",
+    },
+  ],
+});

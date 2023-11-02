@@ -2,7 +2,7 @@ import styled from "styled-components";
 import Navigation from "./nav";
 import Image from "next/image";
 import pic from "../../public/chuksFestus.png";
-import { device, em } from "@/utils";
+import { calibre, device, em, sfMono } from "@/utils";
 import Text from "./text";
 
 const Container = styled.div`
@@ -14,6 +14,12 @@ const Container = styled.div`
 	padding-top: 40px;
 	overflow: hidden;
 	height: calc(100% - 80px);
+	.content {
+		width: 100%;
+		@media ${device.mobileS} {
+			width: min-content;
+		}
+	}
 	@media ${device.tablet} {
 		padding-top: 0;
 		gap: ${em(50)};
@@ -37,8 +43,11 @@ const Container = styled.div`
 	.socials {
 		padding-top: ${em(48)};
 		display: flex;
-		gap: ${em(28)};
+		gap: ${em(16)};
 		align-items: center;
+		@media ${device.mobileS} {
+			gap: ${em(28)};
+		}
 	}
 	img {
 		width: 100%;
@@ -53,17 +62,14 @@ const Container = styled.div`
 const Head = styled.header`
 	height: 100%;
 	.hello {
-		font-family: "SFMono-medium";
 		font-weight: 600;
 	}
 	.h1 {
 		text-wrap: nowrap;
-		font-family: "Calibre-semibold";
 		font-weight: 600;
 		padding-top: ${em(2)};
 	}
 	.dis {
-		font-family: "SFMono-medium";
 		font-weight: 500;
 		color: var(--dark-blue);
 	}
@@ -74,14 +80,14 @@ export default function Header() {
 		<Head>
 			<Navigation />
 			<Container>
-				<div style={{ width: "min-content" }}>
-					<Text kind="h6" className="hello">
+				<div className="content">
+					<Text kind="h6" className={`hello ${sfMono.className}`}>
 						Hello, I am
 					</Text>
-					<Text kind="h1" className="h1">
+					<Text kind="h1" className={`h1 ${calibre.className}`}>
 						Chuks Festus
 					</Text>
-					<Text kind="h6" className="dis">
+					<Text kind="h6" className={`dis ${sfMono.className}`}>
 						UI Designer & Frontend developer
 					</Text>
 					<div className="socials">

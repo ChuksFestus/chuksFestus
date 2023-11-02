@@ -9,8 +9,13 @@ interface Kinds {
 
 const kinds: Kinds = {
 	h1: `
-    font-size: clamp(3.188rem, 6.511vw + 1.458rem, 5.625rem);
-    line-height: clamp(4.781rem, 6.761vw + 2.985rem, 7.313rem);
+    font-size: clamp(1.875rem, 5.455vw + 1.534rem, 2.625rem);
+		line-height: clamp(2.813rem, 4.364vw + 2.54rem, 3.413rem);
+    @media ${device.mobileS} {
+    	font-size: clamp(3.188rem, 6.511vw + 1.458rem, 5.625rem);
+    	line-height: clamp(4.781rem, 6.761vw + 2.985rem, 7.313rem);
+    	
+    }
     @media ${device.mobileL} {
     	font-size: clamp(3.188rem, 3.125vw + 2.563rem, 4.063rem);
 			line-height: clamp(4.781rem, 1.786vw + 4.424rem, 5.281rem);
