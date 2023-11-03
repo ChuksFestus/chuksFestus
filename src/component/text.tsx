@@ -3,6 +3,7 @@ import styled, { css } from "styled-components";
 
 interface Kinds {
 	h1: string;
+	h2: string;
 	h6: string;
 	base: string;
 }
@@ -24,6 +25,10 @@ const kinds: Kinds = {
     	font-size: clamp(3.188rem, 6.511vw + 1.458rem, 5.625rem);
     	line-height: clamp(4.781rem, 6.761vw + 2.985rem, 7.313rem);
     }
+  `,
+	h2: `
+  	font-size: clamp(2.375rem, 4.841vw + 1.089rem, 4.188rem);
+		line-height: clamp(3.563rem, 5.025vw + 2.228rem, 5.444rem);
   `,
 	h6: `
   	font-size: clamp(1rem, 0.835vw + 0.778rem, 1.313rem);

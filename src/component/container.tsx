@@ -2,7 +2,7 @@
 
 import styled from "styled-components";
 
-const Main = styled.main`
+const Main = styled.div`
 	margin: 1rem 1.25rem;
 	background: var(--not-white);
 	border-radius: 8px;
