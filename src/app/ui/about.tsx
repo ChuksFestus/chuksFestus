@@ -50,8 +50,8 @@ export default function About() {
 					className={`${calibre.className}`}
 					style={{ paddingTop: 12, fontWeight: 600 }}
 				>
-					I'm a <span className="blue">digital craftsman</span> who builds beautiful and functional
-					user interfaces. I'm passionate about creating experiences that are both{" "}
+					I&apos;m a <span className="blue">digital craftsman</span> who builds beautiful and
+					functional user interfaces. I&apos;m passionate about creating experiences that are both{" "}
 					<span className="orange">visually stunning and easy to use</span>.
 				</Text>
 			</div>
