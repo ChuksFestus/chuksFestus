@@ -27,12 +27,12 @@ export const device = {
 export const calibre = localFont({
   src: [
     {
-      path: "../../public/fonts/CalibreSemibold.otf",
+      path: "../../../../public/fonts/CalibreSemibold.otf",
       weight: "600",
       style: "normal",
     },
     {
-      path: "../../public/fonts/CalibreRegular.otf",
+      path: "../../../../public/fonts/CalibreRegular.otf",
       weight: "normal",
       style: "normal",
     },
@@ -42,17 +42,17 @@ export const calibre = localFont({
 export const sfMono = localFont({
   src: [
     {
-      path: "../../public/fonts/SFMono-Medium.otf",
+      path: "../../../../public/fonts/SFMono-Medium.otf",
       weight: "500",
       style: "normal",
     },
     {
-      path: "../../public/fonts/SFMono-Semibold.otf",
+      path: "../../../../public/fonts/SFMono-Semibold.otf",
       weight: "600",
       style: "normal",
     },
     {
-      path: "../../public/fonts/SFMono-Bold.otf",
+      path: "../../../../public/fonts/SFMono-Bold.otf",
       weight: "700",
       style: "normal",
     },

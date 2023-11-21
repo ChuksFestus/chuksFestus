@@ -2,7 +2,7 @@
 
 import styled from "styled-components";
 import Image from "next/image";
-import { device, em } from "@/utils";
+import { device, em } from "../lib/utils";
 
 const Nav = styled.nav`
 	display: flex;

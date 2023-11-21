@@ -1,18 +1,13 @@
 "use client";
 
-import About from "@/component/about";
-import Container from "@/component/container";
-import Header from "@/component/header";
+import About from "./ui/about";
+import Header from "./ui/header";
 
 export default function Home() {
-	return (
-		<>
-			<Container>
-				<Header />
-			</Container>
-			<Container>
-				<About />
-			</Container>
-		</>
-	);
+  return (
+    <>
+      <Header />
+      <About />
+    </>
+  );
 }

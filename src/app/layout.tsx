@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
-import StyledComponentsRegistry from "@/lib/registry";
-import Wrapper from "@/component/wrapper";
-import { calibre, sfMono } from "@/utils";
+import StyledComponentsRegistry from "./lib/registry";
+import Wrapper from "./ui/wrapper";
+import { calibre, sfMono } from "./lib/utils";
 
 export const metadata: Metadata = {
   title: "Chuks Festus",
