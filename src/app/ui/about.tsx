@@ -96,15 +96,20 @@ const Container = styled.div`
 	}
 `;
 
+interface StarElement extends HTMLElement {
+	style: CSSStyleDeclaration;
+}
+
 export default function About() {
 	useEffect(() => {
 		let index = 0;
 		const interval = 1000;
-		const stars = document.getElementsByClassName("magic-star");
+		const stars = Array.from(document.getElementsByClassName("magic-star")) as StarElement[];
 
-		const rand = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
+		const rand = (min: number, max: number): number =>
+			Math.floor(Math.random() * (max - min + 1)) + min;
 
-		const animate = (star) => {
+		const animate = (star: StarElement): void => {
 			star.style.setProperty("--star-left", `${rand(-10, 100)}%`);
 			star.style.setProperty("--star-top", `${rand(-40, 80)}%`);
 
@@ -113,7 +118,7 @@ export default function About() {
 			star.style.animation = "";
 		};
 
-		const startAnimation = () => {
+		const startAnimation = (): void => {
 			for (const star of stars) {
 				animate(star);
 			}
