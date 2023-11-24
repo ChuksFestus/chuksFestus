@@ -7,7 +7,7 @@ import { calibre, device, em, sfMono } from "../lib/utils";
 import pic from "../../../public/chuksFestus.png";
 import { useEffect, useRef } from "react";
 
-const Container = styled.div`
+const Container = styled.section`
 	margin: 1rem 1.25rem;
 	background: var(--not-white);
 	border-radius: 8px;
