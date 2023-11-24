@@ -206,7 +206,7 @@ export default function About() {
 						<span className="toAnimate">
 							I&apos;m a <span className="blue">digital craftsman</span> who builds beautiful and
 							functional user interfaces. I&apos;m <span>passionate </span> about creating
-							experiences that are both
+							experiences that are both{" "}
 						</span>
 						<span className="magic">
 							<Star />
