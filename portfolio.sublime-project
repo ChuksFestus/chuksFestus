@@ -8,8 +8,8 @@
 	],
 	"settings": {
 	// "font_face": "JetBrains Mono",
-	"font_face": "Monaspace Radon",
-	// "font_face": "Monaspace Neon",
+	// "font_face": "Monaspace Radon",
+	"font_face": "Monaspace Neon",
 	"font_size": 11,
 	"font_options": [
 		"calt",

@@ -4,12 +4,276 @@
 		"selected_items":
 		[
 			[
-				"vari",
-				"variant"
+				"Ma",
+				"MagicStar"
+			],
+			[
+				"Star",
+				"Star"
 			],
 			[
 				"Text",
 				"Text"
+			],
+			[
+				"About",
+				"About"
+			],
+			[
+				"setW",
+				"setWord"
+			],
+			[
+				"useEffect",
+				"useEffect"
+			],
+			[
+				"useState",
+				"useState"
+			],
+			[
+				"Social",
+				"Socials"
+			],
+			[
+				"FigmaIcon",
+				"FigmaIcon"
+			],
+			[
+				"DribbbleIcon",
+				"DribbbleIcon"
+			],
+			[
+				"InstagramIcon",
+				"InstagramIcon"
+			],
+			[
+				"TwitterIcon",
+				"TwitterIcon"
+			],
+			[
+				"LinkedinIcon",
+				"LinkedinIcon"
+			],
+			[
+				"GithubIcon",
+				"GithubIcon"
+			],
+			[
+				"FramerMagic",
+				"FramerMagic"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"expo",
+				"export"
+			],
+			[
+				"Link",
+				"LinkedinIcon"
+			],
+			[
+				"useRef",
+				"useRef"
+			],
+			[
+				"MouseEvent",
+				"MouseEvent"
+			],
+			[
+				"ali",
+				"alignItems?"
+			],
+			[
+				"wid",
+				"width?"
+			],
+			[
+				"sty",
+				"style?"
+			],
+			[
+				"sp",
+				"spring"
+			],
+			[
+				"ty",
+				"type?"
+			],
+			[
+				"tran",
+				"transition?"
+			],
+			[
+				"ani",
+				"animate?"
+			],
+			[
+				"setpo",
+				"setPosition"
+			],
+			[
+				"setPo",
+				"setPosition"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"cli",
+				"clientX"
+			],
+			[
+				"mousel",
+				"mouseLeave"
+			],
+			[
+				"mousem",
+				"mouseMove"
+			],
+			[
+				"mouseM",
+				"onMouseMove?"
+			],
+			[
+				"moti",
+				"motion"
+			],
+			[
+				"fram",
+				"framer-motion"
+			],
+			[
+				"Fram",
+				"FramerMagic"
+			],
+			[
+				"Framer",
+				"FramerMagic"
+			],
+			[
+				"Fr",
+				"FramerMagic"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"JS",
+				"JSX"
+			],
+			[
+				"cha",
+				"chars"
+			],
+			[
+				"Slpit",
+				"SplitType"
+			],
+			[
+				"about",
+				"AboutCont"
+			],
+			[
+				"Sp",
+				"SplitText"
+			],
+			[
+				"SplitText",
+				"SplitText"
+			],
+			[
+				"cal",
+				"calibre"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"What",
+				"WhatIdo"
+			],
+			[
+				"lines",
+				"lines,words"
+			],
+			[
+				"ch",
+				"chars"
+			],
+			[
+				"magi",
+				"magicRef"
+			],
+			[
+				"star",
+				"stagger?"
+			],
+			[
+				"false",
+				"false"
+			],
+			[
+				"scroll",
+				"scrollTrigger?"
+			],
+			[
+				"typ",
+				"types?"
+			],
+			[
+				"Splitty",
+				"splitTypes"
+			],
+			[
+				"useLay",
+				"useLayoutEffect"
+			],
+			[
+				"to",
+				"toAnimate"
+			],
+			[
+				"firs",
+				"first-paragraph"
+			],
+			[
+				"fir",
+				"first-paragraph"
+			],
+			[
+				"split",
+				"splitTypes"
+			],
+			[
+				"spli",
+				"splitType"
+			],
+			[
+				"useRe",
+				"useRef"
+			],
+			[
+				"back",
+				"backgroundPan"
+			],
+			[
+				"vari",
+				"variant"
 			],
 			[
 				"namer",
@@ -34,14 +298,6 @@
 			[
 				"HTMLE",
 				"HTMLElement"
-			],
-			[
-				"useRef",
-				"useRef"
-			],
-			[
-				"useEffect",
-				"useEffect"
 			],
 			[
 				"style",
@@ -132,10 +388,6 @@
 				"className?"
 			],
 			[
-				"sty",
-				"style"
-			],
-			[
 				"kin",
 				"kind"
 			],
@@ -168,10 +420,6 @@
 				"height?"
 			],
 			[
-				"wid",
-				"width?"
-			],
-			[
 				"padingb",
 				"paddingBottom?"
 			],
@@ -202,10 +450,6 @@
 			[
 				"window",
 				"windowWidth"
-			],
-			[
-				"cal",
-				"calibre"
 			],
 			[
 				"sfM",
@@ -256,10 +500,6 @@
 				"position?"
 			],
 			[
-				"back",
-				"background"
-			],
-			[
 				"paddingb",
 				"paddingBottom?"
 			],
@@ -274,258 +514,1358 @@
 			[
 				"color",
 				"color?"
-			],
-			[
-				"Signo",
-				"SignoutIcon"
-			],
-			[
-				"flex",
-				"flexDirection?"
-			],
-			[
-				"padd",
-				"padding?"
-			],
-			[
-				"paddingB",
-				"paddingBottom?"
-			],
-			[
-				"bac",
-				"backgroundColor?"
-			],
-			[
-				"s",
-				"style?"
-			],
-			[
-				"abso",
-				"\"absolute\""
-			],
-			[
-				"Pressable",
-				"Pressable"
-			],
-			[
-				"su",
-				"subtle"
-			],
-			[
-				"pri",
-				"primary"
-			],
-			[
-				"prim",
-				"primary"
-			],
-			[
-				"StatusBar",
-				"StatusBar"
-			],
-			[
-				"place",
-				"placeholder"
-			],
-			[
-				"ty",
-				"type?"
-			],
-			[
-				"le",
-				"level_6"
-			],
-			[
-				"ArrowR",
-				"ArrowRight"
-			],
-			[
-				"Arrow",
-				"ArrowRight"
-			],
-			[
-				"ali",
-				"alignItems?"
-			],
-			[
-				"spa",
-				"space-between"
-			],
-			[
-				"Custom",
-				"CustomText"
-			],
-			[
-				"borderbot",
-				"borderBottomWidth?"
-			],
-			[
-				"Card",
-				"CardIcon"
-			],
-			[
-				"Transa",
-				"TransactionIcon"
-			],
-			[
-				"Settings",
-				"SettingsIcon"
-			],
-			[
-				"TransferI",
-				"TransferIcon"
-			],
-			[
-				"Tran",
-				"TransactionIcon"
-			],
-			[
-				"Cur",
-				"CurrencyIcon"
-			],
-			[
-				"Path",
-				"Path"
-			],
-			[
-				"ClipPath",
-				"ClipPath"
-			],
-			[
-				"Defs",
-				"Defs"
-			],
-			[
-				"Svg",
-				"Svg"
-			],
-			[
-				"colors",
-				"colors"
-			],
-			[
-				"IconProps",
-				"IconProps"
-			],
-			[
-				"spaceb",
-				"\"space-between\""
-			],
-			[
-				"dis",
-				"display?"
-			],
-			[
-				"center",
-				"\"center\""
-			],
-			[
-				"wi",
-				"width?"
-			],
-			[
-				"dr",
-				"drawerStyle?"
-			],
-			[
-				"ce",
-				"center"
-			],
-			[
-				"ju",
-				"justifyContent?"
-			],
-			[
-				"retu",
-				"return"
-			],
-			[
-				"draw",
-				"drawerIcon?(props)"
-			],
-			[
-				"HomeIcon",
-				"HomeIcon"
-			],
-			[
-				"drawer",
-				"drawerIcon?"
-			],
-			[
-				"fontsz",
-				"FontSizes"
-			],
-			[
-				"pad",
-				"paddingTop?"
-			],
-			[
-				"TopNav",
-				"TopNav"
-			],
-			[
-				"UserIcon",
-				"UserIcon"
-			],
-			[
-				"StyleSheet",
-				"StyleSheet"
-			],
-			[
-				"Top",
-				"Topnav"
-			],
-			[
-				"SettingsIcon",
-				"SettingsIcon"
-			],
-			[
-				"Setting",
-				"SettingsIcon"
-			],
-			[
-				"SettingsI",
-				"SettingsIcon"
-			],
-			[
-				"UserI",
-				"UserIcon"
-			],
-			[
-				"User",
-				"UserIcon"
-			],
-			[
-				"Transac",
-				"TransactionIcon"
-			],
-			[
-				"HomeI",
-				"HomeIcon"
-			],
-			[
-				"EyeHideIcon",
-				"EyeHideIcon"
-			],
-			[
-				"EyeShowIcon",
-				"EyeShowIcon"
-			],
-			[
-				"EyeSh",
-				"EyeShowIcon"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
+			"file": "src/app/ui/about/index.tsx",
+			"settings":
+			{
+				"buffer_size": 2984,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					37,
+					1,
+					"cut",
+					null,
+					"AQAAAMEGAAAAAAAAwQYAAAAAAAAFAwAACXVzZUVmZmVjdCgoKSA9PiB7CgkJY29uc3QgaW50ZXJ2YWwgPSAxMDAwOwoJCWNvbnN0IHN0YXJzID0gQXJyYXkuZnJvbShkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKCJtYWdpYy1zdGFyIikpIGFzIFN0YXJFbGVtZW50W107CgoJCWNvbnN0IHJhbmQgPSAobWluOiBudW1iZXIsIG1heDogbnVtYmVyKTogbnVtYmVyID0+CgkJCU1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIChtYXggLSBtaW4gKyAxKSkgKyBtaW47CgoJCWNvbnN0IGFuaW1hdGUgPSAoc3RhcjogU3RhckVsZW1lbnQpOiB2b2lkID0+IHsKCQkJc3Rhci5zdHlsZS5zZXRQcm9wZXJ0eSgiLS1zdGFyLWxlZnQiLCBgJHtyYW5kKC0xMCwgMTAwKX0lYCk7CgkJCXN0YXIuc3R5bGUuc2V0UHJvcGVydHkoIi0tc3Rhci10b3AiLCBgJHtyYW5kKC00MCwgODApfSVgKTsKCgkJCXN0YXIuc3R5bGUuYW5pbWF0aW9uID0gIm5vbmUiOwoJCQlzdGFyLm9mZnNldEhlaWdodDsKCQkJc3Rhci5zdHlsZS5hbmltYXRpb24gPSAiIjsKCQl9OwoKCQljb25zdCBzdGFydEFuaW1hdGlvbiA9ICgpOiB2b2lkID0+IHsKCQkJZm9yIChjb25zdCBzdGFyIG9mIHN0YXJzKSB7CgkJCQlhbmltYXRlKHN0YXIpOwoJCQl9CgkJfTsKCgkJc3RhcnRBbmltYXRpb24oKTsKCgkJY29uc3QgaW50ZXJ2YWxJZCA9IHNldEludGVydmFsKCgpID0+IHsKCQkJc3RhcnRBbmltYXRpb24oKTsKCQl9LCBpbnRlcnZhbCk7CgoJCXJldHVybiAoKSA9PiB7CgkJCWNsZWFySW50ZXJ2YWwoaW50ZXJ2YWxJZCk7CgkJfTsKCX0sIFtdKTs",
+					"AQAAAAAAAAABAAAAxgkAAAAAAADBBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"js_prettier",
+					{
+						"auto_format_prettier_config_path": null,
+						"save_file": true
+					},
+					"AgAAAAAAAAAAAAAApwsAAAAAAACpCwAAInVzZSBjbGllbnQiOwppbXBvcnQgeyBNdXRhYmxlUmVmT2JqZWN0LCB1c2VFZmZlY3QsIHVzZUxheW91dEVmZmVjdCwgdXNlUmVmIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgc3R5bGVkIGZyb20gInN0eWxlZC1jb21wb25lbnRzIjsKaW1wb3J0IHsgZ3NhcCB9IGZyb20gImdzYXAiOwppbXBvcnQgeyBTY3JvbGxUcmlnZ2VyIH0gZnJvbSAiZ3NhcC9TY3JvbGxUcmlnZ2VyIjsKCmltcG9ydCBUZXh0IGZyb20gIi4uL3RleHQiOwppbXBvcnQgeyBjYWxpYnJlLCBlbSwgcmVtLCBzZk1vbm8gfSBmcm9tICJAL2FwcC9saWIvdXRpbHMiOwppbXBvcnQgQWJvdXRDb250IGZyb20gIi4vd2hhdElkbyI7CmltcG9ydCBTcGxpdFR5cGUgZnJvbSAic3BsaXQtdHlwZSI7CmltcG9ydCB7IGJhY2tncm91bmRQYW4sIHJvdGF0ZSwgc2NhbGUgfSBmcm9tICIuL2tleWZyYW1lcyI7CmltcG9ydCBNYWdpYyBmcm9tICIuL21hZ2ljIjsKCmNvbnN0IENvbnRhaW5lciA9IHN0eWxlZC5zZWN0aW9uYAoJLS1vcmFuZ2UxOiAjZmY3OTBlOwoJLS1vcmFuZ2UyOiAjZmYwZWFkOwoJbWFyZ2luOiAxcmVtIDEuMjVyZW07CgliYWNrZ3JvdW5kOiB2YXIoLS1ub3Qtd2hpdGUpOwoJYm9yZGVyLXJhZGl1czogJHtlbSg4KX07CglwYWRkaW5nOiAxcmVtOwoJcGFkZGluZy10b3A6IDIuNXJlbTsKCW1pbi1oZWlnaHQ6IGNhbGMoMTAwdmggLSAycmVtKTsKCWRpc3BsYXk6IGZsZXg7CglmbGV4LWRpcmVjdGlvbjogY29sdW1uOwoJanVzdGlmeS1jb250ZW50OiBjZW50ZXI7CgkvLyBtYXgtaGVpZ2h0OiAke3JlbSgxMTE3KX07CglAbWVkaWEgKHdpZHRoIDw9IDQyNXB4KSB7CgkJbWFyZ2luOiAwLjVyZW07CgkJcGFkZGluZzogMC43NXJlbTsKCQlwYWRkaW5nLXRvcDogMS4yNXJlbTsKCQloZWlnaHQ6IDEwMCU7Cgl9CgkuaW5uZXJDb250YWluZXIgewoJCW1heC13aWR0aDogJHtyZW0oMTIwMCl9OwoJCW1hcmdpbjogMCBhdXRvOwoJCWhlaWdodDogMTAwJTsKCQlkaXNwbGF5OiBmbGV4OwoJCWp1c3RpZnktY29udGVudDogY2VudGVyOwoJCWZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CgkJaGVpZ2h0OiAiMTAwJSI7CgkJaDYgewoJCQlwYWRkaW5nLWJvdHRvbTogJHtyZW0oMzIpfTsKCQl9CgkJLmJsdWUgewoJCQliYWNrZ3JvdW5kOiAtd2Via2l0LWxpbmVhci1ncmFkaWVudCgwZGVnLCAjNWMwMmZmIDAlLCAjMjEwMDVjIDEwMi41NiUpOwoJCQktd2Via2l0LWJhY2tncm91bmQtY2xpcDogdGV4dDsKCQkJLXdlYmtpdC10ZXh0LWZpbGwtY29sb3I6IHRyYW5zcGFyZW50OwoJCX0KCQkub3JhbmdlIHsKCQkJYmFja2dyb3VuZDogLXdlYmtpdC1saW5lYXItZ3JhZGllbnQoMGRlZywgI2ZmNzkwZSAwJSwgI2ZmMGVhZCAxMDIuNTYlKTsKCQkJLXdlYmtpdC1iYWNrZ3JvdW5kLWNsaXA6IHRleHQ7CgkJCS13ZWJraXQtdGV4dC1maWxsLWNvbG9yOiB0cmFuc3BhcmVudDsKCQkJYW5pbWF0aW9uOiAke2JhY2tncm91bmRQYW59IDNzIGxpbmVhciBpbmZpbml0ZTsKCQkJYmFja2dyb3VuZC1zaXplOiAyMDAlOwoJCX0KCX0KYDsKCmludGVyZmFjZSBTdGFyRWxlbWVudCBleHRlbmRzIEhUTUxFbGVtZW50IHsKCXN0eWxlOiBDU1NTdHlsZURlY2xhcmF0aW9uOwp9Cgpnc2FwLnJlZ2lzdGVyUGx1Z2luKFNjcm9sbFRyaWdnZXIpOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQWJvdXQoKSB7Cgljb25zdCBtYWdpY1JlZiA9IHVzZVJlZihudWxsKTsKCXVzZU1hZ2ljQW5pbWF0aW9uKG1hZ2ljUmVmKTsKCgoJcmV0dXJuICgKCQk8Q29udGFpbmVyPgoJCQk8ZGl2IGNsYXNzTmFtZT0iaW5uZXJDb250YWluZXIiIHJlZj17bWFnaWNSZWZ9PgoJCQkJPFRleHQgdmFyaWFudD0iaDYiIGNsYXNzTmFtZT17YCR7c2ZNb25vLmNsYXNzTmFtZX1gfT4KCQkJCQlBYm91dCBNZQoJCQkJPC9UZXh0PgoJCQkJPGRpdj4KCQkJCQk8VGV4dAoJCQkJCQl2YXJpYW50PSJoMiIKCQkJCQkJY2xhc3NOYW1lPXtgJHtjYWxpYnJlLmNsYXNzTmFtZX0gaDJgfQoJCQkJCQlzdHlsZT17eyBwYWRkaW5nVG9wOiAxMiwgZm9udFdlaWdodDogNjAwIH19CgkJCQkJPgoJCQkJCQk8c3BhbiBjbGFzc05hbWU9InRvQW5pbWF0ZSI+CgkJCQkJCQlJJmFwb3M7bSBhIDxzcGFuIGNsYXNzTmFtZT0iYmx1ZSI+ZGlnaXRhbCBjcmFmdHNtYW48L3NwYW4+IHdobyBidWlsZHMgYmVhdXRpZnVsIGFuZAoJCQkJCQkJZnVuY3Rpb25hbCB1c2VyIGludGVyZmFjZXMuIEkmYXBvczttIDxzcGFuPnBhc3Npb25hdGUgPC9zcGFuPiBhYm91dCBjcmVhdGluZwoJCQkJCQkJZXhwZXJpZW5jZXMgdGhhdCBhcmUgYm90aHsiICJ9CgkJCQkJCTwvc3Bhbj4KCQkJCQkJPE1hZ2ljIC8+CgkJCQkJPC9UZXh0PgoJCQkJPC9kaXY+CgkJCQk8QWJvdXRDb250IC8+CgkJCTwvZGl2PgoJCTwvQ29udGFpbmVyPgoJKTsKfQoKdHlwZSBUYXJnZXRFbGVtZW50ID0gSFRNTEVsZW1lbnQ7Cgpjb25zdCBhbmltYXRlRWxlbWVudCA9IChjaGFyOiBUYXJnZXRFbGVtZW50KSA9PiB7Cgljb25zdCB0ZXh0ID0gbmV3IFNwbGl0VHlwZShjaGFyLCB7IHR5cGVzOiAiY2hhcnMiIH0pOwoJZ3NhcC5mcm9tKHRleHQuY2hhcnMsIHsKCQlzY3JvbGxUcmlnZ2VyOiB7CgkJCXRyaWdnZXI6IGNoYXIsCgkJCXN0YXJ0OiAidG9wIDgwJSIsCgkJCWVuZDogInRvcCAyMCUiLAoJCQlzY3J1YjogdHJ1ZSwKCQkJbWFya2VyczogZmFsc2UsCgkJfSwKCQlvcGFjaXR5OiAwLjIsCgkJc3RhZ2dlcjogMC4xLAoJfSk7Cn07Cgpjb25zdCB1c2VNYWdpY0FuaW1hdGlvbiA9IChtYWdpY1JlZjogTXV0YWJsZVJlZk9iamVjdDxIVE1MRWxlbWVudCB8IG51bGw+KSA9PiB7Cgl1c2VMYXlvdXRFZmZlY3QoKCkgPT4gewoJCWlmIChtYWdpY1JlZi5jdXJyZW50KSB7CgkJCWNvbnN0IHNwbGl0VHlwZXMgPSBtYWdpY1JlZi5jdXJyZW50LnF1ZXJ5U2VsZWN0b3JBbGw8VGFyZ2V0RWxlbWVudD4oIi50b0FuaW1hdGUiKTsKCQkJc3BsaXRUeXBlcy5mb3JFYWNoKGFuaW1hdGVFbGVtZW50KTsKCQl9Cgl9LCBbbWFnaWNSZWZdKTsKfTsKpwsAAAAAAACoCwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "src/app/ui/about/keyframes.ts",
+			"settings":
+			{
+				"buffer_size": 434,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAawEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAABYAAAAAAAAAFgAAAAAAAAAJAAAAa2V5ZnJhbWVzFgAAAAAAAAAfAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									0,
+									0
+								],
+								[
+									0,
+									0
+								],
+								"import { keyframes } from \"styled-components\";\n\n",
+								null
+							]
+						]
+					},
+					"AQAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "export"
+					},
+					"EgAAACkBAAAAAAAAKgEAAAAAAAAAAAAAugAAAAAAAAC7AAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAACwBAAAAAAAALQEAAAAAAAAAAAAAvAAAAAAAAAC9AAAAAAAAAAAAAAAxAAAAAAAAADIAAAAAAAAAAAAAAC8BAAAAAAAAMAEAAAAAAAAAAAAAvgAAAAAAAAC/AAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAADIBAAAAAAAAMwEAAAAAAAAAAAAAwAAAAAAAAADBAAAAAAAAAAAAAAAzAAAAAAAAADQAAAAAAAAAAAAAADUBAAAAAAAANgEAAAAAAAAAAAAAwgAAAAAAAADDAAAAAAAAAAAAAAA0AAAAAAAAADUAAAAAAAAAAAAAADgBAAAAAAAAOQEAAAAAAAAAAAAAxAAAAAAAAADFAAAAAAAAAAAAAAA1AAAAAAAAADYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAADAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/ugAAAAAAAAC6AAAAAAAAAAAAAAAAAPC/KQEAAAAAAAApAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AwAAADsBAAAAAAAAPAEAAAAAAAAAAAAAxgAAAAAAAADHAAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAADAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/xgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/OwEAAAAAAAA7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"js_prettier",
+					{
+						"auto_format_prettier_config_path": null,
+						"save_file": true
+					},
+					"AgAAAAAAAAAAAAAAsQEAAAAAAACwAQAAaW1wb3J0IHsga2V5ZnJhbWVzIH0gZnJvbSAic3R5bGVkLWNvbXBvbmVudHMiOwoKZXhwb3J0IGNvbnN0IGJhY2tncm91bmRQYW4gPSBrZXlmcmFtZXNgCiBmcm9tIHsKICAgIGJhY2tncm91bmQtcG9zaXRpb246IDAlIGNlbnRlcjsKICB9CiAgCiAgdG8gewogICAgYmFja2dyb3VuZC1wb3NpdGlvbjogLTIwMCUgY2VudGVyOwogIH0KYDsKCmV4cG9ydCBjb25zdCBzY2FsZSA9IGtleWZyYW1lc2AKICBmcm9tLCB0byB7CiAgICB0cmFuc2Zvcm06IHNjYWxlKDApOwogIH0KICAKICA1MCUgewogICAgdHJhbnNmb3JtOiBzY2FsZSgxKTsKICB9CmA7CgpleHBvcnQgY29uc3Qgcm90YXRlID0ga2V5ZnJhbWVzYAoJZnJvbSB7CiAgICB0cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsKICB9CiAgCiAgdG8gewogICAgdHJhbnNmb3JtOiByb3RhdGUoMTgwZGVnKTsKICB9CmA7sQEAAAAAAACyAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsAEAAAAAAACwAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "src/app/ui/about/whatIdo.tsx",
+			"settings":
+			{
+				"buffer_size": 2321,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAIQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "Cont"
+					},
+					"BAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "}"
+					},
+					"AQAAACUAAAAAAAAAJgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAJwAAAAAAAAAnAAAAAAAAAAEAAAAJAQAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACxA"
+				],
+				[
+					22,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAzQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAM0CAAAAAAAAzgIAAAAAAAAAAAAAzgIAAAAAAADPAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzQIAAAAAAADNAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAABAAAAAAAAAAEAAAAAAAAAAGAAAAc3R5bGVkEAAAAAAAAAAWAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									0,
+									0
+								],
+								[
+									0,
+									0
+								],
+								"import styled from \"styled-components\";\n\n",
+								null
+							]
+						]
+					},
+					"AQAAAAAAAAAAAAAAKQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAFUAAAAAAAAAVQAAAAAAAAADAAAAcmVtVQAAAAAAAABYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									1,
+									0
+								],
+								[
+									1,
+									0
+								],
+								"import { rem } from \"../lib/utils\";\n",
+								null
+							]
+						]
+					},
+					"AQAAACgAAAAAAAAATAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"js_prettier",
+					{
+						"auto_format_prettier_config_path": null,
+						"save_file": true
+					},
+					"AgAAAAAAAAAAAAAAQgMAAAAAAABGAwAAaW1wb3J0IHN0eWxlZCBmcm9tICJzdHlsZWQtY29tcG9uZW50cyI7CmltcG9ydCB7IHJlbSB9IGZyb20gIi4uL2xpYi91dGlscyI7Cgpjb25zdCBXaGF0SWRvID0gc3R5bGVkLmRpdmAKCXBhZGRpbmctdG9wOiAke3JlbSgyMDApfTsKCglkZXRhaWxzIHsKCQlib3JkZXItdG9wOiAwLjVweCBzb2xpZCB2YXIoLS1ncmF5LTQpOwoJCWN1cnNvcjogcG9pbnRlcjsKCQlwIHsKCQkJZm9udC1zaXplOiAke3JlbSgzOCl9OwoJCQlwYWRkaW5nLWJvdHRvbTogJHtyZW0oMzIpfTsKCQkJY29sb3I6IGhzbGEoMCwgMCUsIDMxJSwgMSk7CgkJfQoJfQoJc3VtbWFyeSB7CgkJcG9zaXRpb246IHJlbGF0aXZlOwoJfQoJc3VtbWFyeTo6YmVmb3JlLAoJc3VtbWFyeTo6YWZ0ZXIgewoJCWNvbnRlbnQ6ICIiOwoJfQoJc3VtbWFyeTo6YmVmb3JlLAoJc3VtbWFyeTo6YWZ0ZXIgewoJCXdpZHRoOiAwLjc1ZW07CgkJaGVpZ2h0OiAwOwoJCWJvcmRlci1ib3R0b206IDJweCBzb2xpZDsKCQlwb3NpdGlvbjogYWJzb2x1dGU7CgkJdG9wOiBjYWxjKDUwJSAtIDFweCk7CgkJcmlnaHQ6IDA7CgkJdHJhbnNmb3JtOiB0cmFuc2xhdGVZKC01MCUpOwoJfQoJc3VtbWFyeTo6YWZ0ZXIgewoJCXRyYW5zZm9ybTogcm90YXRlKDkwZGVnKTsKCQl0cmFuc2Zvcm0tb3JpZ2luOiA1MCUgNTAlOwoJfQoJW29wZW5dIHN1bW1hcnk6OmFmdGVyIHsKCQl0cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsKCX0KCXN1bW1hcnkgewoJCXBhZGRpbmc6ICR7cmVtKDIwKX0gMDsKCX0KCXN1bW1hcnk6Om1hcmtlciB7CgkJY29udGVudDogbm9uZTsKCX0KYDsKCgoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQWJvdXRDb250KCkgewoKfUIDAAAAAAAAQwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArgEAAAAAAACuAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAAEEDAAAAAAAAQgMAAAAAAAAAAAAAQgMAAAAAAABDAwAAAAAAAAAAAABCAwAAAAAAAEMDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQQMAAAAAAABBAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "return"
+					},
+					"BgAAAEMDAAAAAAAARAMAAAAAAAAAAAAARAMAAAAAAABFAwAAAAAAAAAAAABFAwAAAAAAAEYDAAAAAAAAAAAAAEYDAAAAAAAARwMAAAAAAAAAAAAARwMAAAAAAABIAwAAAAAAAAAAAABIAwAAAAAAAEkDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwMAAAAAAABDAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEkDAAAAAAAASgMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQMAAAAAAABJAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAEoDAAAAAAAATAMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASgMAAAAAAABKAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"CAAAAEsDAAAAAAAATAMAAAAAAAAAAAAATAMAAAAAAABNAwAAAAAAAAAAAABNAwAAAAAAAE4DAAAAAAAAAAAAAE4DAAAAAAAATwMAAAAAAAAAAAAATAMAAAAAAABMAwAAAAAAAAEAAAAJTQMAAAAAAABNAwAAAAAAAAEAAAAJTQMAAAAAAABPAwAAAAAAAAAAAABMAwAAAAAAAE4DAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwMAAAAAAABLAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"left_delete",
+					null,
+					"AgAAAFADAAAAAAAAUAMAAAAAAAABAAAACUwDAAAAAAAATAMAAAAAAAACAAAACQk",
+					"AQAAAAAAAAABAAAAUQMAAAAAAABRAwAAAAAAAAAAAAAAADtA"
+				],
+				[
+					48,
+					1,
+					"reindent",
+					null,
+					"AQAAAEwDAAAAAAAATgMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATAMAAAAAAABMAwAAAAAAAAAAAAAAACxA"
+				],
+				[
+					50,
+					1,
+					"paste",
+					null,
+					"AQAAAE4DAAAAAAAAKAkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgMAAAAAAABOAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"js_prettier",
+					{
+						"auto_format_prettier_config_path": null,
+						"save_file": true
+					},
+					"AgAAAAAAAAAAAAAA2ggAAAAAAAAuCQAAaW1wb3J0IHN0eWxlZCBmcm9tICJzdHlsZWQtY29tcG9uZW50cyI7CmltcG9ydCB7IHJlbSB9IGZyb20gIi4uL2xpYi91dGlscyI7Cgpjb25zdCBXaGF0SWRvID0gc3R5bGVkLmRpdmAKCXBhZGRpbmctdG9wOiAke3JlbSgyMDApfTsKCglkZXRhaWxzIHsKCQlib3JkZXItdG9wOiAwLjVweCBzb2xpZCB2YXIoLS1ncmF5LTQpOwoJCWN1cnNvcjogcG9pbnRlcjsKCQlwIHsKCQkJZm9udC1zaXplOiAke3JlbSgzOCl9OwoJCQlwYWRkaW5nLWJvdHRvbTogJHtyZW0oMzIpfTsKCQkJY29sb3I6IGhzbGEoMCwgMCUsIDMxJSwgMSk7CgkJfQoJfQoJc3VtbWFyeSB7CgkJcG9zaXRpb246IHJlbGF0aXZlOwoJfQoJc3VtbWFyeTo6YmVmb3JlLAoJc3VtbWFyeTo6YWZ0ZXIgewoJCWNvbnRlbnQ6ICIiOwoJfQoJc3VtbWFyeTo6YmVmb3JlLAoJc3VtbWFyeTo6YWZ0ZXIgewoJCXdpZHRoOiAwLjc1ZW07CgkJaGVpZ2h0OiAwOwoJCWJvcmRlci1ib3R0b206IDJweCBzb2xpZDsKCQlwb3NpdGlvbjogYWJzb2x1dGU7CgkJdG9wOiBjYWxjKDUwJSAtIDFweCk7CgkJcmlnaHQ6IDA7CgkJdHJhbnNmb3JtOiB0cmFuc2xhdGVZKC01MCUpOwoJfQoJc3VtbWFyeTo6YWZ0ZXIgewoJCXRyYW5zZm9ybTogcm90YXRlKDkwZGVnKTsKCQl0cmFuc2Zvcm0tb3JpZ2luOiA1MCUgNTAlOwoJfQoJW29wZW5dIHN1bW1hcnk6OmFmdGVyIHsKCQl0cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsKCX0KCXN1bW1hcnkgewoJCXBhZGRpbmc6ICR7cmVtKDIwKX0gMDsKCX0KCXN1bW1hcnk6Om1hcmtlciB7CgkJY29udGVudDogbm9uZTsKCX0KYDsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEFib3V0Q29udCgpIHsKCXJldHVybiAoCgkJCQkJCTxXaGF0SWRvPgoJCQkJCTxUZXh0IHZhcmlhbnQ9Img2IiBjbGFzc05hbWU9e2Ake3NmTW9uby5jbGFzc05hbWV9YH0+CgkJCQkJCVdoYXQgSSBkbwoJCQkJCTwvVGV4dD4KCQkJCQk8ZGV0YWlscz4KCQkJCQkJPHN1bW1hcnk+CgkJCQkJCQk8VGV4dCB2YXJpYW50PSJoMiIgY2xhc3NOYW1lPXtgJHtjYWxpYnJlLmNsYXNzTmFtZX1gfT4KCQkJCQkJCQlGcm9udGVuZCBkZXZlbG9wbWVudAoJCQkJCQkJPC9UZXh0PgoJCQkJCQk8L3N1bW1hcnk+CgkJCQkJCTxwIGNsYXNzTmFtZT17YCR7Y2FsaWJyZS5jbGFzc05hbWV9YH0+CgkJCQkJCQlJIHNoYXBlIHRoZSB3ZWIgd2l0aCBhcnQgYW5kIGxvZ2ljLCBDcmVhdGluZyBmcm9udCBlbmQgYXBwbGljYXRpb25zIHRoYXQgYXJlIGR5bmFtaWMKCQkJCQkJCWFuZCBlcmdvbm9taWMuIEkgZGVzaWduLCBidWlsZCwgdGVzdCBhbmQgbWFpbnRhaW4gd2l0aCBjYXJlIGFuZCBwcmVjaXNpb24sIEVuc3VyaW5nCgkJCQkJCQlzY2FsYWJpbGl0eSBhbmQgcGVyZm9ybWFuY2UgaW4gZXZlcnkgY29uZGl0aW9uLgoJCQkJCQk8L3A+CgkJCQkJPC9kZXRhaWxzPgoJCQkJCTxkZXRhaWxzPgoJCQkJCQk8c3VtbWFyeT4KCQkJCQkJCTxUZXh0IHZhcmlhbnQ9ImgyIiBjbGFzc05hbWU9e2Ake2NhbGlicmUuY2xhc3NOYW1lfWB9PgoJCQkJCQkJCU1vYmlsZSBEZXZlbG9wbWVudAoJCQkJCQkJPC9UZXh0PgoJCQkJCQk8L3N1bW1hcnk+CgkJCQkJCTxwIGNsYXNzTmFtZT17YCR7Y2FsaWJyZS5jbGFzc05hbWV9YH0+CgkJCQkJCQlJIHNoYXBlIHRoZSB3ZWIgd2l0aCBhcnQgYW5kIGxvZ2ljLCBDcmVhdGluZyBmcm9udCBlbmQgYXBwbGljYXRpb25zIHRoYXQgYXJlIGR5bmFtaWMKCQkJCQkJCWFuZCBlcmdvbm9taWMuIEkgZGVzaWduLCBidWlsZCwgdGVzdCBhbmQgbWFpbnRhaW4gd2l0aCBjYXJlIGFuZCBwcmVjaXNpb24sIEVuc3VyaW5nCgkJCQkJCQlzY2FsYWJpbGl0eSBhbmQgcGVyZm9ybWFuY2UgaW4gZXZlcnkgY29uZGl0aW9uLgoJCQkJCQk8L3A+CgkJCQkJPC9kZXRhaWxzPgoJCQkJCTxkZXRhaWxzPgoJCQkJCQk8c3VtbWFyeT4KCQkJCQkJCTxUZXh0IHZhcmlhbnQ9ImgyIiBjbGFzc05hbWU9e2Ake2NhbGlicmUuY2xhc3NOYW1lfWB9PgoJCQkJCQkJCVVJL1VYIGRlc2lnbgoJCQkJCQkJPC9UZXh0PgoJCQkJCQk8L3N1bW1hcnk+CgkJCQkJCTxwIGNsYXNzTmFtZT17YCR7Y2FsaWJyZS5jbGFzc05hbWV9YH0+CgkJCQkJCQlJIHNoYXBlIHRoZSB3ZWIgd2l0aCBhcnQgYW5kIGxvZ2ljLCBDcmVhdGluZyBmcm9udCBlbmQgYXBwbGljYXRpb25zIHRoYXQgYXJlIGR5bmFtaWMKCQkJCQkJCWFuZCBlcmdvbm9taWMuIEkgZGVzaWduLCBidWlsZCwgdGVzdCBhbmQgbWFpbnRhaW4gd2l0aCBjYXJlIGFuZCBwcmVjaXNpb24sIEVuc3VyaW5nCgkJCQkJCQlzY2FsYWJpbGl0eSBhbmQgcGVyZm9ybWFuY2UgaW4gZXZlcnkgY29uZGl0aW9uLgoJCQkJCQk8L3A+CgkJCQkJPC9kZXRhaWxzPgoJCQkJPC9XaGF0SWRvPgoJKQp9CtoIAAAAAAAA2wgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAkAAAAAAAAoCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAFwDAAAAAAAAXAMAAAAAAAAEAAAAVGV4dFwDAAAAAAAAYAMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYAMAAAAAAABgAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									2,
+									0
+								],
+								[
+									2,
+									0
+								],
+								"import Text from \"./text\";\n",
+								null
+							]
+						]
+					},
+					"AQAAAEwAAAAAAAAAZwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYAMAAAAAAABgAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAJcDAAAAAAAAlwMAAAAAAAAGAAAAc2ZNb25vlwMAAAAAAACdAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnQMAAAAAAACdAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									1,
+									12
+								],
+								[
+									1,
+									12
+								],
+								", sfMono",
+								null
+							]
+						]
+					},
+					"AQAAADQAAAAAAAAAPAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnQMAAAAAAACdAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAA4EAAAAAAAADgQAAAAAAAAHAAAAY2FsaWJyZQ4EAAAAAAAAFQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQQAAAAAAAAVBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									1,
+									9
+								],
+								[
+									1,
+									9
+								],
+								"calibre, ",
+								null
+							]
+						]
+					},
+					"AQAAADEAAAAAAAAAOgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQQAAAAAAAAVBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					2,
+					"left_delete",
+					null,
+					"AgAAAE8AAAAAAAAATwAAAAAAAAABAAAALk4AAAAAAAAATgAAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAAUAAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					88,
+					1,
+					"insert",
+					{
+						"characters": "@/app"
+					},
+					"BQAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFEAAAAAAAAAAAAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"paste",
+					null,
+					"AgAAAE8AAAAAAAAAXQAAAAAAAAAAAAAAXQAAAAAAAABdAAAAAAAAAA4AAAAvYXBwL2xpYi91dGlscw",
+					"AQAAAAAAAAABAAAATwAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"left_delete",
+					null,
+					"AQAAAE4AAAAAAAAATgAAAAAAAAAPAAAAQC9hcHAvbGliL3V0aWxz",
+					"AQAAAAAAAAABAAAATgAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"paste",
+					null,
+					"AgAAACgAAAAAAAAAYwAAAAAAAAAAAAAAYwAAAAAAAABjAAAAAAAAACgAAABpbXBvcnQgeyBjYWxpYnJlLCByZW0sIHNmTW9ubyB9IGZyb20gIiI7",
+					"AQAAAAAAAAABAAAAUAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					3,
+					"left_delete",
+					null,
+					"AwAAAFQAAAAAAAAAVAAAAAAAAAADAAAAYXBwUwAAAAAAAABTAAAAAAAAAAEAAAAvUgAAAAAAAABSAAAAAAAAAAEAAABA",
+					"AQAAAAAAAAABAAAAVAAAAAAAAABXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					1,
+					"insert",
+					{
+						"characters": "../.."
+					},
+					"BQAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAFUAAAAAAAAAVgAAAAAAAAAAAAAAVgAAAAAAAABXAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					128,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAGEAAAAAAAAAYgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					136,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFIAAAAAAAAAUgAAAAAAAAAQAAAALi4vLi4vbGliL3V0aWxzLw",
+					"AQAAAAAAAAABAAAAUgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					137,
+					1,
+					"insert",
+					{
+						"characters": "../"
+					},
+					"AwAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					146,
+					1,
+					"insert",
+					{
+						"characters": "../"
+					},
+					"AwAAAFUAAAAAAAAAVgAAAAAAAAAAAAAAVgAAAAAAAABXAAAAAAAAAAAAAABXAAAAAAAAAFgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					154,
+					2,
+					"insert_dimensions",
+					null,
+					"AgAAAFgAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABiAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					155,
+					1,
+					"insert_dimensions",
+					null,
+					"AQAAAGIAAAAAAAAAagAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					162,
+					2,
+					"left_delete",
+					null,
+					"AgAAAGgAAAAAAAAAaAAAAAAAAAACAAAAdHNnAAAAAAAAAGcAAAAAAAAAAQAAAC4",
+					"AQAAAAAAAAABAAAAaAAAAAAAAABqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					172,
+					1,
+					"cut",
+					null,
+					"AQAAAGoAAAAAAAAAagAAAAAAAAAbAAAAaW1wb3J0IFRleHQgZnJvbSAiLi90ZXh0IjsK",
+					"AQAAAAAAAAABAAAAhAAAAAAAAACEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					179,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAHoDAAAAAAAAegMAAAAAAAAEAAAAVGV4dHoDAAAAAAAAfgMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgMAAAAAAAB+AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					180,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									2,
+									0
+								],
+								[
+									2,
+									0
+								],
+								"import Text from \"../text\";\n",
+								null
+							]
+						]
+					},
+					"AQAAAGoAAAAAAAAAhgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgMAAAAAAAB+AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					187,
+					3,
+					"left_delete",
+					null,
+					"AwAAADoAAAAAAAAAOgAAAAAAAAACAAAAZW05AAAAAAAAADkAAAAAAAAAAQAAACA4AAAAAAAAADgAAAAAAAAAAQAAACw",
+					"AQAAAAAAAAABAAAAOgAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					192,
+					2,
+					"left_delete",
+					null,
+					"AgAAAE8AAAAAAAAATwAAAAAAAAAEAAAALi8uLk4AAAAAAAAATgAAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAAUwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					193,
+					1,
+					"insert",
+					{
+						"characters": "@/app"
+					},
+					"BQAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFEAAAAAAAAAAAAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "src/app/ui/svgs.tsx",
+			"settings":
+			{
+				"buffer_size": 6020,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "rf"
+					},
+					"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAcmYAAAAAAAAAAF8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "Svgs"
+					},
+					"BQAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA0AAAAAAAAAAQAAABzdmdzNAAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					4,
+					"left_delete",
+					null,
+					"BAAAADYAAAAAAAAANgAAAAAAAAABAAAAczUAAAAAAAAANQAAAAAAAAABAAAAZzQAAAAAAAAANAAAAAAAAAABAAAAdjMAAAAAAAAAMwAAAAAAAAABAAAAUw",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "GithubIco"
+					},
+					"CQAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "n"
+					},
+					"AQAAADwAAAAAAAAAPQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"paste",
+					null,
+					"AgAAAE4AAAAAAAAAnwMAAAAAAAAAAAAAnwMAAAAAAACfAwAAAAAAABIAAAA8ZGl2PgoJCQkKCQk8L2Rpdj4",
+					"AQAAAAAAAAABAAAATgAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"js_prettier",
+					{
+						"auto_format_prettier_config_path": null,
+						"save_file": true
+					},
+					"AgAAAAAAAAAAAAAAiAMAAAAAAACkAwAAaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gR2l0aHViSWNvbigpIHsKCXJldHVybiAoCgkJPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNyIgaGVpZ2h0PSIyNiIgZmlsbD0ibm9uZSI+CgkJCQkJCQkJCTxwYXRoCgkJCQkJCQkJCQlmaWxsPSIjMDUyRTQwIgoJCQkJCQkJCQkJZD0iTTEzLjExMyAwQzUuODY4LS4wMDMgMCA1Ljg2MiAwIDEzLjEwMmMwIDUuNzI0IDMuNjcgMTAuNTkgOC43ODMgMTIuMzc4LjY4OS4xNzIuNTgzLS4zMTcuNTgzLS42NXYtMi4yNzFjLTMuOTc1LjQ2NS00LjEzNy0yLjE2NS00LjQwMy0yLjYwNS0uNTQtLjkyLTEuODE0LTEuMTU0LTEuNDMzLTEuNTk0LjkwNi0uNDY1IDEuODI4LjExNyAyLjg5OCAxLjY5Ny43NzMgMS4xNDUgMi4yODIuOTUyIDMuMDQ3Ljc2MWEzLjY5NSAzLjY5NSAwIDAgMSAxLjAxNi0xLjc4Yy00LjExOS0uNzQtNS44MzYtMy4yNTMtNS44MzYtNi4yNDEgMC0xLjQ1LjQ3OC0yLjc4MyAxLjQxNS0zLjg1OS0uNTk3LTEuNzcyLjA1Ni0zLjI5LjE0NC0zLjUxNSAxLjcwMi0uMTUyIDMuNDcyIDEuMjE5IDMuNjEgMS4zMjcuOTY2LS4yNiAyLjA3LS4zOTggMy4zMDctLjM5OCAxLjI0MiAwIDIuMzUuMTQzIDMuMzI1LjQwNy4zMzEtLjI1MiAxLjk3Mi0xLjQzIDMuNTU0LTEuMjg2LjA4NS4yMjUuNzIzIDEuNzA4LjE2IDMuNDU3Ljk1IDEuMDc4IDEuNDMzIDIuNDIyIDEuNDMzIDMuODc2IDAgMi45OTQtMS43MjggNS41MS01Ljg1OSA2LjIzN2EzLjczMyAzLjczMyAwIDAgMSAxLjExNiAyLjY2NnYzLjI5NmMuMDI0LjI2NCAwIC41MjQuNDQuNTI0IDUuMTg4LTEuNzQ5IDguOTI0LTYuNjUgOC45MjQtMTIuNDI1QzI2LjIyNCA1Ljg2MiAyMC4zNTIgMCAxMy4xMTQgMFoiCgkJCQkJCQkJCS8+CgkJCQkJCQkJPC9zdmc+CgkpCn2IAwAAAAAAAIkDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnwMAAAAAAACfAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					2,
+					"left_delete",
+					null,
+					"AgAAACMAAAAAAAAAIwAAAAAAAAAHAAAAZGVmYXVsdCIAAAAAAAAAIgAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAIwAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": "\n\n\ne"
+					},
+					"BAAAAIADAAAAAAAAgQMAAAAAAAAAAAAAgQMAAAAAAACCAwAAAAAAAAAAAACCAwAAAAAAAIMDAAAAAAAAAAAAAIMDAAAAAAAAhAMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAMAAAAAAACAAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "xpor"
+					},
+					"BAAAAIQDAAAAAAAAhQMAAAAAAAAAAAAAhQMAAAAAAACGAwAAAAAAAAAAAACGAwAAAAAAAIcDAAAAAAAAAAAAAIcDAAAAAAAAiAMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAMAAAAAAACEAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					5,
+					"left_delete",
+					null,
+					"BQAAAIcDAAAAAAAAhwMAAAAAAAABAAAAcoYDAAAAAAAAhgMAAAAAAAABAAAAb4UDAAAAAAAAhQMAAAAAAAABAAAAcIQDAAAAAAAAhAMAAAAAAAABAAAAeIMDAAAAAAAAgwMAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAiAMAAAAAAACIAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "rfc"
+					},
+					"AwAAAIMDAAAAAAAAhAMAAAAAAAAAAAAAhAMAAAAAAACFAwAAAAAAAAAAAACFAwAAAAAAAIYDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgwMAAAAAAACDAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAIMDAAAAAAAAgwMAAAAAAAADAAAAcmZjgwMAAAAAAADiAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgMAAAAAAACGAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "Linked"
+					},
+					"BwAAALYDAAAAAAAAtwMAAAAAAAAAAAAAtwMAAAAAAAC3AwAAAAAAAAQAAABzdmdztwMAAAAAAAC4AwAAAAAAAAAAAAC4AwAAAAAAALkDAAAAAAAAAAAAALkDAAAAAAAAugMAAAAAAAAAAAAAugMAAAAAAAC7AwAAAAAAAAAAAAC7AwAAAAAAALwDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtgMAAAAAAAC6AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "inIcon"
+					},
+					"BgAAALwDAAAAAAAAvQMAAAAAAAAAAAAAvQMAAAAAAAC+AwAAAAAAAAAAAAC+AwAAAAAAAL8DAAAAAAAAAAAAAL8DAAAAAAAAwAMAAAAAAAAAAAAAwAMAAAAAAADBAwAAAAAAAAAAAADBAwAAAAAAAMIDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvAMAAAAAAAC8AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"paste",
+					null,
+					"AgAAANMDAAAAAAAAtAYAAAAAAAAAAAAAtAYAAAAAAAC0BgAAAAAAABIAAAA8ZGl2PgoJCQkKCQk8L2Rpdj4",
+					"AQAAAAAAAAABAAAA0wMAAAAAAADlAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"cut",
+					null,
+					"AQAAAIMDAAAAAAAAgwMAAAAAAAAaAAAAaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo",
+					"AQAAAAAAAAABAAAAnAMAAAAAAACcAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"cut",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAaW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsK",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"js_prettier",
+					{
+						"auto_format_prettier_config_path": null,
+						"save_file": true
+					},
+					"AgAAAAAAAAAAAAAAZAYAAAAAAACFBgAACmV4cG9ydCBmdW5jdGlvbiBHaXRodWJJY29uKCkgewoJcmV0dXJuICgKCQk8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI3IiBoZWlnaHQ9IjI2IiBmaWxsPSJub25lIj4KCQkJPHBhdGgKCQkJCWZpbGw9IiMwNTJFNDAiCgkJCQlkPSJNMTMuMTEzIDBDNS44NjgtLjAwMyAwIDUuODYyIDAgMTMuMTAyYzAgNS43MjQgMy42NyAxMC41OSA4Ljc4MyAxMi4zNzguNjg5LjE3Mi41ODMtLjMxNy41ODMtLjY1di0yLjI3MWMtMy45NzUuNDY1LTQuMTM3LTIuMTY1LTQuNDAzLTIuNjA1LS41NC0uOTItMS44MTQtMS4xNTQtMS40MzMtMS41OTQuOTA2LS40NjUgMS44MjguMTE3IDIuODk4IDEuNjk3Ljc3MyAxLjE0NSAyLjI4Mi45NTIgMy4wNDcuNzYxYTMuNjk1IDMuNjk1IDAgMCAxIDEuMDE2LTEuNzhjLTQuMTE5LS43NC01LjgzNi0zLjI1My01LjgzNi02LjI0MSAwLTEuNDUuNDc4LTIuNzgzIDEuNDE1LTMuODU5LS41OTctMS43NzIuMDU2LTMuMjkuMTQ0LTMuNTE1IDEuNzAyLS4xNTIgMy40NzIgMS4yMTkgMy42MSAxLjMyNy45NjYtLjI2IDIuMDctLjM5OCAzLjMwNy0uMzk4IDEuMjQyIDAgMi4zNS4xNDMgMy4zMjUuNDA3LjMzMS0uMjUyIDEuOTcyLTEuNDMgMy41NTQtMS4yODYuMDg1LjIyNS43MjMgMS43MDguMTYgMy40NTcuOTUgMS4wNzggMS40MzMgMi40MjIgMS40MzMgMy44NzYgMCAyLjk5NC0xLjcyOCA1LjUxLTUuODU5IDYuMjM3YTMuNzMzIDMuNzMzIDAgMCAxIDEuMTE2IDIuNjY2djMuMjk2Yy4wMjQuMjY0IDAgLjUyNC40NC41MjQgNS4xODgtMS43NDkgOC45MjQtNi42NSA4LjkyNC0xMi40MjVDMjYuMjI0IDUuODYyIDIwLjM1MiAwIDEzLjExNCAwWiIKCQkJLz4KCQk8L3N2Zz4KCSk7Cn0KCgoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gTGlua2VkaW5JY29uKCkgewoJcmV0dXJuICgKCQk8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIj4KCQkJCQkJCQkJPHBhdGgKCQkJCQkJCQkJCWZpbGw9IiMwNTJFNDAiCgkJCQkJCQkJCQlkPSJNMjEuNTU0IDBIMS44ODRDLjg0NCAwIDAgLjg0NCAwIDEuODg0djE5LjY3YzAgMS4wNC44NDQgMS44ODQgMS44ODQgMS44ODRoMTkuNjdjMS4wNCAwIDEuODg0LS44NDQgMS44ODQtMS44ODRWMS44ODRDMjMuNDM4Ljg0NCAyMi41OTMgMCAyMS41NTMgMFptMCAyMS41NjNhMTY1MDIuMiAxNjUwMi4yIDAgMCAxLTE5LjY3OS0uMDFjLjAwMy0xMy4xMTguMDA2LTE5LjY3OC4wMDktMTkuNjc4IDEzLjExOS4wMDMgMTkuNjc4LjAwNiAxOS42NzguMDA5LS4wMDIgMTMuMTE5LS4wMDUgMTkuNjc4LS4wMDggMTkuNjc4Wk0zLjQ3NCA4Ljc4NmgzLjQ3OHYxMS4xODZIMy40NzVWOC43ODZabTEuNzQtMS41M2EyLjAxNyAyLjAxNyAwIDAgMCAxLjQyNi0zLjQ0IDIuMDE2IDIuMDE2IDAgMSAwLTEuNDI1IDMuNDRabTcuMzkyIDcuMTgxYzAtMS40NTguMjc5LTIuODcgMi4wODYtMi44NyAxLjc4MiAwIDEuODA4IDEuNjY2IDEuODA4IDIuOTY0djUuNDRoMy40NzV2LTYuMTM0YzAtMy4wMTItLjY1LTUuMzMtNC4xNy01LjMzLTEuNjkgMC0yLjgyNC45My0zLjI5IDEuODA4aC0uMDQ2VjguNzg2SDkuMTMydjExLjE4NmgzLjQ3NHYtNS41MzVaIgoJCQkJCQkJCQkvPgoJCQkJCQkJCTwvc3ZnPgoJKQp9CmQGAAAAAAAAZQYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAGUGAAAAAAAAZgYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZQYAAAAAAABlBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					2,
+					"left_delete",
+					null,
+					"AgAAAG0DAAAAAAAAbQMAAAAAAAAHAAAAZGVmYXVsdGwDAAAAAAAAbAMAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAbQMAAAAAAAB0AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAF4GAAAAAAAAXwYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXgYAAAAAAABeBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"left_delete",
+					null,
+					"AQAAAF4GAAAAAAAAXgYAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAXwYAAAAAAABfBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": "expo"
+					},
+					"BAAAAF4GAAAAAAAAXwYAAAAAAAAAAAAAXwYAAAAAAABgBgAAAAAAAAAAAABgBgAAAAAAAGEGAAAAAAAAAAAAAGEGAAAAAAAAYgYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXgYAAAAAAABeBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"insert_dimensions",
+					null,
+					"BQAAAGEGAAAAAAAAYQYAAAAAAAABAAAAb2AGAAAAAAAAYAYAAAAAAAABAAAAcF8GAAAAAAAAXwYAAAAAAAABAAAAeF4GAAAAAAAAXgYAAAAAAAABAAAAZV4GAAAAAAAAZAYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgYAAAAAAABiBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": " fun"
+					},
+					"BAAAAGQGAAAAAAAAZQYAAAAAAAAAAAAAZQYAAAAAAABmBgAAAAAAAAAAAABmBgAAAAAAAGcGAAAAAAAAAAAAAGcGAAAAAAAAaAYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAYAAAAAAABkBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAGUGAAAAAAAAZQYAAAAAAAADAAAAZnVuZQYAAAAAAABtBgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaAYAAAAAAABoBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"insert",
+					{
+						"characters": " Twi"
+					},
+					"BAAAAG0GAAAAAAAAbgYAAAAAAAAAAAAAbgYAAAAAAABvBgAAAAAAAAAAAABvBgAAAAAAAHAGAAAAAAAAAAAAAHAGAAAAAAAAcQYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbQYAAAAAAABtBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					80,
+					1,
+					"insert",
+					{
+						"characters": "tterIcon"
+					},
+					"CAAAAHEGAAAAAAAAcgYAAAAAAAAAAAAAcgYAAAAAAABzBgAAAAAAAAAAAABzBgAAAAAAAHQGAAAAAAAAAAAAAHQGAAAAAAAAdQYAAAAAAAAAAAAAdQYAAAAAAAB2BgAAAAAAAAAAAAB2BgAAAAAAAHcGAAAAAAAAAAAAAHcGAAAAAAAAeAYAAAAAAAAAAAAAeAYAAAAAAAB5BgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQYAAAAAAABxBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAHkGAAAAAAAAewYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeQYAAAAAAAB5BgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					83,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAHsGAAAAAAAAfAYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAewYAAAAAAAB7BgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAHwGAAAAAAAAfgYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfAYAAAAAAAB8BgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAAH0GAAAAAAAAfgYAAAAAAAAAAAAAfgYAAAAAAAB/BgAAAAAAAAAAAAB+BgAAAAAAAH8GAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfQYAAAAAAAB9BgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					1,
+					"insert",
+					{
+						"characters": "ret"
+					},
+					"AwAAAH8GAAAAAAAAgAYAAAAAAAAAAAAAgAYAAAAAAACBBgAAAAAAAAAAAACBBgAAAAAAAIIGAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfwYAAAAAAAB/BgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					88,
+					1,
+					"insert_dimensions",
+					null,
+					"BAAAAIEGAAAAAAAAgQYAAAAAAAABAAAAdIAGAAAAAAAAgAYAAAAAAAABAAAAZX8GAAAAAAAAfwYAAAAAAAABAAAAcn8GAAAAAAAAhQYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAggYAAAAAAACCBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					89,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIUGAAAAAAAAhgYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhQYAAAAAAACFBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAIYGAAAAAAAAiAYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgYAAAAAAACGBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"CAAAAIcGAAAAAAAAiAYAAAAAAAAAAAAAiAYAAAAAAACJBgAAAAAAAAAAAACJBgAAAAAAAIoGAAAAAAAAAAAAAIoGAAAAAAAAiwYAAAAAAAAAAAAAiAYAAAAAAACIBgAAAAAAAAEAAAAJiQYAAAAAAACJBgAAAAAAAAEAAAAJiQYAAAAAAACLBgAAAAAAAAAAAACIBgAAAAAAAIoGAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhwYAAAAAAACHBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"left_delete",
+					null,
+					"AgAAAIwGAAAAAAAAjAYAAAAAAAABAAAACYgGAAAAAAAAiAYAAAAAAAACAAAACQk",
+					"AQAAAAAAAAABAAAAjQYAAAAAAACNBgAAAAAAAAAAAAAAADtA"
+				],
+				[
+					95,
+					1,
+					"reindent",
+					null,
+					"AQAAAIgGAAAAAAAAigYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiAYAAAAAAACIBgAAAAAAAAAAAAAAACxA"
+				],
+				[
+					96,
+					1,
+					"paste",
+					null,
+					"AQAAAIoGAAAAAAAAjgkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAigYAAAAAAACKBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					1,
+					"js_prettier",
+					{
+						"auto_format_prettier_config_path": null,
+						"save_file": true
+					},
+					"AgAAAAAAAAAAAAAAdgkAAAAAAACTCQAAZXhwb3J0IGZ1bmN0aW9uIEdpdGh1Ykljb24oKSB7CglyZXR1cm4gKAoJCTxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjciIGhlaWdodD0iMjYiIGZpbGw9Im5vbmUiPgoJCQk8cGF0aAoJCQkJZmlsbD0iIzA1MkU0MCIKCQkJCWQ9Ik0xMy4xMTMgMEM1Ljg2OC0uMDAzIDAgNS44NjIgMCAxMy4xMDJjMCA1LjcyNCAzLjY3IDEwLjU5IDguNzgzIDEyLjM3OC42ODkuMTcyLjU4My0uMzE3LjU4My0uNjV2LTIuMjcxYy0zLjk3NS40NjUtNC4xMzctMi4xNjUtNC40MDMtMi42MDUtLjU0LS45Mi0xLjgxNC0xLjE1NC0xLjQzMy0xLjU5NC45MDYtLjQ2NSAxLjgyOC4xMTcgMi44OTggMS42OTcuNzczIDEuMTQ1IDIuMjgyLjk1MiAzLjA0Ny43NjFhMy42OTUgMy42OTUgMCAwIDEgMS4wMTYtMS43OGMtNC4xMTktLjc0LTUuODM2LTMuMjUzLTUuODM2LTYuMjQxIDAtMS40NS40NzgtMi43ODMgMS40MTUtMy44NTktLjU5Ny0xLjc3Mi4wNTYtMy4yOS4xNDQtMy41MTUgMS43MDItLjE1MiAzLjQ3MiAxLjIxOSAzLjYxIDEuMzI3Ljk2Ni0uMjYgMi4wNy0uMzk4IDMuMzA3LS4zOTggMS4yNDIgMCAyLjM1LjE0MyAzLjMyNS40MDcuMzMxLS4yNTIgMS45NzItMS40MyAzLjU1NC0xLjI4Ni4wODUuMjI1LjcyMyAxLjcwOC4xNiAzLjQ1Ny45NSAxLjA3OCAxLjQzMyAyLjQyMiAxLjQzMyAzLjg3NiAwIDIuOTk0LTEuNzI4IDUuNTEtNS44NTkgNi4yMzdhMy43MzMgMy43MzMgMCAwIDEgMS4xMTYgMi42NjZ2My4yOTZjLjAyNC4yNjQgMCAuNTI0LjQ0LjUyNCA1LjE4OC0xLjc0OSA4LjkyNC02LjY1IDguOTI0LTEyLjQyNUMyNi4yMjQgNS44NjIgMjAuMzUyIDAgMTMuMTE0IDBaIgoJCQkvPgoJCTwvc3ZnPgoJKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIExpbmtlZGluSWNvbigpIHsKCXJldHVybiAoCgkJPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSI+CgkJCTxwYXRoCgkJCQlmaWxsPSIjMDUyRTQwIgoJCQkJZD0iTTIxLjU1NCAwSDEuODg0Qy44NDQgMCAwIC44NDQgMCAxLjg4NHYxOS42N2MwIDEuMDQuODQ0IDEuODg0IDEuODg0IDEuODg0aDE5LjY3YzEuMDQgMCAxLjg4NC0uODQ0IDEuODg0LTEuODg0VjEuODg0QzIzLjQzOC44NDQgMjIuNTkzIDAgMjEuNTUzIDBabTAgMjEuNTYzYTE2NTAyLjIgMTY1MDIuMiAwIDAgMS0xOS42NzktLjAxYy4wMDMtMTMuMTE4LjAwNi0xOS42NzguMDA5LTE5LjY3OCAxMy4xMTkuMDAzIDE5LjY3OC4wMDYgMTkuNjc4LjAwOS0uMDAyIDEzLjExOS0uMDA1IDE5LjY3OC0uMDA4IDE5LjY3OFpNMy40NzQgOC43ODZoMy40Nzh2MTEuMTg2SDMuNDc1VjguNzg2Wm0xLjc0LTEuNTNhMi4wMTcgMi4wMTcgMCAwIDAgMS40MjYtMy40NCAyLjAxNiAyLjAxNiAwIDEgMC0xLjQyNSAzLjQ0Wm03LjM5MiA3LjE4MWMwLTEuNDU4LjI3OS0yLjg3IDIuMDg2LTIuODcgMS43ODIgMCAxLjgwOCAxLjY2NiAxLjgwOCAyLjk2NHY1LjQ0aDMuNDc1di02LjEzNGMwLTMuMDEyLS42NS01LjMzLTQuMTctNS4zMy0xLjY5IDAtMi44MjQuOTMtMy4yOSAxLjgwOGgtLjA0NlY4Ljc4Nkg5LjEzMnYxMS4xODZoMy40NzR2LTUuNTM1WiIKCQkJLz4KCQk8L3N2Zz4KCSk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBUd2l0dGVySWNvbigpIHsKCXJldHVybiAoCgkJPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMyIgaGVpZ2h0PSIxOCIgZmlsbD0ibm9uZSI+CgkJCQkJCQkJCTxwYXRoCgkJCQkJCQkJCQlmaWxsPSIjMDUyRTQwIgoJCQkJCQkJCQkJZD0iTTIyLjMzNiAyLjEwN2E4Ljg0MyA4Ljg0MyAwIDAgMS0yLjU1Ny42OTRBNC40NjMgNC40NjMgMCAwIDAgMjEuNzMyLjMzYTguNzIgOC43MiAwIDAgMS0yLjgxOCAxLjA4MkE0LjQzIDQuNDMgMCAwIDAgMTcuNDM4LjM2NGE0LjM5NSA0LjM5NSAwIDAgMC0xLjc2OS0uMzY3Yy0yLjQ2IDAtNC40NCAyLjAxMy00LjQ0IDQuNDgzIDAgLjM0Ny4wNDIuNjkzLjExIDEuMDI3QTEyLjU4MyAxMi41ODMgMCAwIDEgMi4xODEuODE3YTQuNDggNC40OCAwIDAgMC0uNjA0IDIuMjYyYzAgMS41NTYuNzg0IDIuOTI3IDEuOTggMy43MzRhNC40NDkgNC40NDkgMCAwIDEtMi4wMDktLjU3di4wNTVhNC40NzIgNC40NzIgMCAwIDAgMy41NiA0LjM5OWMtLjM4Mi4xLS43NzUuMTUxLTEuMTcuMTUyLS4yODggMC0uNTYyLS4wMjktLjgzOC0uMDY4YTQuNDU0IDQuNDU0IDAgMCAwIDQuMTUxIDMuMTA4IDguODUgOC44NSAwIDAgMS01LjUxMyAxLjkxNmMtLjM3MiAwLS43MTYtLjAxMy0xLjA3Mi0uMDU1YTEyLjQ5MyAxMi40OTMgMCAwIDAgNi44MiAyLjAxYzguMTY2IDAgMTIuNjM1LTYuODI3IDEyLjYzNS0xMi43NTIgMC0uMTk1IDAtLjM4OS0uMDEzLS41ODNhOS42MTIgOS42MTIgMCAwIDAgMi4yMjctMi4zMThaIgoJCQkJCQkJCQkvPgoJCQkJCQkJCTwvc3ZnPgoJKQp9dgkAAAAAAAB3CQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjgkAAAAAAACOCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAAHYJAAAAAAAAjgwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXgYAAAAAAAB2CQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAHYJAAAAAAAAdwkAAAAAAAAAAAAAdwkAAAAAAAB4CQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdgkAAAAAAAB2CQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					7,
+					"left_delete",
+					null,
+					"BwAAAI4JAAAAAAAAjgkAAAAAAAABAAAAco0JAAAAAAAAjQkAAAAAAAABAAAAZYwJAAAAAAAAjAkAAAAAAAABAAAAdIsJAAAAAAAAiwkAAAAAAAABAAAAdIoJAAAAAAAAigkAAAAAAAABAAAAaYkJAAAAAAAAiQkAAAAAAAABAAAAd4gJAAAAAAAAiAkAAAAAAAABAAAAVA",
+					"AQAAAAAAAAABAAAAjwkAAAAAAACPCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					113,
+					1,
+					"insert",
+					{
+						"characters": "Instagram"
+					},
+					"CQAAAIgJAAAAAAAAiQkAAAAAAAAAAAAAiQkAAAAAAACKCQAAAAAAAAAAAACKCQAAAAAAAIsJAAAAAAAAAAAAAIsJAAAAAAAAjAkAAAAAAAAAAAAAjAkAAAAAAACNCQAAAAAAAAAAAACNCQAAAAAAAI4JAAAAAAAAAAAAAI4JAAAAAAAAjwkAAAAAAAAAAAAAjwkAAAAAAACQCQAAAAAAAAAAAACQCQAAAAAAAJEJAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiAkAAAAAAACICQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"paste",
+					null,
+					"AgAAAKYJAAAAAAAA8A0AAAAAAAAAAAAA8A0AAAAAAADwDQAAAAAAAOYCAAA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjIzIiBoZWlnaHQ9IjE4IiBmaWxsPSJub25lIj4KCQkJPHBhdGgKCQkJCWZpbGw9IiMwNTJFNDAiCgkJCQlkPSJNMjIuMzM2IDIuMTA3YTguODQzIDguODQzIDAgMCAxLTIuNTU3LjY5NEE0LjQ2MyA0LjQ2MyAwIDAgMCAyMS43MzIuMzNhOC43MiA4LjcyIDAgMCAxLTIuODE4IDEuMDgyQTQuNDMgNC40MyAwIDAgMCAxNy40MzguMzY0YTQuMzk1IDQuMzk1IDAgMCAwLTEuNzY5LS4zNjdjLTIuNDYgMC00LjQ0IDIuMDEzLTQuNDQgNC40ODMgMCAuMzQ3LjA0Mi42OTMuMTEgMS4wMjdBMTIuNTgzIDEyLjU4MyAwIDAgMSAyLjE4MS44MTdhNC40OCA0LjQ4IDAgMCAwLS42MDQgMi4yNjJjMCAxLjU1Ni43ODQgMi45MjcgMS45OCAzLjczNGE0LjQ0OSA0LjQ0OSAwIDAgMS0yLjAwOS0uNTd2LjA1NWE0LjQ3MiA0LjQ3MiAwIDAgMCAzLjU2IDQuMzk5Yy0uMzgyLjEtLjc3NS4xNTEtMS4xNy4xNTItLjI4OCAwLS41NjItLjAyOS0uODM4LS4wNjhhNC40NTQgNC40NTQgMCAwIDAgNC4xNTEgMy4xMDggOC44NSA4Ljg1IDAgMCAxLTUuNTEzIDEuOTE2Yy0uMzcyIDAtLjcxNi0uMDEzLTEuMDcyLS4wNTVhMTIuNDkzIDEyLjQ5MyAwIDAgMCA2LjgyIDIuMDFjOC4xNjYgMCAxMi42MzUtNi44MjcgMTIuNjM1LTEyLjc1MiAwLS4xOTUgMC0uMzg5LS4wMTMtLjU4M2E5LjYxMiA5LjYxMiAwIDAgMCAyLjIyNy0yLjMxOFoiCgkJCS8+CgkJPC9zdmc+",
+					"AQAAAAAAAAABAAAApgkAAAAAAACMDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					118,
+					1,
+					"js_prettier",
+					{
+						"auto_format_prettier_config_path": null,
+						"save_file": true
+					},
+					"AgAAAAAAAAAAAAAA2A0AAAAAAAD3DQAAZXhwb3J0IGZ1bmN0aW9uIEdpdGh1Ykljb24oKSB7CglyZXR1cm4gKAoJCTxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjciIGhlaWdodD0iMjYiIGZpbGw9Im5vbmUiPgoJCQk8cGF0aAoJCQkJZmlsbD0iIzA1MkU0MCIKCQkJCWQ9Ik0xMy4xMTMgMEM1Ljg2OC0uMDAzIDAgNS44NjIgMCAxMy4xMDJjMCA1LjcyNCAzLjY3IDEwLjU5IDguNzgzIDEyLjM3OC42ODkuMTcyLjU4My0uMzE3LjU4My0uNjV2LTIuMjcxYy0zLjk3NS40NjUtNC4xMzctMi4xNjUtNC40MDMtMi42MDUtLjU0LS45Mi0xLjgxNC0xLjE1NC0xLjQzMy0xLjU5NC45MDYtLjQ2NSAxLjgyOC4xMTcgMi44OTggMS42OTcuNzczIDEuMTQ1IDIuMjgyLjk1MiAzLjA0Ny43NjFhMy42OTUgMy42OTUgMCAwIDEgMS4wMTYtMS43OGMtNC4xMTktLjc0LTUuODM2LTMuMjUzLTUuODM2LTYuMjQxIDAtMS40NS40NzgtMi43ODMgMS40MTUtMy44NTktLjU5Ny0xLjc3Mi4wNTYtMy4yOS4xNDQtMy41MTUgMS43MDItLjE1MiAzLjQ3MiAxLjIxOSAzLjYxIDEuMzI3Ljk2Ni0uMjYgMi4wNy0uMzk4IDMuMzA3LS4zOTggMS4yNDIgMCAyLjM1LjE0MyAzLjMyNS40MDcuMzMxLS4yNTIgMS45NzItMS40MyAzLjU1NC0xLjI4Ni4wODUuMjI1LjcyMyAxLjcwOC4xNiAzLjQ1Ny45NSAxLjA3OCAxLjQzMyAyLjQyMiAxLjQzMyAzLjg3NiAwIDIuOTk0LTEuNzI4IDUuNTEtNS44NTkgNi4yMzdhMy43MzMgMy43MzMgMCAwIDEgMS4xMTYgMi42NjZ2My4yOTZjLjAyNC4yNjQgMCAuNTI0LjQ0LjUyNCA1LjE4OC0xLjc0OSA4LjkyNC02LjY1IDguOTI0LTEyLjQyNUMyNi4yMjQgNS44NjIgMjAuMzUyIDAgMTMuMTE0IDBaIgoJCQkvPgoJCTwvc3ZnPgoJKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIExpbmtlZGluSWNvbigpIHsKCXJldHVybiAoCgkJPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSI+CgkJCTxwYXRoCgkJCQlmaWxsPSIjMDUyRTQwIgoJCQkJZD0iTTIxLjU1NCAwSDEuODg0Qy44NDQgMCAwIC44NDQgMCAxLjg4NHYxOS42N2MwIDEuMDQuODQ0IDEuODg0IDEuODg0IDEuODg0aDE5LjY3YzEuMDQgMCAxLjg4NC0uODQ0IDEuODg0LTEuODg0VjEuODg0QzIzLjQzOC44NDQgMjIuNTkzIDAgMjEuNTUzIDBabTAgMjEuNTYzYTE2NTAyLjIgMTY1MDIuMiAwIDAgMS0xOS42NzktLjAxYy4wMDMtMTMuMTE4LjAwNi0xOS42NzguMDA5LTE5LjY3OCAxMy4xMTkuMDAzIDE5LjY3OC4wMDYgMTkuNjc4LjAwOS0uMDAyIDEzLjExOS0uMDA1IDE5LjY3OC0uMDA4IDE5LjY3OFpNMy40NzQgOC43ODZoMy40Nzh2MTEuMTg2SDMuNDc1VjguNzg2Wm0xLjc0LTEuNTNhMi4wMTcgMi4wMTcgMCAwIDAgMS40MjYtMy40NCAyLjAxNiAyLjAxNiAwIDEgMC0xLjQyNSAzLjQ0Wm03LjM5MiA3LjE4MWMwLTEuNDU4LjI3OS0yLjg3IDIuMDg2LTIuODcgMS43ODIgMCAxLjgwOCAxLjY2NiAxLjgwOCAyLjk2NHY1LjQ0aDMuNDc1di02LjEzNGMwLTMuMDEyLS42NS01LjMzLTQuMTctNS4zMy0xLjY5IDAtMi44MjQuOTMtMy4yOSAxLjgwOGgtLjA0NlY4Ljc4Nkg5LjEzMnYxMS4xODZoMy40NzR2LTUuNTM1WiIKCQkJLz4KCQk8L3N2Zz4KCSk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBUd2l0dGVySWNvbigpIHsKCXJldHVybiAoCgkJPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMyIgaGVpZ2h0PSIxOCIgZmlsbD0ibm9uZSI+CgkJCTxwYXRoCgkJCQlmaWxsPSIjMDUyRTQwIgoJCQkJZD0iTTIyLjMzNiAyLjEwN2E4Ljg0MyA4Ljg0MyAwIDAgMS0yLjU1Ny42OTRBNC40NjMgNC40NjMgMCAwIDAgMjEuNzMyLjMzYTguNzIgOC43MiAwIDAgMS0yLjgxOCAxLjA4MkE0LjQzIDQuNDMgMCAwIDAgMTcuNDM4LjM2NGE0LjM5NSA0LjM5NSAwIDAgMC0xLjc2OS0uMzY3Yy0yLjQ2IDAtNC40NCAyLjAxMy00LjQ0IDQuNDgzIDAgLjM0Ny4wNDIuNjkzLjExIDEuMDI3QTEyLjU4MyAxMi41ODMgMCAwIDEgMi4xODEuODE3YTQuNDggNC40OCAwIDAgMC0uNjA0IDIuMjYyYzAgMS41NTYuNzg0IDIuOTI3IDEuOTggMy43MzRhNC40NDkgNC40NDkgMCAwIDEtMi4wMDktLjU3di4wNTVhNC40NzIgNC40NzIgMCAwIDAgMy41NiA0LjM5OWMtLjM4Mi4xLS43NzUuMTUxLTEuMTcuMTUyLS4yODggMC0uNTYyLS4wMjktLjgzOC0uMDY4YTQuNDU0IDQuNDU0IDAgMCAwIDQuMTUxIDMuMTA4IDguODUgOC44NSAwIDAgMS01LjUxMyAxLjkxNmMtLjM3MiAwLS43MTYtLjAxMy0xLjA3Mi0uMDU1YTEyLjQ5MyAxMi40OTMgMCAwIDAgNi44MiAyLjAxYzguMTY2IDAgMTIuNjM1LTYuODI3IDEyLjYzNS0xMi43NTIgMC0uMTk1IDAtLjM4OS0uMDEzLS41ODNhOS42MTIgOS42MTIgMCAwIDAgMi4yMjctMi4zMThaIgoJCQkvPgoJCTwvc3ZnPgoJKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIEluc3RhZ3JhbUljb24oKSB7CglyZXR1cm4gKAoJCTxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIGZpbGw9Im5vbmUiPgoJCQkJCQkJCQk8cGF0aAoJCQkJCQkJCQkJZmlsbD0iIzA1MkU0MCIKCQkJCQkJCQkJCWQ9Ik0xMC45NjMgNy4yMDRjLTEuOTEyIDAtMy40NzIgMS41NzQtMy40NzIgMy41MDMgMCAxLjkyOCAxLjU2IDMuNTAyIDMuNDcyIDMuNTAyIDEuOTExIDAgMy40NzEtMS41NzQgMy40NzEtMy41MDIgMC0xLjkyOS0xLjU2LTMuNTAzLTMuNDcxLTMuNTAzWm0xMC40MTEgMy41MDNjMC0xLjQ1LjAxMy0yLjg4OC0uMDY4LTQuMzM2LS4wOC0xLjY4Mi0uNDYtMy4xNzQtMS42OC00LjQwNEMxOC40MDcuNzM1IDE2LjkzLjM1NCAxNS4yNjMuMjcyIDEzLjgyNS4xOTEgMTIuNC4yMDQgMTAuOTY1LjIwNGMtMS40MzcgMC0yLjg2Mi0uMDEzLTQuMjk3LjA2OC0xLjY2Ni4wODItMy4xNDUuNDY1LTQuMzY0IDEuNjk1QzEuMDgyIDMuMi43MDQgNC42OS42MjQgNi4zNzEuNTQ0IDcuODIxLjU1NiA5LjI2LjU1NiAxMC43MDdjMCAxLjQ0Ny0uMDEzIDIuODg3LjA2OCA0LjMzNS4wOCAxLjY4Mi40NjEgMy4xNzQgMS42OCA0LjQwNCAxLjIyMSAxLjIzMiAyLjY5OCAxLjYxMyA0LjM2NCAxLjY5NSAxLjQzOC4wODEgMi44NjIuMDY4IDQuMjk3LjA2OCAxLjQzOCAwIDIuODYyLjAxMyA0LjI5Ny0uMDY4IDEuNjY3LS4wODEgMy4xNDYtLjQ2NSA0LjM2NS0xLjY5NSAxLjIyMS0xLjIzMiAxLjU5OS0yLjcyMiAxLjY4LTQuNDA0LjA4My0xLjQ0OC4wNjctMi44ODUuMDY3LTQuMzM1Wm0tMTAuNDExIDUuMzg5Yy0yLjk1NiAwLTUuMzQxLTIuNDA3LTUuMzQxLTUuMzkgMC0yLjk4MiAyLjM4NS01LjM4OSA1LjM0LTUuMzg5IDIuOTU2IDAgNS4zNDIgMi40MDcgNS4zNDIgNS4zOSAwIDIuOTgyLTIuMzg2IDUuMzg5LTUuMzQxIDUuMzg5Wm01LjU2LTkuNzRjLS42OSAwLTEuMjQ4LS41NjMtMS4yNDgtMS4yNiAwLS42OTYuNTU3LTEuMjU4IDEuMjQ4LTEuMjU4LjY5IDAgMS4yNDcuNTYyIDEuMjQ3IDEuMjU5YTEuMjY1IDEuMjY1IDAgMCAxLS4zNjUuODkgMS4yNDYgMS4yNDYgMCAwIDEtLjg4Mi4zNjhaIgoJCQkJCQkJCQkvPgoJCQkJCQkJCTwvc3ZnPgoJKTsKfQrYDQAAAAAAANkNAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8A0AAAAAAADwDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAANgNAAAAAAAA2Q0AAAAAAAAAAAAA2Q0AAAAAAADaDQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2A0AAAAAAADYDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					128,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAANgNAAAAAAAAOBIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2A0AAAAAAAB4CQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					133,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAANgNAAAAAAAA2Q0AAAAAAAAAAAAA2Q0AAAAAAADaDQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2A0AAAAAAADYDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					140,
+					1,
+					"insert",
+					{
+						"characters": "Dribbble"
+					},
+					"CQAAAOoNAAAAAAAA6w0AAAAAAAAAAAAA6w0AAAAAAADrDQAAAAAAAAkAAABJbnN0YWdyYW3rDQAAAAAAAOwNAAAAAAAAAAAAAOwNAAAAAAAA7Q0AAAAAAAAAAAAA7Q0AAAAAAADuDQAAAAAAAAAAAADuDQAAAAAAAO8NAAAAAAAAAAAAAO8NAAAAAAAA8A0AAAAAAAAAAAAA8A0AAAAAAADxDQAAAAAAAAAAAADxDQAAAAAAAPINAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8w0AAAAAAADqDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					142,
+					1,
+					"js_prettier",
+					{
+						"auto_format_prettier_config_path": null,
+						"save_file": true
+					},
+					"AgAAAAAAAAAAAAAAORIAAAAAAAA8EgAAZXhwb3J0IGZ1bmN0aW9uIEdpdGh1Ykljb24oKSB7CglyZXR1cm4gKAoJCTxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjciIGhlaWdodD0iMjYiIGZpbGw9Im5vbmUiPgoJCQk8cGF0aAoJCQkJZmlsbD0iIzA1MkU0MCIKCQkJCWQ9Ik0xMy4xMTMgMEM1Ljg2OC0uMDAzIDAgNS44NjIgMCAxMy4xMDJjMCA1LjcyNCAzLjY3IDEwLjU5IDguNzgzIDEyLjM3OC42ODkuMTcyLjU4My0uMzE3LjU4My0uNjV2LTIuMjcxYy0zLjk3NS40NjUtNC4xMzctMi4xNjUtNC40MDMtMi42MDUtLjU0LS45Mi0xLjgxNC0xLjE1NC0xLjQzMy0xLjU5NC45MDYtLjQ2NSAxLjgyOC4xMTcgMi44OTggMS42OTcuNzczIDEuMTQ1IDIuMjgyLjk1MiAzLjA0Ny43NjFhMy42OTUgMy42OTUgMCAwIDEgMS4wMTYtMS43OGMtNC4xMTktLjc0LTUuODM2LTMuMjUzLTUuODM2LTYuMjQxIDAtMS40NS40NzgtMi43ODMgMS40MTUtMy44NTktLjU5Ny0xLjc3Mi4wNTYtMy4yOS4xNDQtMy41MTUgMS43MDItLjE1MiAzLjQ3MiAxLjIxOSAzLjYxIDEuMzI3Ljk2Ni0uMjYgMi4wNy0uMzk4IDMuMzA3LS4zOTggMS4yNDIgMCAyLjM1LjE0MyAzLjMyNS40MDcuMzMxLS4yNTIgMS45NzItMS40MyAzLjU1NC0xLjI4Ni4wODUuMjI1LjcyMyAxLjcwOC4xNiAzLjQ1Ny45NSAxLjA3OCAxLjQzMyAyLjQyMiAxLjQzMyAzLjg3NiAwIDIuOTk0LTEuNzI4IDUuNTEtNS44NTkgNi4yMzdhMy43MzMgMy43MzMgMCAwIDEgMS4xMTYgMi42NjZ2My4yOTZjLjAyNC4yNjQgMCAuNTI0LjQ0LjUyNCA1LjE4OC0xLjc0OSA4LjkyNC02LjY1IDguOTI0LTEyLjQyNUMyNi4yMjQgNS44NjIgMjAuMzUyIDAgMTMuMTE0IDBaIgoJCQkvPgoJCTwvc3ZnPgoJKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIExpbmtlZGluSWNvbigpIHsKCXJldHVybiAoCgkJPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSI+CgkJCTxwYXRoCgkJCQlmaWxsPSIjMDUyRTQwIgoJCQkJZD0iTTIxLjU1NCAwSDEuODg0Qy44NDQgMCAwIC44NDQgMCAxLjg4NHYxOS42N2MwIDEuMDQuODQ0IDEuODg0IDEuODg0IDEuODg0aDE5LjY3YzEuMDQgMCAxLjg4NC0uODQ0IDEuODg0LTEuODg0VjEuODg0QzIzLjQzOC44NDQgMjIuNTkzIDAgMjEuNTUzIDBabTAgMjEuNTYzYTE2NTAyLjIgMTY1MDIuMiAwIDAgMS0xOS42NzktLjAxYy4wMDMtMTMuMTE4LjAwNi0xOS42NzguMDA5LTE5LjY3OCAxMy4xMTkuMDAzIDE5LjY3OC4wMDYgMTkuNjc4LjAwOS0uMDAyIDEzLjExOS0uMDA1IDE5LjY3OC0uMDA4IDE5LjY3OFpNMy40NzQgOC43ODZoMy40Nzh2MTEuMTg2SDMuNDc1VjguNzg2Wm0xLjc0LTEuNTNhMi4wMTcgMi4wMTcgMCAwIDAgMS40MjYtMy40NCAyLjAxNiAyLjAxNiAwIDEgMC0xLjQyNSAzLjQ0Wm03LjM5MiA3LjE4MWMwLTEuNDU4LjI3OS0yLjg3IDIuMDg2LTIuODcgMS43ODIgMCAxLjgwOCAxLjY2NiAxLjgwOCAyLjk2NHY1LjQ0aDMuNDc1di02LjEzNGMwLTMuMDEyLS42NS01LjMzLTQuMTctNS4zMy0xLjY5IDAtMi44MjQuOTMtMy4yOSAxLjgwOGgtLjA0NlY4Ljc4Nkg5LjEzMnYxMS4xODZoMy40NzR2LTUuNTM1WiIKCQkJLz4KCQk8L3N2Zz4KCSk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBUd2l0dGVySWNvbigpIHsKCXJldHVybiAoCgkJPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMyIgaGVpZ2h0PSIxOCIgZmlsbD0ibm9uZSI+CgkJCTxwYXRoCgkJCQlmaWxsPSIjMDUyRTQwIgoJCQkJZD0iTTIyLjMzNiAyLjEwN2E4Ljg0MyA4Ljg0MyAwIDAgMS0yLjU1Ny42OTRBNC40NjMgNC40NjMgMCAwIDAgMjEuNzMyLjMzYTguNzIgOC43MiAwIDAgMS0yLjgxOCAxLjA4MkE0LjQzIDQuNDMgMCAwIDAgMTcuNDM4LjM2NGE0LjM5NSA0LjM5NSAwIDAgMC0xLjc2OS0uMzY3Yy0yLjQ2IDAtNC40NCAyLjAxMy00LjQ0IDQuNDgzIDAgLjM0Ny4wNDIuNjkzLjExIDEuMDI3QTEyLjU4MyAxMi41ODMgMCAwIDEgMi4xODEuODE3YTQuNDggNC40OCAwIDAgMC0uNjA0IDIuMjYyYzAgMS41NTYuNzg0IDIuOTI3IDEuOTggMy43MzRhNC40NDkgNC40NDkgMCAwIDEtMi4wMDktLjU3di4wNTVhNC40NzIgNC40NzIgMCAwIDAgMy41NiA0LjM5OWMtLjM4Mi4xLS43NzUuMTUxLTEuMTcuMTUyLS4yODggMC0uNTYyLS4wMjktLjgzOC0uMDY4YTQuNDU0IDQuNDU0IDAgMCAwIDQuMTUxIDMuMTA4IDguODUgOC44NSAwIDAgMS01LjUxMyAxLjkxNmMtLjM3MiAwLS43MTYtLjAxMy0xLjA3Mi0uMDU1YTEyLjQ5MyAxMi40OTMgMCAwIDAgNi44MiAyLjAxYzguMTY2IDAgMTIuNjM1LTYuODI3IDEyLjYzNS0xMi43NTIgMC0uMTk1IDAtLjM4OS0uMDEzLS41ODNhOS42MTIgOS42MTIgMCAwIDAgMi4yMjctMi4zMThaIgoJCQkvPgoJCTwvc3ZnPgoJKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIEluc3RhZ3JhbUljb24oKSB7CglyZXR1cm4gKAoJCTxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIGZpbGw9Im5vbmUiPgoJCQk8cGF0aAoJCQkJZmlsbD0iIzA1MkU0MCIKCQkJCWQ9Ik0xMC45NjMgNy4yMDRjLTEuOTEyIDAtMy40NzIgMS41NzQtMy40NzIgMy41MDMgMCAxLjkyOCAxLjU2IDMuNTAyIDMuNDcyIDMuNTAyIDEuOTExIDAgMy40NzEtMS41NzQgMy40NzEtMy41MDIgMC0xLjkyOS0xLjU2LTMuNTAzLTMuNDcxLTMuNTAzWm0xMC40MTEgMy41MDNjMC0xLjQ1LjAxMy0yLjg4OC0uMDY4LTQuMzM2LS4wOC0xLjY4Mi0uNDYtMy4xNzQtMS42OC00LjQwNEMxOC40MDcuNzM1IDE2LjkzLjM1NCAxNS4yNjMuMjcyIDEzLjgyNS4xOTEgMTIuNC4yMDQgMTAuOTY1LjIwNGMtMS40MzcgMC0yLjg2Mi0uMDEzLTQuMjk3LjA2OC0xLjY2Ni4wODItMy4xNDUuNDY1LTQuMzY0IDEuNjk1QzEuMDgyIDMuMi43MDQgNC42OS42MjQgNi4zNzEuNTQ0IDcuODIxLjU1NiA5LjI2LjU1NiAxMC43MDdjMCAxLjQ0Ny0uMDEzIDIuODg3LjA2OCA0LjMzNS4wOCAxLjY4Mi40NjEgMy4xNzQgMS42OCA0LjQwNCAxLjIyMSAxLjIzMiAyLjY5OCAxLjYxMyA0LjM2NCAxLjY5NSAxLjQzOC4wODEgMi44NjIuMDY4IDQuMjk3LjA2OCAxLjQzOCAwIDIuODYyLjAxMyA0LjI5Ny0uMDY4IDEuNjY3LS4wODEgMy4xNDYtLjQ2NSA0LjM2NS0xLjY5NSAxLjIyMS0xLjIzMiAxLjU5OS0yLjcyMiAxLjY4LTQuNDA0LjA4My0xLjQ0OC4wNjctMi44ODUuMDY3LTQuMzM1Wm0tMTAuNDExIDUuMzg5Yy0yLjk1NiAwLTUuMzQxLTIuNDA3LTUuMzQxLTUuMzkgMC0yLjk4MiAyLjM4NS01LjM4OSA1LjM0LTUuMzg5IDIuOTU2IDAgNS4zNDIgMi40MDcgNS4zNDIgNS4zOSAwIDIuOTgyLTIuMzg2IDUuMzg5LTUuMzQxIDUuMzg5Wm01LjU2LTkuNzRjLS42OSAwLTEuMjQ4LS41NjMtMS4yNDgtMS4yNiAwLS42OTYuNTU3LTEuMjU4IDEuMjQ4LTEuMjU4LjY5IDAgMS4yNDcuNTYyIDEuMjQ3IDEuMjU5YTEuMjY1IDEuMjY1IDAgMCAxLS4zNjUuODkgMS4yNDYgMS4yNDYgMCAwIDEtLjg4Mi4zNjhaIgoJCQkvPgoJCTwvc3ZnPgoJKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIERyaWJiYmxlSWNvbigpIHsKCXJldHVybiAoCgkJPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMiIgaGVpZ2h0PSIyMiIgZmlsbD0ibm9uZSI+CgkJCTxwYXRoCgkJCQlmaWxsPSIjMDUyRTQwIgoJCQkJZD0iTTEwLjk2MyA3LjIwNGMtMS45MTIgMC0zLjQ3MiAxLjU3NC0zLjQ3MiAzLjUwMyAwIDEuOTI4IDEuNTYgMy41MDIgMy40NzIgMy41MDIgMS45MTEgMCAzLjQ3MS0xLjU3NCAzLjQ3MS0zLjUwMiAwLTEuOTI5LTEuNTYtMy41MDMtMy40NzEtMy41MDNabTEwLjQxMSAzLjUwM2MwLTEuNDUuMDEzLTIuODg4LS4wNjgtNC4zMzYtLjA4LTEuNjgyLS40Ni0zLjE3NC0xLjY4LTQuNDA0QzE4LjQwNy43MzUgMTYuOTMuMzU0IDE1LjI2My4yNzIgMTMuODI1LjE5MSAxMi40LjIwNCAxMC45NjUuMjA0Yy0xLjQzNyAwLTIuODYyLS4wMTMtNC4yOTcuMDY4LTEuNjY2LjA4Mi0zLjE0NS40NjUtNC4zNjQgMS42OTVDMS4wODIgMy4yLjcwNCA0LjY5LjYyNCA2LjM3MS41NDQgNy44MjEuNTU2IDkuMjYuNTU2IDEwLjcwN2MwIDEuNDQ3LS4wMTMgMi44ODcuMDY4IDQuMzM1LjA4IDEuNjgyLjQ2MSAzLjE3NCAxLjY4IDQuNDA0IDEuMjIxIDEuMjMyIDIuNjk4IDEuNjEzIDQuMzY0IDEuNjk1IDEuNDM4LjA4MSAyLjg2Mi4wNjggNC4yOTcuMDY4IDEuNDM4IDAgMi44NjIuMDEzIDQuMjk3LS4wNjggMS42NjctLjA4MSAzLjE0Ni0uNDY1IDQuMzY1LTEuNjk1IDEuMjIxLTEuMjMyIDEuNTk5LTIuNzIyIDEuNjgtNC40MDQuMDgzLTEuNDQ4LjA2Ny0yLjg4NS4wNjctNC4zMzVabS0xMC40MTEgNS4zODljLTIuOTU2IDAtNS4zNDEtMi40MDctNS4zNDEtNS4zOSAwLTIuOTgyIDIuMzg1LTUuMzg5IDUuMzQtNS4zODkgMi45NTYgMCA1LjM0MiAyLjQwNyA1LjM0MiA1LjM5IDAgMi45ODItMi4zODYgNS4zODktNS4zNDEgNS4zODlabTUuNTYtOS43NGMtLjY5IDAtMS4yNDgtLjU2My0xLjI0OC0xLjI2IDAtLjY5Ni41NTctMS4yNTggMS4yNDgtMS4yNTguNjkgMCAxLjI0Ny41NjIgMS4yNDcgMS4yNTlhMS4yNjUgMS4yNjUgMCAwIDEtLjM2NS44OSAxLjI0NiAxLjI0NiAwIDAgMS0uODgyLjM2OFoiCgkJCS8+CgkJPC9zdmc+CgkpOwp9CgoKORIAAAAAAAA6EgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8g0AAAAAAADyDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					147,
+					1,
+					"paste",
+					null,
+					"AgAAAAcOAAAAAAAAYRIAAAAAAAAAAAAAYRIAAAAAAABhEgAAAAAAACwEAAA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIj4KCQkJPHBhdGgKCQkJCWZpbGw9IiMwNTJFNDAiCgkJCQlkPSJNMTAuOTYzIDcuMjA0Yy0xLjkxMiAwLTMuNDcyIDEuNTc0LTMuNDcyIDMuNTAzIDAgMS45MjggMS41NiAzLjUwMiAzLjQ3MiAzLjUwMiAxLjkxMSAwIDMuNDcxLTEuNTc0IDMuNDcxLTMuNTAyIDAtMS45MjktMS41Ni0zLjUwMy0zLjQ3MS0zLjUwM1ptMTAuNDExIDMuNTAzYzAtMS40NS4wMTMtMi44ODgtLjA2OC00LjMzNi0uMDgtMS42ODItLjQ2LTMuMTc0LTEuNjgtNC40MDRDMTguNDA3LjczNSAxNi45My4zNTQgMTUuMjYzLjI3MiAxMy44MjUuMTkxIDEyLjQuMjA0IDEwLjk2NS4yMDRjLTEuNDM3IDAtMi44NjItLjAxMy00LjI5Ny4wNjgtMS42NjYuMDgyLTMuMTQ1LjQ2NS00LjM2NCAxLjY5NUMxLjA4MiAzLjIuNzA0IDQuNjkuNjI0IDYuMzcxLjU0NCA3LjgyMS41NTYgOS4yNi41NTYgMTAuNzA3YzAgMS40NDctLjAxMyAyLjg4Ny4wNjggNC4zMzUuMDggMS42ODIuNDYxIDMuMTc0IDEuNjggNC40MDQgMS4yMjEgMS4yMzIgMi42OTggMS42MTMgNC4zNjQgMS42OTUgMS40MzguMDgxIDIuODYyLjA2OCA0LjI5Ny4wNjggMS40MzggMCAyLjg2Mi4wMTMgNC4yOTctLjA2OCAxLjY2Ny0uMDgxIDMuMTQ2LS40NjUgNC4zNjUtMS42OTUgMS4yMjEtMS4yMzIgMS41OTktMi43MjIgMS42OC00LjQwNC4wODMtMS40NDguMDY3LTIuODg1LjA2Ny00LjMzNVptLTEwLjQxMSA1LjM4OWMtMi45NTYgMC01LjM0MS0yLjQwNy01LjM0MS01LjM5IDAtMi45ODIgMi4zODUtNS4zODkgNS4zNC01LjM4OSAyLjk1NiAwIDUuMzQyIDIuNDA3IDUuMzQyIDUuMzkgMCAyLjk4Mi0yLjM4NiA1LjM4OS01LjM0MSA1LjM4OVptNS41Ni05Ljc0Yy0uNjkgMC0xLjI0OC0uNTYzLTEuMjQ4LTEuMjYgMC0uNjk2LjU1Ny0xLjI1OCAxLjI0OC0xLjI1OC42OSAwIDEuMjQ3LjU2MiAxLjI0NyAxLjI1OWExLjI2NSAxLjI2NSAwIDAgMS0uMzY1Ljg5IDEuMjQ2IDEuMjQ2IDAgMCAxLS44ODIuMzY4WiIKCQkJLz4KCQk8L3N2Zz4",
+					"AQAAAAAAAAABAAAABw4AAAAAAAAzEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					149,
+					1,
+					"js_prettier",
+					{
+						"auto_format_prettier_config_path": null,
+						"save_file": true
+					},
+					"AgAAAAAAAAAAAAAASRIAAAAAAABoEgAAZXhwb3J0IGZ1bmN0aW9uIEdpdGh1Ykljb24oKSB7CglyZXR1cm4gKAoJCTxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjciIGhlaWdodD0iMjYiIGZpbGw9Im5vbmUiPgoJCQk8cGF0aAoJCQkJZmlsbD0iIzA1MkU0MCIKCQkJCWQ9Ik0xMy4xMTMgMEM1Ljg2OC0uMDAzIDAgNS44NjIgMCAxMy4xMDJjMCA1LjcyNCAzLjY3IDEwLjU5IDguNzgzIDEyLjM3OC42ODkuMTcyLjU4My0uMzE3LjU4My0uNjV2LTIuMjcxYy0zLjk3NS40NjUtNC4xMzctMi4xNjUtNC40MDMtMi42MDUtLjU0LS45Mi0xLjgxNC0xLjE1NC0xLjQzMy0xLjU5NC45MDYtLjQ2NSAxLjgyOC4xMTcgMi44OTggMS42OTcuNzczIDEuMTQ1IDIuMjgyLjk1MiAzLjA0Ny43NjFhMy42OTUgMy42OTUgMCAwIDEgMS4wMTYtMS43OGMtNC4xMTktLjc0LTUuODM2LTMuMjUzLTUuODM2LTYuMjQxIDAtMS40NS40NzgtMi43ODMgMS40MTUtMy44NTktLjU5Ny0xLjc3Mi4wNTYtMy4yOS4xNDQtMy41MTUgMS43MDItLjE1MiAzLjQ3MiAxLjIxOSAzLjYxIDEuMzI3Ljk2Ni0uMjYgMi4wNy0uMzk4IDMuMzA3LS4zOTggMS4yNDIgMCAyLjM1LjE0MyAzLjMyNS40MDcuMzMxLS4yNTIgMS45NzItMS40MyAzLjU1NC0xLjI4Ni4wODUuMjI1LjcyMyAxLjcwOC4xNiAzLjQ1Ny45NSAxLjA3OCAxLjQzMyAyLjQyMiAxLjQzMyAzLjg3NiAwIDIuOTk0LTEuNzI4IDUuNTEtNS44NTkgNi4yMzdhMy43MzMgMy43MzMgMCAwIDEgMS4xMTYgMi42NjZ2My4yOTZjLjAyNC4yNjQgMCAuNTI0LjQ0LjUyNCA1LjE4OC0xLjc0OSA4LjkyNC02LjY1IDguOTI0LTEyLjQyNUMyNi4yMjQgNS44NjIgMjAuMzUyIDAgMTMuMTE0IDBaIgoJCQkvPgoJCTwvc3ZnPgoJKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIExpbmtlZGluSWNvbigpIHsKCXJldHVybiAoCgkJPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSI+CgkJCTxwYXRoCgkJCQlmaWxsPSIjMDUyRTQwIgoJCQkJZD0iTTIxLjU1NCAwSDEuODg0Qy44NDQgMCAwIC44NDQgMCAxLjg4NHYxOS42N2MwIDEuMDQuODQ0IDEuODg0IDEuODg0IDEuODg0aDE5LjY3YzEuMDQgMCAxLjg4NC0uODQ0IDEuODg0LTEuODg0VjEuODg0QzIzLjQzOC44NDQgMjIuNTkzIDAgMjEuNTUzIDBabTAgMjEuNTYzYTE2NTAyLjIgMTY1MDIuMiAwIDAgMS0xOS42NzktLjAxYy4wMDMtMTMuMTE4LjAwNi0xOS42NzguMDA5LTE5LjY3OCAxMy4xMTkuMDAzIDE5LjY3OC4wMDYgMTkuNjc4LjAwOS0uMDAyIDEzLjExOS0uMDA1IDE5LjY3OC0uMDA4IDE5LjY3OFpNMy40NzQgOC43ODZoMy40Nzh2MTEuMTg2SDMuNDc1VjguNzg2Wm0xLjc0LTEuNTNhMi4wMTcgMi4wMTcgMCAwIDAgMS40MjYtMy40NCAyLjAxNiAyLjAxNiAwIDEgMC0xLjQyNSAzLjQ0Wm03LjM5MiA3LjE4MWMwLTEuNDU4LjI3OS0yLjg3IDIuMDg2LTIuODcgMS43ODIgMCAxLjgwOCAxLjY2NiAxLjgwOCAyLjk2NHY1LjQ0aDMuNDc1di02LjEzNGMwLTMuMDEyLS42NS01LjMzLTQuMTctNS4zMy0xLjY5IDAtMi44MjQuOTMtMy4yOSAxLjgwOGgtLjA0NlY4Ljc4Nkg5LjEzMnYxMS4xODZoMy40NzR2LTUuNTM1WiIKCQkJLz4KCQk8L3N2Zz4KCSk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBUd2l0dGVySWNvbigpIHsKCXJldHVybiAoCgkJPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMyIgaGVpZ2h0PSIxOCIgZmlsbD0ibm9uZSI+CgkJCTxwYXRoCgkJCQlmaWxsPSIjMDUyRTQwIgoJCQkJZD0iTTIyLjMzNiAyLjEwN2E4Ljg0MyA4Ljg0MyAwIDAgMS0yLjU1Ny42OTRBNC40NjMgNC40NjMgMCAwIDAgMjEuNzMyLjMzYTguNzIgOC43MiAwIDAgMS0yLjgxOCAxLjA4MkE0LjQzIDQuNDMgMCAwIDAgMTcuNDM4LjM2NGE0LjM5NSA0LjM5NSAwIDAgMC0xLjc2OS0uMzY3Yy0yLjQ2IDAtNC40NCAyLjAxMy00LjQ0IDQuNDgzIDAgLjM0Ny4wNDIuNjkzLjExIDEuMDI3QTEyLjU4MyAxMi41ODMgMCAwIDEgMi4xODEuODE3YTQuNDggNC40OCAwIDAgMC0uNjA0IDIuMjYyYzAgMS41NTYuNzg0IDIuOTI3IDEuOTggMy43MzRhNC40NDkgNC40NDkgMCAwIDEtMi4wMDktLjU3di4wNTVhNC40NzIgNC40NzIgMCAwIDAgMy41NiA0LjM5OWMtLjM4Mi4xLS43NzUuMTUxLTEuMTcuMTUyLS4yODggMC0uNTYyLS4wMjktLjgzOC0uMDY4YTQuNDU0IDQuNDU0IDAgMCAwIDQuMTUxIDMuMTA4IDguODUgOC44NSAwIDAgMS01LjUxMyAxLjkxNmMtLjM3MiAwLS43MTYtLjAxMy0xLjA3Mi0uMDU1YTEyLjQ5MyAxMi40OTMgMCAwIDAgNi44MiAyLjAxYzguMTY2IDAgMTIuNjM1LTYuODI3IDEyLjYzNS0xMi43NTIgMC0uMTk1IDAtLjM4OS0uMDEzLS41ODNhOS42MTIgOS42MTIgMCAwIDAgMi4yMjctMi4zMThaIgoJCQkvPgoJCTwvc3ZnPgoJKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIEluc3RhZ3JhbUljb24oKSB7CglyZXR1cm4gKAoJCTxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIGZpbGw9Im5vbmUiPgoJCQk8cGF0aAoJCQkJZmlsbD0iIzA1MkU0MCIKCQkJCWQ9Ik0xMC45NjMgNy4yMDRjLTEuOTEyIDAtMy40NzIgMS41NzQtMy40NzIgMy41MDMgMCAxLjkyOCAxLjU2IDMuNTAyIDMuNDcyIDMuNTAyIDEuOTExIDAgMy40NzEtMS41NzQgMy40NzEtMy41MDIgMC0xLjkyOS0xLjU2LTMuNTAzLTMuNDcxLTMuNTAzWm0xMC40MTEgMy41MDNjMC0xLjQ1LjAxMy0yLjg4OC0uMDY4LTQuMzM2LS4wOC0xLjY4Mi0uNDYtMy4xNzQtMS42OC00LjQwNEMxOC40MDcuNzM1IDE2LjkzLjM1NCAxNS4yNjMuMjcyIDEzLjgyNS4xOTEgMTIuNC4yMDQgMTAuOTY1LjIwNGMtMS40MzcgMC0yLjg2Mi0uMDEzLTQuMjk3LjA2OC0xLjY2Ni4wODItMy4xNDUuNDY1LTQuMzY0IDEuNjk1QzEuMDgyIDMuMi43MDQgNC42OS42MjQgNi4zNzEuNTQ0IDcuODIxLjU1NiA5LjI2LjU1NiAxMC43MDdjMCAxLjQ0Ny0uMDEzIDIuODg3LjA2OCA0LjMzNS4wOCAxLjY4Mi40NjEgMy4xNzQgMS42OCA0LjQwNCAxLjIyMSAxLjIzMiAyLjY5OCAxLjYxMyA0LjM2NCAxLjY5NSAxLjQzOC4wODEgMi44NjIuMDY4IDQuMjk3LjA2OCAxLjQzOCAwIDIuODYyLjAxMyA0LjI5Ny0uMDY4IDEuNjY3LS4wODEgMy4xNDYtLjQ2NSA0LjM2NS0xLjY5NSAxLjIyMS0xLjIzMiAxLjU5OS0yLjcyMiAxLjY4LTQuNDA0LjA4My0xLjQ0OC4wNjctMi44ODUuMDY3LTQuMzM1Wm0tMTAuNDExIDUuMzg5Yy0yLjk1NiAwLTUuMzQxLTIuNDA3LTUuMzQxLTUuMzkgMC0yLjk4MiAyLjM4NS01LjM4OSA1LjM0LTUuMzg5IDIuOTU2IDAgNS4zNDIgMi40MDcgNS4zNDIgNS4zOSAwIDIuOTgyLTIuMzg2IDUuMzg5LTUuMzQxIDUuMzg5Wm01LjU2LTkuNzRjLS42OSAwLTEuMjQ4LS41NjMtMS4yNDgtMS4yNiAwLS42OTYuNTU3LTEuMjU4IDEuMjQ4LTEuMjU4LjY5IDAgMS4yNDcuNTYyIDEuMjQ3IDEuMjU5YTEuMjY1IDEuMjY1IDAgMCAxLS4zNjUuODkgMS4yNDYgMS4yNDYgMCAwIDEtLjg4Mi4zNjhaIgoJCQkvPgoJCTwvc3ZnPgoJKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIERyaWJiYmxlSWNvbigpIHsKCXJldHVybiAoCgkJPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMyIgaGVpZ2h0PSIyMyIgZmlsbD0ibm9uZSI+CgkJCQkJCQkJCTxwYXRoCgkJCQkJCQkJCQlmaWxsPSIjMDUyRTQwIgoJCQkJCQkJCQkJZD0iTTExLjM4OS4yMDNDNS40MTUuMjAzLjU1NiA1LjEwNi41NTYgMTEuMTM0czQuODU5IDEwLjkzMSAxMC44MzMgMTAuOTMxIDEwLjgzMy00LjkwMyAxMC44MzMtMTAuOTNDMjIuMjIyIDUuMTA1IDE3LjM2My4yMDIgMTEuMzkuMjAyWm03LjE2NCA1LjA0YTkuMzMyIDkuMzMyIDAgMCAxIDIuMDg5IDUuODE4Yy0uMzA1LS4wNjYtMy4zNjUtLjY5MS02LjQ0My0uMy0uMDY1LS4xNi0uMTMtLjMyLS4xOTgtLjQ4YTI4LjcxIDI4LjcxIDAgMCAwLS42MTUtMS4zNTRjMy40Mi0xLjQxMSA0Ljk3Mi0zLjQxNiA1LjE2Ny0zLjY4NFpNMTEuMzkgMS44MTFjMi4zNTIgMCA0LjUuODkxIDYuMTMzIDIuMzUyLS4xNjcuMjQtMS41NiAyLjEyOC00Ljg1IDMuMzc0QTQ5LjQ4MyA0OS40ODMgMCAwIDAgOS4yMiAyLjA3MWE5LjE0MiA5LjE0MiAwIDAgMSAyLjE2OS0uMjZaTTcuNDU0IDIuN2E1OS4xMTUgNTkuMTE1IDAgMCAxIDMuNDMgNS40Yy00LjMyOCAxLjE2LTguMTQgMS4xNDMtOC41NTUgMS4xMzhhOS4zNjEgOS4zNjEgMCAwIDEgNS4xMjUtNi41MzhabS01LjMxOCA4LjQ0OGMwLS4wOTQuMDAzLS4xOTEuMDA2LS4yODYuNDAzLjAwOCA0Ljg4OC4wNjYgOS41MS0xLjMzLjI2Ni41MjMuNTE4IDEuMDU0Ljc1IDEuNTg1LS4xMjIuMDM0LS4yNDUuMDctLjM2NS4xMS00Ljc3MyAxLjU2MS03LjMxMiA1LjgwNS03LjUyMyA2LjE2NWE5LjM1MiA5LjM1MiAwIDAgMS0yLjM3OC02LjI0NFptOS4yNTMgOS4zMzZhOS4xNDYgOS4xNDYgMCAwIDEtNS42OC0xLjk3Yy4xNjctLjM0NSAyLjA0LTMuOTk0IDcuMjU4LTUuODMxbC4wNi0uMDIxYzEuMyAzLjQwNSAxLjgzNiA2LjI2MSAxLjk3NCA3LjA4MWE5LjA1NyA5LjA1NyAwIDAgMS0zLjYxMi43NDFabTUuMTctMS41OTVjLS4wOTUtLjU2Ny0uNTg3LTMuMy0xLjc5OC02LjY1NiAyLjkwMS0uNDY3IDUuNDQ4LjMgNS43NjMuNGE5LjM1IDkuMzUgMCAwIDEtMy45NjYgNi4yNTZaIgoJCQkJCQkJCQkvPgoJCQkJCQkJCTwvc3ZnPgoJKTsKfQpJEgAAAAAAAEoSAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYRIAAAAAAABhEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					156,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAAEkSAAAAAAAAuBYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASRIAAAAAAADaDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					160,
+					1,
+					"insert",
+					{
+						"characters": "\n\n\n"
+					},
+					"AwAAAEkSAAAAAAAAShIAAAAAAAAAAAAAShIAAAAAAABLEgAAAAAAAAAAAABLEgAAAAAAAEwSAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASRIAAAAAAABJEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					166,
+					8,
+					"left_delete",
+					null,
+					"CAAAAGMSAAAAAAAAYxIAAAAAAAABAAAAZWISAAAAAAAAYhIAAAAAAAABAAAAbGESAAAAAAAAYRIAAAAAAAABAAAAYmASAAAAAAAAYBIAAAAAAAABAAAAYl8SAAAAAAAAXxIAAAAAAAABAAAAYl4SAAAAAAAAXhIAAAAAAAABAAAAaV0SAAAAAAAAXRIAAAAAAAABAAAAclwSAAAAAAAAXBIAAAAAAAABAAAARA",
+					"AQAAAAAAAAABAAAAZBIAAAAAAABkEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					167,
+					1,
+					"insert",
+					{
+						"characters": "Figma"
+					},
+					"BQAAAFwSAAAAAAAAXRIAAAAAAAAAAAAAXRIAAAAAAABeEgAAAAAAAAAAAABeEgAAAAAAAF8SAAAAAAAAAAAAAF8SAAAAAAAAYBIAAAAAAAAAAAAAYBIAAAAAAABhEgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXBIAAAAAAABcEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					170,
+					1,
+					"paste",
+					null,
+					"AgAAAHYSAAAAAAAAAhgAAAAAAAAAAAAAAhgAAAAAAAACGAAAAAAAADwEAAA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjIzIiBoZWlnaHQ9IjIzIiBmaWxsPSJub25lIj4KCQkJPHBhdGgKCQkJCWZpbGw9IiMwNTJFNDAiCgkJCQlkPSJNMTEuMzg5LjIwM0M1LjQxNS4yMDMuNTU2IDUuMTA2LjU1NiAxMS4xMzRzNC44NTkgMTAuOTMxIDEwLjgzMyAxMC45MzEgMTAuODMzLTQuOTAzIDEwLjgzMy0xMC45M0MyMi4yMjIgNS4xMDUgMTcuMzYzLjIwMiAxMS4zOS4yMDJabTcuMTY0IDUuMDRhOS4zMzIgOS4zMzIgMCAwIDEgMi4wODkgNS44MThjLS4zMDUtLjA2Ni0zLjM2NS0uNjkxLTYuNDQzLS4zLS4wNjUtLjE2LS4xMy0uMzItLjE5OC0uNDhhMjguNzEgMjguNzEgMCAwIDAtLjYxNS0xLjM1NGMzLjQyLTEuNDExIDQuOTcyLTMuNDE2IDUuMTY3LTMuNjg0Wk0xMS4zOSAxLjgxMWMyLjM1MiAwIDQuNS44OTEgNi4xMzMgMi4zNTItLjE2Ny4yNC0xLjU2IDIuMTI4LTQuODUgMy4zNzRBNDkuNDgzIDQ5LjQ4MyAwIDAgMCA5LjIyIDIuMDcxYTkuMTQyIDkuMTQyIDAgMCAxIDIuMTY5LS4yNlpNNy40NTQgMi43YTU5LjExNSA1OS4xMTUgMCAwIDEgMy40MyA1LjRjLTQuMzI4IDEuMTYtOC4xNCAxLjE0My04LjU1NSAxLjEzOGE5LjM2MSA5LjM2MSAwIDAgMSA1LjEyNS02LjUzOFptLTUuMzE4IDguNDQ4YzAtLjA5NC4wMDMtLjE5MS4wMDYtLjI4Ni40MDMuMDA4IDQuODg4LjA2NiA5LjUxLTEuMzMuMjY2LjUyMy41MTggMS4wNTQuNzUgMS41ODUtLjEyMi4wMzQtLjI0NS4wNy0uMzY1LjExLTQuNzczIDEuNTYxLTcuMzEyIDUuODA1LTcuNTIzIDYuMTY1YTkuMzUyIDkuMzUyIDAgMCAxLTIuMzc4LTYuMjQ0Wm05LjI1MyA5LjMzNmE5LjE0NiA5LjE0NiAwIDAgMS01LjY4LTEuOTdjLjE2Ny0uMzQ1IDIuMDQtMy45OTQgNy4yNTgtNS44MzFsLjA2LS4wMjFjMS4zIDMuNDA1IDEuODM2IDYuMjYxIDEuOTc0IDcuMDgxYTkuMDU3IDkuMDU3IDAgMCAxLTMuNjEyLjc0MVptNS4xNy0xLjU5NWMtLjA5NS0uNTY3LS41ODctMy4zLTEuNzk4LTYuNjU2IDIuOTAxLS40NjcgNS40NDguMyA1Ljc2My40YTkuMzUgOS4zNSAwIDAgMS0zLjk2NiA2LjI1NloiCgkJCS8+CgkJPC9zdmc+",
+					"AQAAAAAAAAABAAAAdhIAAAAAAACyFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					172,
+					1,
+					"js_prettier",
+					{
+						"auto_format_prettier_config_path": null,
+						"save_file": true
+					},
+					"AgAAAAAAAAAAAAAAgxcAAAAAAAAJGAAAZXhwb3J0IGZ1bmN0aW9uIEdpdGh1Ykljb24oKSB7CglyZXR1cm4gKAoJCTxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjciIGhlaWdodD0iMjYiIGZpbGw9Im5vbmUiPgoJCQk8cGF0aAoJCQkJZmlsbD0iIzA1MkU0MCIKCQkJCWQ9Ik0xMy4xMTMgMEM1Ljg2OC0uMDAzIDAgNS44NjIgMCAxMy4xMDJjMCA1LjcyNCAzLjY3IDEwLjU5IDguNzgzIDEyLjM3OC42ODkuMTcyLjU4My0uMzE3LjU4My0uNjV2LTIuMjcxYy0zLjk3NS40NjUtNC4xMzctMi4xNjUtNC40MDMtMi42MDUtLjU0LS45Mi0xLjgxNC0xLjE1NC0xLjQzMy0xLjU5NC45MDYtLjQ2NSAxLjgyOC4xMTcgMi44OTggMS42OTcuNzczIDEuMTQ1IDIuMjgyLjk1MiAzLjA0Ny43NjFhMy42OTUgMy42OTUgMCAwIDEgMS4wMTYtMS43OGMtNC4xMTktLjc0LTUuODM2LTMuMjUzLTUuODM2LTYuMjQxIDAtMS40NS40NzgtMi43ODMgMS40MTUtMy44NTktLjU5Ny0xLjc3Mi4wNTYtMy4yOS4xNDQtMy41MTUgMS43MDItLjE1MiAzLjQ3MiAxLjIxOSAzLjYxIDEuMzI3Ljk2Ni0uMjYgMi4wNy0uMzk4IDMuMzA3LS4zOTggMS4yNDIgMCAyLjM1LjE0MyAzLjMyNS40MDcuMzMxLS4yNTIgMS45NzItMS40MyAzLjU1NC0xLjI4Ni4wODUuMjI1LjcyMyAxLjcwOC4xNiAzLjQ1Ny45NSAxLjA3OCAxLjQzMyAyLjQyMiAxLjQzMyAzLjg3NiAwIDIuOTk0LTEuNzI4IDUuNTEtNS44NTkgNi4yMzdhMy43MzMgMy43MzMgMCAwIDEgMS4xMTYgMi42NjZ2My4yOTZjLjAyNC4yNjQgMCAuNTI0LjQ0LjUyNCA1LjE4OC0xLjc0OSA4LjkyNC02LjY1IDguOTI0LTEyLjQyNUMyNi4yMjQgNS44NjIgMjAuMzUyIDAgMTMuMTE0IDBaIgoJCQkvPgoJCTwvc3ZnPgoJKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIExpbmtlZGluSWNvbigpIHsKCXJldHVybiAoCgkJPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSI+CgkJCTxwYXRoCgkJCQlmaWxsPSIjMDUyRTQwIgoJCQkJZD0iTTIxLjU1NCAwSDEuODg0Qy44NDQgMCAwIC44NDQgMCAxLjg4NHYxOS42N2MwIDEuMDQuODQ0IDEuODg0IDEuODg0IDEuODg0aDE5LjY3YzEuMDQgMCAxLjg4NC0uODQ0IDEuODg0LTEuODg0VjEuODg0QzIzLjQzOC44NDQgMjIuNTkzIDAgMjEuNTUzIDBabTAgMjEuNTYzYTE2NTAyLjIgMTY1MDIuMiAwIDAgMS0xOS42NzktLjAxYy4wMDMtMTMuMTE4LjAwNi0xOS42NzguMDA5LTE5LjY3OCAxMy4xMTkuMDAzIDE5LjY3OC4wMDYgMTkuNjc4LjAwOS0uMDAyIDEzLjExOS0uMDA1IDE5LjY3OC0uMDA4IDE5LjY3OFpNMy40NzQgOC43ODZoMy40Nzh2MTEuMTg2SDMuNDc1VjguNzg2Wm0xLjc0LTEuNTNhMi4wMTcgMi4wMTcgMCAwIDAgMS40MjYtMy40NCAyLjAxNiAyLjAxNiAwIDEgMC0xLjQyNSAzLjQ0Wm03LjM5MiA3LjE4MWMwLTEuNDU4LjI3OS0yLjg3IDIuMDg2LTIuODcgMS43ODIgMCAxLjgwOCAxLjY2NiAxLjgwOCAyLjk2NHY1LjQ0aDMuNDc1di02LjEzNGMwLTMuMDEyLS42NS01LjMzLTQuMTctNS4zMy0xLjY5IDAtMi44MjQuOTMtMy4yOSAxLjgwOGgtLjA0NlY4Ljc4Nkg5LjEzMnYxMS4xODZoMy40NzR2LTUuNTM1WiIKCQkJLz4KCQk8L3N2Zz4KCSk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBUd2l0dGVySWNvbigpIHsKCXJldHVybiAoCgkJPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMyIgaGVpZ2h0PSIxOCIgZmlsbD0ibm9uZSI+CgkJCTxwYXRoCgkJCQlmaWxsPSIjMDUyRTQwIgoJCQkJZD0iTTIyLjMzNiAyLjEwN2E4Ljg0MyA4Ljg0MyAwIDAgMS0yLjU1Ny42OTRBNC40NjMgNC40NjMgMCAwIDAgMjEuNzMyLjMzYTguNzIgOC43MiAwIDAgMS0yLjgxOCAxLjA4MkE0LjQzIDQuNDMgMCAwIDAgMTcuNDM4LjM2NGE0LjM5NSA0LjM5NSAwIDAgMC0xLjc2OS0uMzY3Yy0yLjQ2IDAtNC40NCAyLjAxMy00LjQ0IDQuNDgzIDAgLjM0Ny4wNDIuNjkzLjExIDEuMDI3QTEyLjU4MyAxMi41ODMgMCAwIDEgMi4xODEuODE3YTQuNDggNC40OCAwIDAgMC0uNjA0IDIuMjYyYzAgMS41NTYuNzg0IDIuOTI3IDEuOTggMy43MzRhNC40NDkgNC40NDkgMCAwIDEtMi4wMDktLjU3di4wNTVhNC40NzIgNC40NzIgMCAwIDAgMy41NiA0LjM5OWMtLjM4Mi4xLS43NzUuMTUxLTEuMTcuMTUyLS4yODggMC0uNTYyLS4wMjktLjgzOC0uMDY4YTQuNDU0IDQuNDU0IDAgMCAwIDQuMTUxIDMuMTA4IDguODUgOC44NSAwIDAgMS01LjUxMyAxLjkxNmMtLjM3MiAwLS43MTYtLjAxMy0xLjA3Mi0uMDU1YTEyLjQ5MyAxMi40OTMgMCAwIDAgNi44MiAyLjAxYzguMTY2IDAgMTIuNjM1LTYuODI3IDEyLjYzNS0xMi43NTIgMC0uMTk1IDAtLjM4OS0uMDEzLS41ODNhOS42MTIgOS42MTIgMCAwIDAgMi4yMjctMi4zMThaIgoJCQkvPgoJCTwvc3ZnPgoJKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIEluc3RhZ3JhbUljb24oKSB7CglyZXR1cm4gKAoJCTxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIGZpbGw9Im5vbmUiPgoJCQk8cGF0aAoJCQkJZmlsbD0iIzA1MkU0MCIKCQkJCWQ9Ik0xMC45NjMgNy4yMDRjLTEuOTEyIDAtMy40NzIgMS41NzQtMy40NzIgMy41MDMgMCAxLjkyOCAxLjU2IDMuNTAyIDMuNDcyIDMuNTAyIDEuOTExIDAgMy40NzEtMS41NzQgMy40NzEtMy41MDIgMC0xLjkyOS0xLjU2LTMuNTAzLTMuNDcxLTMuNTAzWm0xMC40MTEgMy41MDNjMC0xLjQ1LjAxMy0yLjg4OC0uMDY4LTQuMzM2LS4wOC0xLjY4Mi0uNDYtMy4xNzQtMS42OC00LjQwNEMxOC40MDcuNzM1IDE2LjkzLjM1NCAxNS4yNjMuMjcyIDEzLjgyNS4xOTEgMTIuNC4yMDQgMTAuOTY1LjIwNGMtMS40MzcgMC0yLjg2Mi0uMDEzLTQuMjk3LjA2OC0xLjY2Ni4wODItMy4xNDUuNDY1LTQuMzY0IDEuNjk1QzEuMDgyIDMuMi43MDQgNC42OS42MjQgNi4zNzEuNTQ0IDcuODIxLjU1NiA5LjI2LjU1NiAxMC43MDdjMCAxLjQ0Ny0uMDEzIDIuODg3LjA2OCA0LjMzNS4wOCAxLjY4Mi40NjEgMy4xNzQgMS42OCA0LjQwNCAxLjIyMSAxLjIzMiAyLjY5OCAxLjYxMyA0LjM2NCAxLjY5NSAxLjQzOC4wODEgMi44NjIuMDY4IDQuMjk3LjA2OCAxLjQzOCAwIDIuODYyLjAxMyA0LjI5Ny0uMDY4IDEuNjY3LS4wODEgMy4xNDYtLjQ2NSA0LjM2NS0xLjY5NSAxLjIyMS0xLjIzMiAxLjU5OS0yLjcyMiAxLjY4LTQuNDA0LjA4My0xLjQ0OC4wNjctMi44ODUuMDY3LTQuMzM1Wm0tMTAuNDExIDUuMzg5Yy0yLjk1NiAwLTUuMzQxLTIuNDA3LTUuMzQxLTUuMzkgMC0yLjk4MiAyLjM4NS01LjM4OSA1LjM0LTUuMzg5IDIuOTU2IDAgNS4zNDIgMi40MDcgNS4zNDIgNS4zOSAwIDIuOTgyLTIuMzg2IDUuMzg5LTUuMzQxIDUuMzg5Wm01LjU2LTkuNzRjLS42OSAwLTEuMjQ4LS41NjMtMS4yNDgtMS4yNiAwLS42OTYuNTU3LTEuMjU4IDEuMjQ4LTEuMjU4LjY5IDAgMS4yNDcuNTYyIDEuMjQ3IDEuMjU5YTEuMjY1IDEuMjY1IDAgMCAxLS4zNjUuODkgMS4yNDYgMS4yNDYgMCAwIDEtLjg4Mi4zNjhaIgoJCQkvPgoJCTwvc3ZnPgoJKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIERyaWJiYmxlSWNvbigpIHsKCXJldHVybiAoCgkJPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMyIgaGVpZ2h0PSIyMyIgZmlsbD0ibm9uZSI+CgkJCTxwYXRoCgkJCQlmaWxsPSIjMDUyRTQwIgoJCQkJZD0iTTExLjM4OS4yMDNDNS40MTUuMjAzLjU1NiA1LjEwNi41NTYgMTEuMTM0czQuODU5IDEwLjkzMSAxMC44MzMgMTAuOTMxIDEwLjgzMy00LjkwMyAxMC44MzMtMTAuOTNDMjIuMjIyIDUuMTA1IDE3LjM2My4yMDIgMTEuMzkuMjAyWm03LjE2NCA1LjA0YTkuMzMyIDkuMzMyIDAgMCAxIDIuMDg5IDUuODE4Yy0uMzA1LS4wNjYtMy4zNjUtLjY5MS02LjQ0My0uMy0uMDY1LS4xNi0uMTMtLjMyLS4xOTgtLjQ4YTI4LjcxIDI4LjcxIDAgMCAwLS42MTUtMS4zNTRjMy40Mi0xLjQxMSA0Ljk3Mi0zLjQxNiA1LjE2Ny0zLjY4NFpNMTEuMzkgMS44MTFjMi4zNTIgMCA0LjUuODkxIDYuMTMzIDIuMzUyLS4xNjcuMjQtMS41NiAyLjEyOC00Ljg1IDMuMzc0QTQ5LjQ4MyA0OS40ODMgMCAwIDAgOS4yMiAyLjA3MWE5LjE0MiA5LjE0MiAwIDAgMSAyLjE2OS0uMjZaTTcuNDU0IDIuN2E1OS4xMTUgNTkuMTE1IDAgMCAxIDMuNDMgNS40Yy00LjMyOCAxLjE2LTguMTQgMS4xNDMtOC41NTUgMS4xMzhhOS4zNjEgOS4zNjEgMCAwIDEgNS4xMjUtNi41MzhabS01LjMxOCA4LjQ0OGMwLS4wOTQuMDAzLS4xOTEuMDA2LS4yODYuNDAzLjAwOCA0Ljg4OC4wNjYgOS41MS0xLjMzLjI2Ni41MjMuNTE4IDEuMDU0Ljc1IDEuNTg1LS4xMjIuMDM0LS4yNDUuMDctLjM2NS4xMS00Ljc3MyAxLjU2MS03LjMxMiA1LjgwNS03LjUyMyA2LjE2NWE5LjM1MiA5LjM1MiAwIDAgMS0yLjM3OC02LjI0NFptOS4yNTMgOS4zMzZhOS4xNDYgOS4xNDYgMCAwIDEtNS42OC0xLjk3Yy4xNjctLjM0NSAyLjA0LTMuOTk0IDcuMjU4LTUuODMxbC4wNi0uMDIxYzEuMyAzLjQwNSAxLjgzNiA2LjI2MSAxLjk3NCA3LjA4MWE5LjA1NyA5LjA1NyAwIDAgMS0zLjYxMi43NDFabTUuMTctMS41OTVjLS4wOTUtLjU2Ny0uNTg3LTMuMy0xLjc5OC02LjY1NiAyLjkwMS0uNDY3IDUuNDQ4LjMgNS43NjMuNGE5LjM1IDkuMzUgMCAwIDEtMy45NjYgNi4yNTZaIgoJCQkvPgoJCTwvc3ZnPgoJKTsKfQoKCmV4cG9ydCBmdW5jdGlvbiBGaWdtYUljb24oKSB7CglyZXR1cm4gKAoJCTxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTkiIGhlaWdodD0iMjYiIGZpbGw9Im5vbmUiPgoJCQkJCQkJCQk8cGF0aAoJCQkJCQkJCQkJc3Ryb2tlPSIjMDUyRTQwIgoJCQkJCQkJCQkJc3Ryb2tlTGluZWNhcD0icm91bmQiCgkJCQkJCQkJCQlzdHJva2VMaW5lam9pbj0icm91bmQiCgkJCQkJCQkJCQlzdHJva2VXaWR0aD0iMi4yMjIiCgkJCQkJCQkJCQlkPSJNMS40NDQgNS4yM2MwLTEuMDQuNDEtMi4wMzkgMS4xNC0yLjc3NGEzLjg3MSAzLjg3MSAwIDAgMSAyLjc1LTEuMTVoMy44ODh2Ny44NDhINS4zMzNhMy44NzEgMy44NzEgMCAwIDEtMi43NS0xLjE1QTMuOTQyIDMuOTQyIDAgMCAxIDEuNDQ0IDUuMjNaTTkuMjIyIDEuMzA2aDMuODlhMy44NTkgMy44NTkgMCAwIDEgMi43NDkgMS4xNUEzLjkyNiAzLjkyNiAwIDAgMSAxNyA1LjIzYTMuOTUzIDMuOTUzIDAgMCAxLTEuMTQgMi43NzUgMy44ODcgMy44ODcgMCAwIDEtMi43NDkgMS4xNUg5LjIyMlYxLjMwNVoiCgkJCQkJCQkJCS8+CgkJCQkJCQkJCTxwYXRoCgkJCQkJCQkJCQlzdHJva2U9IiMwNTJFNDAiCgkJCQkJCQkJCQlzdHJva2VMaW5lY2FwPSJyb3VuZCIKCQkJCQkJCQkJCXN0cm9rZUxpbmVqb2luPSJyb3VuZCIKCQkJCQkJCQkJCXN0cm9rZVdpZHRoPSIyLjIyMiIKCQkJCQkJCQkJCWQ9Ik05LjIyMiAxMy4wNzhhMy45NTUgMy45NTUgMCAwIDEgMS4xNC0yLjc3NCAzLjg4NiAzLjg4NiAwIDAgMSAyLjc1LTEuMTUgMy44NTkgMy44NTkgMCAwIDEgMi43NDkgMS4xNSAzLjk1MyAzLjk1MyAwIDAgMSAwIDUuNTVBMy44ODYgMy44ODYgMCAwIDEgMTMuMTEgMTdhMy44NiAzLjg2IDAgMCAxLTIuNzUtMS4xNSAzLjkyNiAzLjkyNiAwIDAgMS0xLjEzOS0yLjc3NHYwWk0xLjQ0NCAyMC45MjZjMC0xLjA0LjQxLTIuMDM5IDEuMTQtMi43NzVhMy44NzIgMy44NzIgMCAwIDEgMi43NS0xLjE0OWgzLjg4OHYzLjkyNGMwIDEuMDQtLjQxIDIuMDM5LTEuMTM5IDIuNzc1YTMuODcxIDMuODcxIDAgMCAxLTIuNzUgMS4xNDkgMy44NzEgMy44NzEgMCAwIDEtMi43NS0xLjE1IDMuOTQyIDMuOTQyIDAgMCAxLTEuMTM5LTIuNzc0WiIKCQkJCQkJCQkJLz4KCQkJCQkJCQkJPHBhdGgKCQkJCQkJCQkJCXN0cm9rZT0iIzA1MkU0MCIKCQkJCQkJCQkJCXN0cm9rZUxpbmVjYXA9InJvdW5kIgoJCQkJCQkJCQkJc3Ryb2tlTGluZWpvaW49InJvdW5kIgoJCQkJCQkJCQkJc3Ryb2tlV2lkdGg9IjIuMjIyIgoJCQkJCQkJCQkJZD0iTTEuNDQ0IDEzLjA3OGMwLTEuMDQuNDEtMi4wMzkgMS4xNC0yLjc3NGEzLjg3MSAzLjg3MSAwIDAgMSAyLjc1LTEuMTVoMy44ODh2Ny44NDhINS4zMzNhMy44NzEgMy44NzEgMCAwIDEtMi43NS0xLjE1IDMuOTQyIDMuOTQyIDAgMCAxLTEuMTM5LTIuNzc0WiIKCQkJCQkJCQkJLz4KCQkJCQkJCQk8L3N2Zz4KCSk7Cn0KgxcAAAAAAACEFwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "src/app/page.tsx",
+			"settings":
+			{
+				"buffer_size": 204,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAAJYAAAAAAAAApwAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJUAAAAAAAAAlQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					8,
+					1,
+					"swap_line_down",
+					null,
+					"AgAAALcAAAAAAAAAyAAAAAAAAAAAAAAAlgAAAAAAAACWAAAAAAAAABEAAAAgICAgICA8SGVhZGVyIC8+Cg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKYAAAAAAAAApgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					34,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAALYAAAAAAAAAuQAAAAAAAAAAAAAArAAAAAAAAACvAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtgAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAEgAAAAAAAAASAAAAAAAAAAGAAAAaGVhZGVySAAAAAAAAABPAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAACwAAAAAAAAALQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					1,
+					"cut",
+					null,
+					"AQAAAA8AAAAAAAAADwAAAAAAAAAhAAAAaW1wb3J0IEFib3V0IGZyb20gIi4vdWkvYWJvdXQvIjsK",
+					"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAH4AAAAAAAAAfgAAAAAAAAAFAAAAQWJvdXR+AAAAAAAAAIMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgwAAAAAAAACDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									2,
+									0
+								],
+								[
+									2,
+									0
+								],
+								"import About from \"./ui/about\";\n",
+								null
+							]
+						]
+					},
+					"AQAAAA8AAAAAAAAALwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgwAAAAAAAACDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"reload_auto_complete",
+					null,
+					"AQAAAE4AAAAAAAAATgAAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 497,
+				"buffer_size": 604,
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+				[
+					17,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA7AgAAewogICJuYW1lIjogInAyIiwKICAidmVyc2lvbiI6ICIwLjEuMCIsCiAgInByaXZhdGUiOiB0cnVlLAogICJzY3JpcHRzIjogewogICAgImRldiI6ICJuZXh0IGRldiIsCiAgICAiYnVpbGQiOiAibmV4dCBidWlsZCIsCiAgICAic3RhcnQiOiAibmV4dCBzdGFydCIsCiAgICAibGludCI6ICJuZXh0IGxpbnQiCiAgfSwKICAiZGVwZW5kZW5jaWVzIjogewogICAgImdzYXAiOiAiXjMuMTIuMiIsCiAgICAibGVuaXMiOiAiXjAuMC4yIiwKICAgICJuZXh0IjogIjE0LjAuMyIsCiAgICAicmVhY3QiOiAiXjE4IiwKICAgICJyZWFjdC1kb20iOiAiXjE4IiwKICAgICJzcGxpdC10eXBlIjogIl4wLjMuNCIsCiAgICAic3R5bGVkLWNvbXBvbmVudHMiOiAiXjYuMS4xIgogIH0sCiAgImRldkRlcGVuZGVuY2llcyI6IHsKICAgICJ0eXBlc2NyaXB0IjogIl41IiwKICAgICJAdHlwZXMvbm9kZSI6ICJeMjAiLAogICAgIkB0eXBlcy9yZWFjdCI6ICJeMTgiLAogICAgIkB0eXBlcy9yZWFjdC1kb20iOiAiXjE4IiwKICAgICJlc2xpbnQiOiAiXjgiLAogICAgImVzbGludC1jb25maWctbmV4dCI6ICIxNC4wLjMiCiAgfQp9CgAAAAAAAAAAXAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzQAAAAAAAADRAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
 		}
 	],
 	"build_system": "",
@@ -540,16 +1880,40 @@
 		"selected_items":
 		[
 			[
+				"git ",
+				"git: status"
+			],
+			[
 				"ter",
 				"Terminus: Toggle Panel"
+			],
+			[
+				"diag",
+				"LSP: Toggle Diagnostics Panel"
+			],
+			[
+				"term v",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"termv",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terv",
+				"Terminus: Open Default Shell in Tab (View)"
 			],
 			[
 				"git",
 				"git: status"
 			],
 			[
-				"diag",
-				"LSP: Toggle Diagnostics Panel"
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"edit",
+				"Project: Edit"
 			],
 			[
 				"terc",
@@ -596,19 +1960,7 @@
 				"git: status"
 			],
 			[
-				"termv",
-				"Terminus: Open Default Shell in Tab (View)"
-			],
-			[
-				"terv",
-				"Terminus: Open Default Shell in Tab (View)"
-			],
-			[
 				"colo",
-				"UI: Select Color Scheme"
-			],
-			[
-				"color",
 				"UI: Select Color Scheme"
 			],
 			[
@@ -618,10 +1970,6 @@
 			[
 				"them",
 				"UI: Select Theme"
-			],
-			[
-				"edit",
-				"Project: Edit"
 			],
 			[
 				"ins",
@@ -784,11 +2132,26 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus"
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/about"
 	],
 	"file_history":
 	[
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/about/magic.tsx",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/about/index.tsx",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/header/svgAnimate.tsx",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/header/socials.tsx",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/about.tsx",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/text.tsx",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/lib/utils/index.ts",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/wrapper.tsx",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/header/index.tsx",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/header/useAnimatedText.ts",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/header.tsx",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/portfolio.sublime-project",
 		"/Users/DEV-CHUKS/Desktop/p2/src/app/page.tsx",
 		"/Users/DEV-CHUKS/Desktop/p2/src/app/ui/about.tsx",
 		"/Users/DEV-CHUKS/Desktop/p2/src/app/ui/header.tsx",
@@ -811,7 +2174,6 @@
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/lib/registry.tsx",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/component/nav.tsx",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/public/logo.svg",
-		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/portfolio.sublime-project",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/utils/index.ts",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/next.config.js",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/page.module.css",
@@ -905,21 +2267,11 @@
 		"/Users/DEV-CHUKS/Desktop/projects/readycash/src/utils/index.ts",
 		"/Users/DEV-CHUKS/Desktop/projects/bankmi/src/screens/onboarding/components/slide.tsx",
 		"/Users/DEV-CHUKS/Desktop/projects/bankmi/src/context/globalContext.tsx",
-		"/Users/DEV-CHUKS/Desktop/projects/bankmi/src/feature/user/reducers.ts",
-		"/Users/DEV-CHUKS/Desktop/projects/bankmi/src/feature/user/actions.ts",
-		"/Users/DEV-CHUKS/Desktop/projects/bankmi/src/feature/user/actionCreators.ts",
-		"/Users/DEV-CHUKS/Desktop/projects/bankmi/src/feature/signup/userDetails.tsx",
-		"/Users/DEV-CHUKS/Desktop/projects/bankmi/src/feature/signup/pinDetails.tsx",
-		"/Users/DEV-CHUKS/Desktop/projects/bankmi/src/feature/signup/password.tsx",
-		"/Users/DEV-CHUKS/Desktop/projects/bankmi/src/feature/signup/layout.tsx",
-		"/Users/DEV-CHUKS/Desktop/projects/bankmi/src/feature/dashboard/components/topNav.tsx",
-		"/Users/DEV-CHUKS/Desktop/projects/bankmi/src/feature/dashboard/components/options.tsx",
-		"/Users/DEV-CHUKS/Desktop/projects/bankmi/src/feature/dashboard/components/acountDetails.tsx",
-		"/Users/DEV-CHUKS/Desktop/projects/bankmi/src/hooks/useUpdateAuth.ts"
+		"/Users/DEV-CHUKS/Desktop/projects/bankmi/src/feature/user/reducers.ts"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 80.0
 	},
 	"find_in_files":
 	{
@@ -933,6 +2285,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"magic",
+			"const",
+			"name",
+			"span",
+			"calibre",
+			"div",
+			"<svg viewBox=\"0 0 512 512\">\n\t\t\t\t\t\t\t\t\t<path d=\"M512 255.1c0 11.34-7.406 20.86-18.44 23.64l-171.3 42.78l-42.78 171.1C276.7 504.6 267.2 512 255.9 512s-20.84-7.406-23.62-18.44l-42.66-171.2L18.47 279.6C7.406 276.8 0 267.3 0 255.1c0-11.34 7.406-20.83 18.44-23.61l171.2-42.78l42.78-171.1C235.2 7.406 244.7 0 256 0s20.84 7.406 23.62 18.44l42.78 171.2l171.2 42.78C504.6 235.2 512 244.6 512 255.1z\" />\n\t\t\t\t\t\t\t\t</svg>",
+			"aboutinnerContainer",
+			"animation",
+			"class"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -956,12 +2318,666 @@
 			[
 				{
 					"buffer": 0,
-					"file": "package.json",
+					"file": "src/app/ui/about/index.tsx",
 					"selected": true,
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 497,
+						"buffer_size": 2984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1517,
+								1517
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".\"'/@<",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-typescript"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/about/index.tsx",
+							"show_definitions": false,
+							"syntax": "Packages/JavaScript/TSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/ui/about/keyframes.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								432,
+								432
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".\"'/@<",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-typescript"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/about/keyframes.ts",
+							"open_with_edit": true,
+							"show_definitions": false,
+							"syntax": "Packages/JavaScript/TypeScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/ui/about/whatIdo.tsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								355,
+								355
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".\"'/@<",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-typescript"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/about/whatIdo.tsx",
+							"open_with_edit": true,
+							"show_definitions": false,
+							"syntax": "Packages/JavaScript/TSX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/app/ui/svgs.tsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6013,
+								6013
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".\"'/@<",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-typescript"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										6015,
+										6016
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										4721,
+										4722
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/svgs.tsx",
+							"open_with_edit": true,
+							"show_definitions": false,
+							"syntax": "Packages/JavaScript/TSX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 897.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/app/page.tsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								78
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".\"'/@<",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-typescript"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										78,
+										79
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										66,
+										67
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 2,
+							"lsp_uri": "file:///Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/page.tsx",
+							"show_definitions": false,
+							"syntax": "Packages/JavaScript/TSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 604,
 						"regions":
 						{
 							"rb_l0_JSON":
@@ -974,8 +2990,8 @@
 										1
 									],
 									[
-										495,
-										496
+										602,
+										603
 									]
 								],
 								"scope": "JSON.l0.rb"
@@ -998,16 +3014,16 @@
 										199
 									],
 									[
-										302,
-										303
+										409,
+										410
 									],
 									[
-										326,
-										327
+										433,
+										434
 									],
 									[
-										493,
-										494
+										600,
+										601
 									]
 								],
 								"scope": "JSON.l1.rb"
@@ -1016,8 +3032,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								205,
+								209
 							]
 						],
 						"settings":
@@ -1029,24 +3045,24 @@
 								{
 									"1":
 									[
-										495,
-										496
+										218,
+										219
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
 									]
 								},
 								"open":
 								{
 									"1":
 									[
-										0,
-										1
+										204,
+										205
 									]
 								},
 								"unmatched":
@@ -1055,11 +3071,26 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -1070,31 +3101,6 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -1105,11 +3111,21 @@
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"lsp_uri": "file:///Users/DEV-CHUKS/Desktop/projects/chuksFestus/package.json",
 							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
@@ -1120,7 +3136,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -1204,11 +3220,55 @@
 		"selected_items":
 		[
 			[
-				"about",
+				"",
+				"src/app/ui/about/magic.tsx"
+			],
+			[
+				"pa",
+				"src/app/page.tsx"
+			],
+			[
+				"head",
+				"src/app/ui/header/index.tsx"
+			],
+			[
+				"hea",
+				"src/app/ui/header.tsx"
+			],
+			[
+				"ab",
 				"src/app/ui/about.tsx"
 			],
 			[
-				"",
+				"pack",
+				"package.json"
+			],
+			[
+				"w",
+				"src/app/ui/wrapper.tsx"
+			],
+			[
+				"util",
+				"src/app/lib/utils/index.ts"
+			],
+			[
+				"text",
+				"src/app/ui/text.tsx"
+			],
+			[
+				"wea",
+				"src/app/ui/wrapper.tsx"
+			],
+			[
+				"h",
+				"src/app/ui/header.tsx"
+			],
+			[
+				"page",
+				"src/app/page.tsx"
+			],
+			[
+				"about",
 				"src/app/ui/about.tsx"
 			],
 			[
@@ -1224,20 +3284,12 @@
 				"src/app/ui/header.tsx"
 			],
 			[
-				"hea",
-				"src/component/header.tsx"
-			],
-			[
 				"tex",
 				"src/component/text.tsx"
 			],
 			[
 				"\\",
 				"src/component/about.tsx"
-			],
-			[
-				"text",
-				"src/component/text.tsx"
 			],
 			[
 				"a",
@@ -1248,19 +3300,7 @@
 				"src/utils/index.ts"
 			],
 			[
-				"head",
-				"src/component/header.tsx"
-			],
-			[
 				"pag",
-				"src/app/page.tsx"
-			],
-			[
-				"ab",
-				"src/component/about.tsx"
-			],
-			[
-				"pa",
 				"src/app/page.tsx"
 			],
 			[
@@ -1302,10 +3342,6 @@
 			[
 				"logo",
 				"public/logo.svg"
-			],
-			[
-				"w",
-				"src/component/wrapper.tsx"
 			],
 			[
 				"gl",
@@ -1378,10 +3414,6 @@
 			[
 				"inpu",
 				"components/input.tsx"
-			],
-			[
-				"pack",
-				"package.json"
 			],
 			[
 				"font",
@@ -1482,10 +3514,6 @@
 			[
 				"sum",
 				"src/utils/summon.ts"
-			],
-			[
-				"util",
-				"src/utils/index.ts"
 			],
 			[
 				"col",

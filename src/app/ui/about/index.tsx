@@ -1,43 +1,15 @@
 "use client";
-import { MutableRefObject, useEffect, useLayoutEffect, useRef } from "react";
-import styled, { keyframes } from "styled-components";
+import { MutableRefObject, useLayoutEffect, useRef } from "react";
+import styled from "styled-components";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
-import Text from "./text";
-import { calibre, em, rem, sfMono } from "../lib/utils";
+import Text from "../text";
+import { calibre, em, rem, sfMono } from "@/app/lib/utils";
 import AboutCont from "./whatIdo";
 import SplitType from "split-type";
-
-const backgroundPan = keyframes`
- from {
-    background-position: 0% center;
-  }
-  
-  to {
-    background-position: -200% center;
-  }
-`;
-
-const scale = keyframes`
-  from, to {
-    transform: scale(0);
-  }
-  
-  50% {
-    transform: scale(1);
-  }
-`;
-
-const rotate = keyframes`
-	from {
-    transform: rotate(0deg);
-  }
-  
-  to {
-    transform: rotate(180deg);
-  }
-`;
+import { backgroundPan } from "./keyframes";
+import Magic from "./magic";
 
 const Container = styled.section`
 	--orange1: #ff790e;
@@ -81,73 +53,15 @@ const Container = styled.section`
 			animation: ${backgroundPan} 3s linear infinite;
 			background-size: 200%;
 		}
-		.magic {
-			display: inline-block;
-			position: relative;
-			.magic-star {
-				--size: clamp(20px, 1.5vw, 30px);
-
-				animation: ${scale} 700ms ease forwards;
-				display: block;
-				height: var(--size);
-				left: var(--star-left);
-				position: absolute;
-				top: var(--star-top);
-				width: var(--size);
-				svg {
-					animation: ${rotate} 1000ms linear infinite;
-					display: block;
-					opacity: 0.7;
-					path {
-						fill: var(--orange2);
-					}
-				}
-			}
-		}
 	}
 `;
 
-interface StarElement extends HTMLElement {
-	style: CSSStyleDeclaration;
-}
-
 gsap.registerPlugin(ScrollTrigger);
+
 export default function About() {
 	const magicRef = useRef(null);
 	useMagicAnimation(magicRef);
 
-	useEffect(() => {
-		const interval = 1000;
-		const stars = Array.from(document.getElementsByClassName("magic-star")) as StarElement[];
-
-		const rand = (min: number, max: number): number =>
-			Math.floor(Math.random() * (max - min + 1)) + min;
-
-		const animate = (star: StarElement): void => {
-			star.style.setProperty("--star-left", `${rand(-10, 100)}%`);
-			star.style.setProperty("--star-top", `${rand(-40, 80)}%`);
-
-			star.style.animation = "none";
-			star.offsetHeight;
-			star.style.animation = "";
-		};
-
-		const startAnimation = (): void => {
-			for (const star of stars) {
-				animate(star);
-			}
-		};
-
-		startAnimation();
-
-		const intervalId = setInterval(() => {
-			startAnimation();
-		}, interval);
-
-		return () => {
-			clearInterval(intervalId);
-		};
-	}, []);
 	return (
 		<Container>
 			<div className="innerContainer" ref={magicRef}>
@@ -165,12 +79,7 @@ export default function About() {
 							functional user interfaces. I&apos;m <span>passionate </span> about creating
 							experiences that are both{" "}
 						</span>
-						<span className="magic">
-							<Star />
-							<Star />
-							<Star />
-							<span className="orange">visually stunning and easy to use</span>.
-						</span>
+						<Magic />
 					</Text>
 				</div>
 				<AboutCont />
@@ -178,16 +87,6 @@ export default function About() {
 		</Container>
 	);
 }
-
-const Star = () => {
-	return (
-		<span className="magic-star">
-			<svg viewBox="0 0 512 512">
-				<path d="M512 255.1c0 11.34-7.406 20.86-18.44 23.64l-171.3 42.78l-42.78 171.1C276.7 504.6 267.2 512 255.9 512s-20.84-7.406-23.62-18.44l-42.66-171.2L18.47 279.6C7.406 276.8 0 267.3 0 255.1c0-11.34 7.406-20.83 18.44-23.61l171.2-42.78l42.78-171.1C235.2 7.406 244.7 0 256 0s20.84 7.406 23.62 18.44l42.78 171.2l171.2 42.78C504.6 235.2 512 244.6 512 255.1z" />
-			</svg>
-		</span>
-	);
-};
 
 type TargetElement = HTMLElement;
 

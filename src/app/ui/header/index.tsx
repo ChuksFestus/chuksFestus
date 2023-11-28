@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 import Navigation from "../nav";
 import Text from "../text";
-import { calibre, device, em, sfMono } from "@/app/lib/utils";
+import { calibre, device, em, rem, sfMono } from "@/app/lib/utils";
 import pic from "../../../../public/chuksFestus.png";
 import { useEffect, useRef } from "react";
 
@@ -23,7 +23,7 @@ const Container = styled.section`
 		padding-top: 1.25rem;
 	}
 	.innerContainer {
-		max-width: 1200px;
+		max-width: ${rem(1200)};
 		margin: 0 auto;
 		height: 100%;
 	}
@@ -35,14 +35,11 @@ const InnerContainer = styled.div`
 	align-items: center;
 	flex-direction: column;
 	gap: ${em(20)};
-	padding-top: 40px;
+	padding-top: ${rem(40)};
 	overflow: hidden;
 	height: calc(100% - 80px);
 	.content {
 		width: 100%;
-		@media ${device.mobileS} {
-			width: min-content;
-		}
 	}
 	@media ${device.tablet} {
 		padding-top: 0;
@@ -85,6 +82,7 @@ const InnerContainer = styled.div`
 
 const H1 = styled(Text)`
 	text-wrap: nowrap;
+	white-space: nowrap;
 	font-weight: 600;
 	padding-top: ${em(2)};
 `;
