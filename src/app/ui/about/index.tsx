@@ -91,7 +91,7 @@ export default function About() {
 type TargetElement = HTMLElement;
 
 const animateElement = (char: TargetElement) => {
-	const text = new SplitType(char, { types: "chars" });
+	const text = new SplitType(char, { types: "chars,words" });
 	gsap.from(text.chars, {
 		scrollTrigger: {
 			trigger: char,
