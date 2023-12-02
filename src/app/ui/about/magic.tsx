@@ -20,7 +20,7 @@ const MagicStyle = styled.span`
 			display: block;
 			opacity: 0.7;
 			path {
-				fill: var(--orange2);
+				fill: var(--pink);
 			}
 		}
 	}

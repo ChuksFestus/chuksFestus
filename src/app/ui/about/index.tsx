@@ -12,8 +12,12 @@ import { backgroundPan } from "./keyframes";
 import Magic from "./magic";
 
 const Container = styled.section`
-	--orange1: #ff790e;
-	--orange2: #ff0ead;
+	--orange: hsl(27.21deg 99.78% 51.59%);
+	--pink: oklch(0.66 0.27 348.99);
+	@media (color-gamut: p3) {
+		--orange: oklch(0.72 0.19 49.44);
+		--pink: oklch(0.66 0.27 348.99);
+	}
 	margin: 1rem 1.25rem;
 	background: var(--not-white);
 	border-radius: ${em(8)};
@@ -42,12 +46,12 @@ const Container = styled.section`
 			padding-bottom: ${rem(32)};
 		}
 		.blue {
-			background: -webkit-linear-gradient(0deg, #5c02ff 0%, #21005c 102.56%);
+			background: -webkit-linear-gradient(0deg, #5c02ff 0%, var(--dark-blue) 102.56%);
 			-webkit-background-clip: text;
 			-webkit-text-fill-color: transparent;
 		}
 		.orange {
-			background: -webkit-linear-gradient(0deg, #ff790e 0%, #ff0ead 102.56%);
+			background: -webkit-linear-gradient(0deg, var(--orange) 0%, var(--pink) 102.56%);
 			-webkit-background-clip: text;
 			-webkit-text-fill-color: transparent;
 			animation: ${backgroundPan} 3s linear infinite;
