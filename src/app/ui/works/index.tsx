@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { calibre, device, em, rem, sfMono } from "@/app/lib/utils";
+import { device, em, rem, sfMono } from "@/app/lib/utils";
 import Text from "../text";
 
 const Container = styled.section`
@@ -26,9 +26,6 @@ const Container = styled.section`
 	}
 	@media ${device.mobileS} {
 		height: 100%;
-		// margin: 0.5rem;
-		// padding: 0.75rem;
-		// padding-top: 1.25rem;
 	}
 	@media ${device.tablet} {
 		height: calc(100vh - 2rem);
