@@ -4,7 +4,7 @@ import styled from "styled-components";
 import Navigation from "../nav";
 import Text from "../text";
 import { calibre, device, em, rem, sfMono } from "@/app/lib/utils";
-import pic from "../../../../public/chuksFestus.png";
+import pic from "../../../../public/chuksFestus.avif";
 import { useEffect, useRef } from "react";
 
 import Socials from "./socials";
