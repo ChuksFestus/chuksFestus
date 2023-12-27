@@ -1,15 +1,9 @@
 import React from "react";
 import styled from "styled-components";
-import { device, em, rem, sfMono } from "@/app/lib/utils";
+import { calibre, device, em, rem, sfMono } from "@/app/lib/utils";
 import Text from "../text";
 
 const Container = styled.section`
-	--orange: hsl(27.21deg 99.78% 51.59%);
-	--pink: oklch(0.66 0.27 348.99);
-	@media (color-gamut: p3) {
-		--orange: oklch(0.72 0.19 49.44);
-		--pink: oklch(0.66 0.27 348.99);
-	}
 	margin: 1rem 1.25rem;
 	background: var(--not-white);
 	border-radius: ${em(8)};
@@ -65,11 +59,11 @@ const Grid = styled.div`
 		@media ${device.tablet} {
 			height: 100%;
 		}
-		h3 {
+		h6 {
 			border-radius: 12px;
-			background: rgba(5, 46, 64, 0.4);
+			background: var(--not-black);
 			padding: 12px 24px;
-			padding-bottom: 0;
+			padding-bottom: 8px !important;
 			color: var(--not-white);
 			width: fit-content;
 		}
@@ -125,14 +119,30 @@ export default function Works() {
 				</Text>
 				<Grid>
 					<div className="edcentral">
-						{/*<Text variant="h3" className={`${calibre.className}`}>
-							Edcentral
-						</Text>*/}
+						<Text variant="h6" className={`${calibre.className}`}>
+							edcentral
+						</Text>
 					</div>
-					<div className="swwipe"></div>
-					<div className="suregifts"></div>
-					<div className="busha"></div>
-					<div className="readycash"></div>
+					<div className="swwipe">
+						<Text variant="h6" className={`${calibre.className}`}>
+							swwipe
+						</Text>
+					</div>
+					<div className="suregifts">
+						<Text variant="h6" className={`${calibre.className}`}>
+							suregifts
+						</Text>
+					</div>
+					<div className="busha">
+						<Text variant="h6" className={`${calibre.className}`}>
+							busha
+						</Text>
+					</div>
+					<div className="readycash">
+						<Text variant="h6" className={`${calibre.className}`}>
+							secoura
+						</Text>
+					</div>
 				</Grid>
 			</div>
 		</Container>
