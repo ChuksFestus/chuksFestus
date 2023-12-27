@@ -112,9 +112,10 @@ export default function AboutCont() {
 					</Text>
 				</summary>
 				<p className={`${calibre.className}`}>
-					I shape the web with art and logic, Creating front end applications that are dynamic and
-					ergonomic. I design, build, test and maintain with care and precision, Ensuring
-					scalability and performance in every condition.
+					I paint pixels with purpose, crafting interfaces that sing with both beauty and utility,
+					My brushstrokes are guided by empathy and intention, shaping interactions that feel
+					effortless and intuitive. From wireframes to high-fidelity mockups, I breathe life into
+					digital spaces, weaving visual stories that captivate and inspire.
 				</p>
 			</details>
 		</WhatIdo>

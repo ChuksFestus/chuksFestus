@@ -1,6 +1,8 @@
 /* eslint-disable react/no-unescaped-entities */
 "use client";
 import styled from "styled-components";
+import { MouseEvent, RefObject, useRef, useState } from "react";
+import { motion } from "framer-motion";
 
 import Text from "../text";
 import { calibre, device, em, rem, sfMono } from "@/app/lib/utils";
@@ -76,6 +78,10 @@ const Container = styled.section`
 				position: absolute;
 				right: 5rem;
 				cursor: pointer;
+				a {
+					text-decoration: none;
+					color: var(--not-white);
+				}
 				h6 {
 					text-wrap: nowrap;
 					font-size: 1rem;
@@ -87,6 +93,24 @@ const Container = styled.section`
 `;
 
 export default function Contact() {
+	const ref = useRef<HTMLHeadingElement | null>(null);
+	const [position, setPosition] = useState({ x: 0, y: 0 });
+
+	const mouseMove = (e: MouseEvent) => {
+		const { clientX, clientY } = e;
+		if (ref.current) {
+			const { width, height, left, top } = ref.current.getBoundingClientRect();
+			const x = clientX - (left + width / 2);
+			const y = clientY - (top + height / 2);
+			setPosition({ x, y });
+		}
+	};
+
+	const mouseLeave = () => {
+		setPosition({ x: 0, y: 0 });
+	};
+
+	const { x, y } = position;
 	return (
 		<Container>
 			<div className="innerContainer">
@@ -105,11 +129,19 @@ export default function Contact() {
 				</Text>
 				<div className="lower">
 					<div className="stripe"></div>
-					<div className={`touch ${sfMono.className}`}>
-						<Text variant="h6" className={`${sfMono.className}`}>
-							Get in touch
-						</Text>
-					</div>
+					<motion.div
+						animate={{ x, y }}
+						onMouseMove={mouseMove}
+						onMouseLeave={mouseLeave}
+						ref={ref as RefObject<HTMLDivElement>}
+						className="touch"
+					>
+						<a href="mailto:hello@chuksfestus.dev">
+							<Text variant="h6" className={`${sfMono.className}`}>
+								Get in touch
+							</Text>
+						</a>
+					</motion.div>
 				</div>
 			</div>
 		</Container>
