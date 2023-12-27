@@ -51,7 +51,7 @@ const InnerContainer = styled.div`
 		grid-template-columns: 1fr 1fr;
 	}
 	.img {
-		background: url("/chuksFestus.png");
+		background: url("/chuksFestus.avif");
 		height: 100%;
 		width: 100%;
 		background-size: contain;
