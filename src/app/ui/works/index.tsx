@@ -44,6 +44,7 @@ const Grid = styled.div`
 	grid-template-rows: repeat(5, 1fr);
 	gap: 1rem;
 	height: 100%;
+	a,
 	div {
 		border-radius: ${rem(12)};
 		box-shadow:
@@ -56,6 +57,7 @@ const Grid = styled.div`
 		justify-content: end;
 		padding: 1rem;
 		height: 284px;
+		text-decoration: none;
 		@media ${device.tablet} {
 			height: 100%;
 		}
@@ -123,26 +125,26 @@ export default function Works() {
 							edcentral
 						</Text>
 					</div>
-					<div className="swwipe">
+					<a target="_blank" href="https://www.swwipe.com/" className="swwipe">
 						<Text variant="h6" className={`${calibre.className}`}>
 							swwipe
 						</Text>
-					</div>
-					<div className="suregifts">
+					</a>
+					<a target="_blank" href="https://suregifts.com.ng/" className="suregifts">
 						<Text variant="h6" className={`${calibre.className}`}>
 							suregifts
 						</Text>
-					</div>
-					<div className="busha">
+					</a>
+					<a href="https://busha.co/" target="_blank" className="busha">
 						<Text variant="h6" className={`${calibre.className}`}>
 							busha
 						</Text>
-					</div>
-					<div className="readycash">
+					</a>
+					<a target="_blank" href="https://secoura.com/" className="readycash">
 						<Text variant="h6" className={`${calibre.className}`}>
 							secoura
 						</Text>
-					</div>
+					</a>
 				</Grid>
 			</div>
 		</Container>
