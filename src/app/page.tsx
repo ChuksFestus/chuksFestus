@@ -2,7 +2,7 @@
 
 import { useScroll } from "framer-motion";
 import About from "./ui/about";
-import Contact from "./ui/contact/page";
+import Contact from "./ui/contact";
 import Header from "./ui/header";
 import Works from "./ui/works";
 

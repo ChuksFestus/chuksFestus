@@ -4,6 +4,9 @@ const nextConfig = {
 		formats: ["image/avif", "image/webp"],
 		minimumCacheTTL: 60,
 	},
+	compiler: {
+		styledComponents: true,
+	},
 };
 
 module.exports = nextConfig;
