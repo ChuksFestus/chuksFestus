@@ -39,7 +39,10 @@ const styles: { [K in Variant]: ReturnType<typeof css> } = {
 		font-size: clamp(2.375rem, 1.477vw + 2.08rem, 3.188rem);
 		line-height: clamp(3.563rem, 1.057vw + 3.351rem, 4.144rem);
 	`,
-	h4: css``,
+	h4: css`
+		font-size: clamp(1.313rem, 1.963vw + 0.805rem, 2.375rem);
+		line-height: clamp(1.969rem, 2.067vw + 1.434rem, 3.088rem);
+	`,
 	h5: css``,
 	h6: css`
 		font-size: clamp(1rem, 0.835vw + 0.778rem, 1.313rem);

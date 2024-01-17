@@ -121,16 +121,11 @@ export default function Works() {
 					Featured Projects
 				</Text>
 				<Grid>
-					{/*<Link href="/projects" className="edcentral">
+					<Link href="/projects" className="edcentral">
 						<Text variant="h6" className={`${calibre.className}`}>
 							edcentral
 						</Text>
-					</Link>*/}
-					<div className="edcentral">
-						<Text variant="h6" className={`${calibre.className}`}>
-							edcentral
-						</Text>
-					</div>
+					</Link>
 					<a target="_blank" href="https://www.swwipe.com/" className="swwipe">
 						<Text variant="h6" className={`${calibre.className}`}>
 							swwipe
