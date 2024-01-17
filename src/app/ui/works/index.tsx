@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import Link from "next/link";
 import { calibre, device, em, rem, sfMono } from "@/app/lib/utils";
 import Text from "../text";
 
@@ -120,6 +121,11 @@ export default function Works() {
 					Featured Projects
 				</Text>
 				<Grid>
+					{/*<Link href="/projects" className="edcentral">
+						<Text variant="h6" className={`${calibre.className}`}>
+							edcentral
+						</Text>
+					</Link>*/}
 					<div className="edcentral">
 						<Text variant="h6" className={`${calibre.className}`}>
 							edcentral

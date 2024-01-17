@@ -520,18 +520,544 @@
 	"buffers":
 	[
 		{
-			"file": "portfolio.sublime-project",
+			"file": "src/app/projects/page.tsx",
 			"settings":
 			{
-				"buffer_size": 462,
+				"buffer_size": 683,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "rfc"
+					},
+					"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"insert_completion",
+					{
+						"completion": "import React from 'react'\n\nexport default function ${1:${TM_FILENAME/(.+)\\..+|.*/$1/:name}}() {\n\treturn (\n\t\t<div>\n\t\t\t$0\n\t\t</div>\n\t)\n}",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "rfc"
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAADAAAAcmZjAAAAAAAAAABfAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAADMAAAAAAAAAMwAAAAAAAAAEAAAAcGFnZQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAzAAAAAAAAADcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "Page"
+					},
+					"BAAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "Project"
+					},
+					"CAAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA0AAAAAAAAAAQAAABQYWdlNAAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAOgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAzAAAAAAAAADcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "hello"
+					},
+					"BQAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABZAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABUAAAAAAAAAFQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					21,
+					5,
+					"left_delete",
+					null,
+					"BQAAAFgAAAAAAAAAWAAAAAAAAAABAAAAb1cAAAAAAAAAVwAAAAAAAAABAAAAbFYAAAAAAAAAVgAAAAAAAAABAAAAbFUAAAAAAAAAVQAAAAAAAAABAAAAZVQAAAAAAAAAVAAAAAAAAAABAAAAaA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABZAAAAAAAAAFkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABkAAAAAAAAAGgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					35,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAAdgEAAAAAAAAAAAAAdgEAAAAAAAB2AQAAAAAAABoAAABpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnCg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAABoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAZEA"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					50,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAJwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					55,
+					1,
+					"paste",
+					null,
+					"AgAAANEBAAAAAAAAEwIAAAAAAAAAAAAAEwIAAAAAAAATAgAAAAAAABIAAAA8ZGl2PgoJCQkKCQk8L2Rpdj4",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADRAQAAAAAAAOMBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAABMCAAAAAAAAFAIAAAAAAAAAAAAAFAIAAAAAAAAYAgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAATAgAAAAAAABMCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "</div"
+					},
+					"BQAAABgCAAAAAAAAGQIAAAAAAAAAAAAAGQIAAAAAAAAaAgAAAAAAAAAAAAAaAgAAAAAAABsCAAAAAAAAAAAAABsCAAAAAAAAHAIAAAAAAAAAAAAAHAIAAAAAAAAdAgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAYAgAAAAAAABgCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": ">"
+					},
+					"AQAAAB0CAAAAAAAAHgIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAdAgAAAAAAAB0CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAB4CAAAAAAAAHwIAAAAAAAAAAAAAHwIAAAAAAAAjAgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAeAgAAAAAAAB4CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					63,
+					1,
+					"left_delete",
+					null,
+					"AQAAACICAAAAAAAAIgIAAAAAAAABAAAACQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAjAgAAAAAAACMCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "</"
+					},
+					"AgAAACICAAAAAAAAIwIAAAAAAAAAAAAAIwIAAAAAAAAkAgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAiAgAAAAAAACICAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					67,
+					1,
+					"insert_dimensions",
+					null,
+					"AQAAACQCAAAAAAAALQIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAkAgAAAAAAACQCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": ">"
+					},
+					"AQAAAC0CAAAAAAAALgIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAtAgAAAAAAAC0CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					70,
+					1,
+					"js_prettier",
+					{
+						"auto_format_prettier_config_path": null,
+						"save_file": true
+					},
+					"AgAAAAAAAAAAAAAAMgIAAAAAAAAzAgAAaW1wb3J0IHN0eWxlZCBmcm9tICJzdHlsZWQtY29tcG9uZW50cyI7Cgpjb25zdCBDb250YWluZXIgPSBzdHlsZWQuc2VjdGlvbmAKCW1hcmdpbjogMXJlbSAxLjI1cmVtOwoJYmFja2dyb3VuZDogdmFyKC0tbm90LXdoaXRlKTsKCWJvcmRlci1yYWRpdXM6IDhweDsKCXBhZGRpbmc6IDFyZW07CglwYWRkaW5nLXRvcDogMi41cmVtOwoJaGVpZ2h0OiBjYWxjKDEwMHZoIC0gMnJlbSk7CgltYXgtaGVpZ2h0OiAxMTE3cHg7CglAbWVkaWEgKHdpZHRoIDw9IDQyNXB4KSB7CgkJbWFyZ2luOiAwLjVyZW07CgkJcGFkZGluZzogMC43NXJlbTsKCQlwYWRkaW5nLXRvcDogMS4yNXJlbTsKCX0KCS5pbm5lckNvbnRhaW5lciB7CgkJbWF4LXdpZHRoOiAke3JlbSgxMjAwKX07CgkJbWFyZ2luOiAwIGF1dG87CgkJaGVpZ2h0OiAxMDAlOwoJfQpgOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUHJvamVjdCgpIHsKCXJldHVybiAoCgkJPENvbnRhaW5lcj4KCQkJPGRpdiBjbGFzc05hbWU9ImlubmVyQ29udGFpbmVyIj4KCQkJCTxOYXZpZ2F0aW9uIC8+CgkJCQk8L2Rpdj4KCQkJPC9Db250YWluZXI+CgkpCn0yAgAAAAAAADMCAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAuAgAAAAAAAC4CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					79,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					81,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAACgAAAAAAAAAKQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAoAAAAAAAAACgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					83,
+					1,
+					"paste",
+					null,
+					"AQAAACkAAAAAAAAASQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					121,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEQAAAAAAAAARAAAAAAAAAADAAAAbmF2",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAAAAAAAAAEcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					122,
+					1,
+					"reload_auto_complete",
+					null,
+					"AQAAAEMAAAAAAAAAQwAAAAAAAAABAAAALw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAAAAAAAAAEQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					123,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEEAAAAAAAAAQQAAAAAAAAACAAAALi4",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAAAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					124,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAEAAAAAAAAAAQAAAAAAAAAABAAAAIkAAAAAAAAAAQAAAAAAAAAABAAAAIg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAAAAAAAAAEEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					125,
+					1,
+					"insert",
+					{
+						"characters": "\"\""
+					},
+					"AgAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQQAAAAAAAABCAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					127,
+					1,
+					"insert",
+					{
+						"characters": "../"
+					},
+					"AwAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAAAAAAAAAEEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					128,
+					1,
+					"reload_auto_complete",
+					null,
+					"AQAAAEMAAAAAAAAAQwAAAAAAAAABAAAALw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAAAAAAAAAEQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					129,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEEAAAAAAAAAQQAAAAAAAAACAAAALi4",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAAAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					130,
+					1,
+					"insert",
+					{
+						"characters": "./ui"
+					},
+					"BAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAAAAAAAAAEEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					131,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAEUAAAAAAAAARgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABFAAAAAAAAAEUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					132,
+					1,
+					"insert",
+					{
+						"characters": "nav"
+					},
+					"AwAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABGAAAAAAAAAEYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					145,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEsAAAAAAAAATAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABLAAAAAAAAAEsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					147,
+					1,
+					"paste",
+					null,
+					"AQAAAEwAAAAAAAAAawAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABMAAAAAAAAAEwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					159,
+					1,
+					"paste",
+					null,
+					"AgAAAEEAAAAAAAAASwAAAAAAAAAAAAAASwAAAAAAAABLAAAAAAAAAAgAAAAuL3VpL25hdg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABJAAAAAAAAAEEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					162,
+					1,
+					"cut",
+					null,
+					"AQAAAE4AAAAAAAAATgAAAAAAAAAgAAAAaW1wb3J0IEFib3V0IGZyb20gIi4vdWkvYWJvdXQiOwo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABtAAAAAAAAAG0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					179,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAAEEAAAAAAAAAQgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAAAAAAAAAEEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					192,
+					1,
+					"insert",
+					{
+						"characters": "nav"
+					},
+					"BAAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABIAAAAAAAAAAUAAABhYm91dEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABHAAAAAAAAAEwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					195,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					197,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					200,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					201,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					202,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAEAAAAAAAAAAQAAAAAAAAABAAAAcw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					203,
+					1,
+					"insert",
+					{
+						"characters": "use"
+					},
+					"AwAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAQAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					204,
+					1,
+					"insert",
+					{
+						"characters": " client"
+					},
+					"BwAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					206,
+					1,
+					"js_prettier",
+					{
+						"auto_format_prettier_config_path": null,
+						"save_file": true
+					},
+					"AgAAAAAAAAAAAAAAZgIAAAAAAABmAgAAJ3VzZSBjbGllbnQnCgppbXBvcnQgc3R5bGVkIGZyb20gInN0eWxlZC1jb21wb25lbnRzIjsKCmltcG9ydCBOYXZpZ2F0aW9uIGZyb20gIi4uL3VpL25hdiI7Cgpjb25zdCBDb250YWluZXIgPSBzdHlsZWQuc2VjdGlvbmAKCW1hcmdpbjogMXJlbSAxLjI1cmVtOwoJYmFja2dyb3VuZDogdmFyKC0tbm90LXdoaXRlKTsKCWJvcmRlci1yYWRpdXM6IDhweDsKCXBhZGRpbmc6IDFyZW07CglwYWRkaW5nLXRvcDogMi41cmVtOwoJaGVpZ2h0OiBjYWxjKDEwMHZoIC0gMnJlbSk7CgltYXgtaGVpZ2h0OiAxMTE3cHg7CglAbWVkaWEgKHdpZHRoIDw9IDQyNXB4KSB7CgkJbWFyZ2luOiAwLjVyZW07CgkJcGFkZGluZzogMC43NXJlbTsKCQlwYWRkaW5nLXRvcDogMS4yNXJlbTsKCX0KCS5pbm5lckNvbnRhaW5lciB7CgkJbWF4LXdpZHRoOiAke3JlbSgxMjAwKX07CgkJbWFyZ2luOiAwIGF1dG87CgkJaGVpZ2h0OiAxMDAlOwoJfQpgOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUHJvamVjdCgpIHsKCXJldHVybiAoCgkJPENvbnRhaW5lcj4KCQkJPGRpdiBjbGFzc05hbWU9ImlubmVyQ29udGFpbmVyIj4KCQkJCTxOYXZpZ2F0aW9uIC8+CgkJCTwvZGl2PgoJCTwvQ29udGFpbmVyPgoJKTsKfQpmAgAAAAAAAGcCAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					221,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAFsAAAAAAAAAXAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABbAAAAAAAAAFsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					223,
+					1,
+					"paste",
+					null,
+					"AQAAAFwAAAAAAAAAnwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABcAAAAAAAAAFwAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
 		},
 		{
-			"file": "src/app/ui/about/magic.tsx",
+			"file": "src/app/ui/works/index.tsx",
+			"redo_stack":
+			[
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "<"
+					},
+					"AQAAAPMJAAAAAAAA8wkAAAAAAAABAAAAPA",
+					"AQAAAAAAAAABAAAA9AkAAAAAAAD0CQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"cut",
+					null,
+					"AQAAAPMJAAAAAAAAdgoAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8wkAAAAAAADzCQAAAAAAAAAAAAAAAPC/"
+				]
+			],
 			"settings":
 			{
-				"buffer_size": 2087,
+				"buffer_size": 3419,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "src/app/lib/utils/index.ts",
+			"settings":
+			{
+				"buffer_size": 1391,
 				"line_ending": "Unix"
 			},
 			"undo_stack":
@@ -551,8 +1077,48 @@
 		"selected_items":
 		[
 			[
+				"lsp",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lsp sett",
+				"Preferences: LSP Settings"
+			],
+			[
 				"edi",
 				"Project: Edit"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"res",
+				"LSP: Restart Server"
+			],
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"gi",
+				"git: status"
+			],
+			[
+				"t",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"git s",
+				"git: status"
+			],
+			[
+				"git",
+				"git: status"
 			],
 			[
 				"colo",
@@ -571,23 +1137,11 @@
 				"Terminus: Open Default Shell in Tab (View)"
 			],
 			[
-				"git",
-				"git: status"
-			],
-			[
 				"git ",
 				"git: status"
 			],
 			[
-				"ter",
-				"Terminus: Toggle Panel"
-			],
-			[
 				"git statu",
-				"git: status"
-			],
-			[
-				"git s",
 				"git: status"
 			],
 			[
@@ -635,10 +1189,6 @@
 				"LSP: Format File"
 			],
 			[
-				"t",
-				"Terminus: Toggle Panel"
-			],
-			[
 				"lsp dia",
 				"LSP: Toggle Diagnostics Panel"
 			],
@@ -655,10 +1205,6 @@
 				"UI: Select Theme"
 			],
 			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
 				"file new",
 				"File: New File Relative to Project Root"
 			],
@@ -671,10 +1217,6 @@
 				"git: branch"
 			],
 			[
-				"res",
-				"LSP: Restart Server"
-			],
-			[
 				"form",
 				"JsPrettier: Format Code"
 			],
@@ -685,10 +1227,6 @@
 			[
 				"lsp ",
 				"LSP: Disable Language Server in Project"
-			],
-			[
-				"lsp",
-				"LSP: Enable Language Server in Project"
 			],
 			[
 				"lsp en",
@@ -818,31 +1356,31 @@
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app",
-		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui",
-		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/about"
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/lib",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/lib/utils"
 	],
 	"file_history":
 	[
-		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/page.tsx",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/portfolio.sublime-project",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/text.tsx",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/header/index.tsx",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/page.tsx",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/next.config.js",
+		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/nav.tsx",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/header/socials.tsx",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/header/svgAnimate.tsx",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/about/index.tsx",
-		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/text.tsx",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/lib/utils/index.ts",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/layout.tsx",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/contact/page.tsx",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/works/index.tsx",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/about/whatIdo.tsx",
-		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/next.config.js",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/wrapper.tsx",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/about/magic.tsx",
-		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/portfolio.sublime-project",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/README.md",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/lib/utils/useMouse.ts",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/public/mask.svg",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/svgs.tsx",
-		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/nav.tsx",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/about/about2.tsx",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/about/keyframes.ts",
 		"/Users/DEV-CHUKS/Desktop/projects/chuksFestus/package.json",
@@ -1032,142 +1570,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "portfolio.sublime-project",
+					"file": "src/app/projects/page.tsx",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 462,
+						"buffer_size": 683,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								239,
-								390
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										457,
-										458
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										115,
-										116
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"lsp_uri": "file:///Users/DEV-CHUKS/Desktop/projects/chuksFestus/portfolio.sublime-project",
-							"open_with_edit": true,
-							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/app/ui/about/magic.tsx",
-					"selected": true,
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 2087,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1933,
-								1933
+								536,
+								536
 							]
 						],
 						"settings":
@@ -1181,11 +1596,125 @@
 								{
 									"rhs_empty": true,
 									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/projects/page.tsx",
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/TSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/ui/works/index.tsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2547,
+								2678
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
 								},
 								{
-									"characters": ".\"'/@<",
-									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
-									"server": "LSP-typescript"
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
 								}
 							],
 							"bracket_highlighter.busy": false,
@@ -1195,24 +1724,24 @@
 								{
 									"1":
 									[
-										2085,
-										2086
+										3414,
+										3415
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
 									]
 								},
 								"open":
 								{
 									"1":
 									[
-										1158,
-										1159
+										2386,
+										2387
 									]
 								},
 								"unmatched":
@@ -1221,72 +1750,189 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
 							],
 							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
-							"lsp_uri": "file:///Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/about/magic.tsx",
-							"show_definitions": false,
+							"lsp_uri": "file:///Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/ui/works/index.tsx",
 							"syntax": "Packages/JavaScript/TSX.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 492.0,
+						"translation.y": 1616.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/lib/utils/index.ts",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								733,
+								733
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/DEV-CHUKS/Desktop/projects/chuksFestus/src/app/lib/utils/index.ts",
+							"syntax": "Packages/JavaScript/TypeScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1333,7 +1979,7 @@
 	},
 	"output.LSP Log Panel":
 	{
-		"height": 0.0
+		"height": 140.0
 	},
 	"output.SublimeLinter":
 	{
@@ -1373,16 +2019,24 @@
 		"selected_items":
 		[
 			[
+				"work",
+				"src/app/ui/works/index.tsx"
+			],
+			[
 				"",
-				"src/app/ui/header/svgAnimate.tsx"
+				"src/app/projects/page.tsx"
 			],
 			[
 				"head",
 				"src/app/ui/header/index.tsx"
 			],
 			[
-				"work",
-				"src/app/ui/works/index.tsx"
+				"nav",
+				"src/app/ui/nav.tsx"
+			],
+			[
+				"header",
+				"src/app/ui/header/index.tsx"
 			],
 			[
 				"wo",
@@ -1422,10 +2076,6 @@
 			],
 			[
 				"hea",
-				"src/app/ui/header/index.tsx"
-			],
-			[
-				"header",
 				"src/app/ui/header/index.tsx"
 			],
 			[
@@ -1499,10 +2149,6 @@
 			[
 				"hr",
 				"src/component/header.tsx"
-			],
-			[
-				"nav",
-				"src/component/nav.tsx"
 			],
 			[
 				"con",
