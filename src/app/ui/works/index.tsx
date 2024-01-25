@@ -121,7 +121,7 @@ export default function Works() {
 					Featured Projects
 				</Text>
 				<Grid>
-					<Link href="/projects" className="edcentral">
+					<Link href="/projects/edcentral" className="edcentral">
 						<Text variant="h6" className={`${calibre.className}`}>
 							edcentral
 						</Text>

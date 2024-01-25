@@ -3,24 +3,24 @@
 import styled from "styled-components";
 import Image from "next/image";
 
-import Navigation from "../ui/nav";
+import Navigation from "../../ui/nav";
 import { calibre, device, em, rem, sfMono } from "@/app/lib/utils";
-import Text from "../ui/text";
-import pic from "../../../public/edcentral2.png";
-import wireframeLogin from "../../../public/wireframelogin.webp";
-import wireframemap from "../../../public/wireframemap.webp";
-import wireframelist from "../../../public/wireframelist.webp";
-import wireframeImages from "../../../public/wireframeImages.webp";
-import login from "../../../public/login.webp";
-import edcentralHome from "../../../public/edcentralHome.webp";
-import scholarships from "../../../public/scholaships.webp";
-import scholarship from "../../../public/scholaship.webp";
-import map from "../../../public/map.webp";
-import countries from "../../../public/countries.webp";
-import schools from "../../../public/schools.webp";
-import school from "../../../public/school.webp";
-import mockups from "../../../public/mockup.webp";
-import Contact from "../ui/contact";
+import Text from "../../ui/text";
+import pic from "../../../../public/edcentral2.png";
+import wireframeLogin from "../../../../public/wireframelogin.webp";
+import wireframemap from "../../../../public/wireframemap.webp";
+import wireframelist from "../../../../public/wireframelist.webp";
+import wireframeImages from "../../../../public/wireframeImages.webp";
+import login from "../../../../public/login.webp";
+import edcentralHome from "../../../../public/edcentralHome.webp";
+import scholarships from "../../../../public/scholaships.webp";
+import scholarship from "../../../../public/scholaship.webp";
+import map from "../../../../public/map.webp";
+import countries from "../../../../public/countries.webp";
+import schools from "../../../../public/schools.webp";
+import school from "../../../../public/school.webp";
+import mockups from "../../../../public/mockup.webp";
+import Contact from "../../ui/contact";
 
 const Container = styled.section`
 	margin: 1rem 1.25rem;
