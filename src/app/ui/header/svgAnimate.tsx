@@ -29,6 +29,7 @@ export default function FramerMagic({ children }: { children: React.ReactNode })
 				display: "flex",
 				justifyContent: "center",
 				alignItems: "center",
+				cursor: "pointer",
 			}}
 			animate={{ x, y }}
 			onMouseMove={mouseMove}
