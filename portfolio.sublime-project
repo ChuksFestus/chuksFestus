@@ -1,0 +1,37 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"folder_exclude_patterns": ["node_modules", ".next"],
+		}
+	],
+	"settings": {
+	// "font_face": "JetBrains Mono",
+	// "font_face": "Monaspace Radon",
+	"font_face": "Monaspace Neon",
+	"font_size": 11,
+	"font_options": [
+		"calt",
+		"liga",
+		"dlig",
+		"ss01",
+		"ss02",
+		"ss03",
+		"ss04",
+		"ss05",
+		"ss06",
+		"ss07",
+		"ss08",
+		"ss09",
+		"ss10",
+	],
+		"LSP":
+		{
+			"LSP-volar":
+			{
+				"enabled": false
+			}
+		},
+	},
+}
