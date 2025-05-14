@@ -167,7 +167,7 @@ export default function Header() {
 						</Text>
 						<Socials />
 					</div>
-					<div className="img"></div>
+					<div className="img" />
 					<Image
 						src={pic}
 						alt="Image of Chuks Festus"
