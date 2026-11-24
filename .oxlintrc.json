@@ -1,0 +1,32 @@
+{
+	"$schema": "./node_modules/oxlint/configuration_schema.json",
+	"plugins": ["react", "react-hooks", "typescript", "import", "jsx-a11y", "oxc", "unicorn"],
+	"categories": {
+		"correctness": "error",
+		"suspicious": "warn"
+	},
+	"env": {
+		"browser": true,
+		"es2024": true
+	},
+	"jsPlugins": [
+		{
+			"name": "stylex",
+			"specifier": "@stylexjs/eslint-plugin"
+		}
+	],
+	"rules": {
+		"react/react-in-jsx-scope": "off",
+		"react-hooks/rules-of-hooks": "error",
+		"react-hooks/exhaustive-deps": "warn",
+		"stylex/valid-styles": [
+			"error",
+			{
+				"allowOuterPseudoAndMedia": true
+			}
+		],
+		"stylex/valid-shorthands": "warn",
+		"stylex/sort-keys": "off"
+	},
+	"ignorePatterns": ["dist", ".output", ".tanstack", "src/routeTree.gen.ts"]
+}
