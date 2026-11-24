@@ -4,6 +4,7 @@
 # build output
 /dist
 /.output
+/.wrangler
 /.tanstack
 /.vite
 /src/routeTree.gen.ts
