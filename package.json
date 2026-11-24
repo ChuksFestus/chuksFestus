@@ -8,6 +8,7 @@
 		"build": "vite build && tsc --noEmit",
 		"start": "vite preview",
 		"preview": "vite preview",
+		"deploy:pages": "bun run build && wrangler pages deploy dist/client --project-name chuksfestus",
 		"lint": "oxlint",
 		"lint:fix": "oxlint --fix",
 		"format": "oxfmt",
@@ -37,6 +38,7 @@
 		"oxlint": "^1.95.0",
 		"sharp": "^0.35.5",
 		"typescript": "^7.0.2",
-		"vite": "^8.3.8"
+		"vite": "^8.3.8",
+		"wrangler": "^4.168.0"
 	}
 }
