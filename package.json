@@ -8,7 +8,7 @@
 		"build": "vite build && tsc --noEmit",
 		"start": "vite preview",
 		"preview": "vite preview",
-		"deploy:pages": "bun run build && wrangler pages deploy dist/client --project-name chuksfestus",
+		"deploy": "bun run build && wrangler deploy",
 		"lint": "oxlint",
 		"lint:fix": "oxlint --fix",
 		"format": "oxfmt",
