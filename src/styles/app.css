@@ -1,0 +1,98 @@
+@layer reset, base;
+
+@layer reset {
+	* {
+		padding: 0;
+		margin: 0;
+	}
+
+	*,
+	*::before,
+	*::after {
+		box-sizing: border-box;
+	}
+}
+
+@font-face {
+	font-family: "Calibre";
+	src: url("/fonts/CalibreRegular.woff2") format("woff2");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Calibre";
+	src: url("/fonts/CalibreSemibold.woff2") format("woff2");
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SF Mono";
+	src: url("/fonts/SFMono-Medium.woff2") format("woff2");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SF Mono";
+	src: url("/fonts/SFMono-Semibold.woff2") format("woff2");
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SF Mono";
+	src: url("/fonts/SFMono-Bold.woff2") format("woff2");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@layer base {
+	:root {
+		--not-white: hsl(0deg 0.35% 97.26%);
+		--dark-blue: hsl(261.52deg 100% 18.04%);
+		--not-black: hsla(198, 86%, 14%, 1);
+		--gray-4: hsla(0, 0%, 74%, 1);
+		--gray-3: hsl(223.81 0% 51%);
+		--orange: hsl(27.21deg 99.78% 51.59%);
+		--pink: oklch(0.66 0.27 348.99);
+		--gradient: linear-gradient(90deg, hsl(261.34deg 100% 50.39%) 0%, var(--dark-blue) 102.56%);
+		--font-calibre: "Calibre";
+		--font-sfmono: "SF Mono";
+	}
+
+	@media (color-gamut: p3) {
+		:root {
+			--not-white: oklch(97.91% 0 0);
+			--dark-blue: oklch(24.07% 0.139 286.46);
+			--not-black: oklch(29.12% 0.055 232.24);
+			--gray-4: oklch(79.74% 0 0);
+			--gray-3: oklch(60.68% 0 0);
+			--orange: oklch(0.72 0.19 49.44);
+			--gradient: linear-gradient(90deg, oklch(49.54% 0.294 282.11) 0%, var(--dark-blue) 102.56%);
+		}
+	}
+
+	html,
+	body {
+		max-width: 100vw;
+		overflow-x: hidden;
+	}
+
+	body {
+		background: var(--gradient);
+		color: var(--not-black);
+		font-family: var(--font-calibre), sans-serif;
+		font-synthesis: none;
+	}
+
+	summary::-webkit-details-marker {
+		display: none;
+	}
+}
